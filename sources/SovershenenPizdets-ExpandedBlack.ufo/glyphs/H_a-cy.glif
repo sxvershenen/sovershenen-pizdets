@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha-cy" format="2">
+  <advance width="781.5281509433962"/>
+  <unicode hex="0425"/>
+  <anchor x="391.07432075471695" y="0.0" name="bottom"/>
+  <anchor x="391.07432075471695" y="667.36" name="top"/>
+  <outline>
+    <component base="X"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn" format="2">
+  <advance width="574.0765283018868"/>
+  <unicode hex="01B0"/>
+  <anchor x="287.43171698113207" y="0.0" name="bottom"/>
+  <anchor x="531.1244928301887" y="0.0" name="ogonek"/>
+  <anchor x="287.43171698113207" y="500.5199999999999" name="top"/>
+  <anchor x="380.31729132075475" y="586.3343962264152" name="topright"/>
+  <anchor x="380.31729132075475" y="500.5199999999999" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="380.31729132075475" y="441.49677358490567" type="line"/>
+      <point x="487.55987396226413" y="441.49677358490567" type="line" smooth="yes"/>
+      <point x="613.806598490566" y="441.49677358490567"/>
+      <point x="637.6379909433962" y="470.6269962264151"/>
+      <point x="637.6379909433962" y="572.5455071698112" type="curve" smooth="yes"/>
+      <point x="637.6379909433962" y="586.3343962264152" type="line"/>
+      <point x="528.4945766037736" y="586.3343962264152" type="line"/>
+      <point x="528.4945766037736" y="566.9399735849056" type="line" smooth="yes"/>
+      <point x="528.4945766037736" y="516.3031683018868"/>
+      <point x="521.9475290566038" y="500.5199999999999"/>
+      <point x="466.3772022641509" y="500.5199999999999" type="curve" smooth="yes"/>
+      <point x="380.31729132075475" y="500.5199999999999" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

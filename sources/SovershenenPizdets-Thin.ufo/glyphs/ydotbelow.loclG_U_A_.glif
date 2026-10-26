@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow.loclGUA" format="2">
+  <advance width="455.0"/>
+  <anchor x="425.08" y="-181.39" name="bottom"/>
+  <anchor x="239.81" y="500.52" name="top"/>
+  <outline>
+    <component base="y.loclGUA"/>
+    <component base="dotbelowcomb" xOffset="403.74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

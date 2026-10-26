@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde.loclGUA" format="2">
+  <advance width="624.920603773585"/>
+  <anchor x="313.6565343396227" y="0.0" name="bottom"/>
+  <anchor x="312.28828528301887" y="840.02" name="top"/>
+  <anchor x="24.910448301886795" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="tildecomb.case" xOffset="117.88557056603774" yOffset="172.66000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

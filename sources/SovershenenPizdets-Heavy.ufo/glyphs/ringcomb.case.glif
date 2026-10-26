@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <anchor x="140.55849056603773" y="494.7" name="_top"/>
+  <anchor x="140.26108490566037" y="751.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="138.9158962264151" y="547.9218867924528" type="curve" smooth="yes"/>
+      <point x="270.0855188679245" y="547.9218867924528"/>
+      <point x="280.14698113207544" y="580.3848584905661"/>
+      <point x="280.14698113207544" y="660.8811320754717" type="curve" smooth="yes"/>
+      <point x="280.14698113207544" y="741.002216981132"/>
+      <point x="270.0855188679245" y="775.107783018868"/>
+      <point x="138.9158962264151" y="775.107783018868" type="curve" smooth="yes"/>
+      <point x="9.091462264150943" y="775.107783018868"/>
+      <point x="0.0" y="741.002216981132"/>
+      <point x="0.0" y="660.8811320754717" type="curve" smooth="yes"/>
+      <point x="0.0" y="580.3848584905661"/>
+      <point x="9.091462264150943" y="547.9218867924528"/>
+    </contour>
+    <contour>
+      <point x="138.9158962264151" y="607.8148113207546" type="curve" smooth="yes"/>
+      <point x="78.30919811320754" y="607.8148113207546"/>
+      <point x="77.63660377358491" y="619.2351886792453"/>
+      <point x="77.63660377358491" y="660.8811320754717" type="curve" smooth="yes"/>
+      <point x="77.63660377358491" y="702.8244811320756"/>
+      <point x="78.30919811320754" y="714.5422641509433"/>
+      <point x="138.9158962264151" y="714.5422641509433" type="curve" smooth="yes"/>
+      <point x="201.83778301886792" y="714.5422641509433"/>
+      <point x="201.83778301886792" y="702.8244811320756"/>
+      <point x="201.83778301886792" y="660.8811320754717" type="curve" smooth="yes"/>
+      <point x="201.83778301886792" y="619.2351886792453"/>
+      <point x="201.83778301886792" y="607.8148113207546"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>279</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

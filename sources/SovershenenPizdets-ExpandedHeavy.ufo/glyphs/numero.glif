@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1090.9198113207547"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="753.9675471698113" y="199.85264150943397"/>
+      <point x="759.3055660377358" y="166.84"/>
+      <point x="899.342783018868" y="166.84" type="curve"/>
+      <point x="1039.3761320754718" y="166.84"/>
+      <point x="1044.7141509433964" y="199.85264150943397"/>
+      <point x="1044.7141509433964" y="330.34" type="curve"/>
+      <point x="1044.7141509433964" y="460.837358490566"/>
+      <point x="1039.3761320754718" y="493.85"/>
+      <point x="899.342783018868" y="493.85" type="curve"/>
+      <point x="759.3055660377358" y="493.85"/>
+      <point x="753.9675471698113" y="460.837358490566"/>
+      <point x="753.9675471698113" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="881.4790566037735" y="372.06240566037735"/>
+      <point x="882.816037735849" y="381.7704716981132"/>
+      <point x="899.342783018868" y="381.7704716981132" type="curve"/>
+      <point x="915.8656603773586" y="381.7704716981132"/>
+      <point x="917.202641509434" y="372.06240566037735"/>
+      <point x="917.202641509434" y="330.34" type="curve"/>
+      <point x="917.202641509434" y="288.62759433962265"/>
+      <point x="915.8656603773586" y="278.91952830188677"/>
+      <point x="899.342783018868" y="278.91952830188677" type="curve"/>
+      <point x="882.816037735849" y="278.91952830188677"/>
+      <point x="881.4790566037735" y="288.62759433962265"/>
+      <point x="881.4790566037735" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="753.9675471698113" y="40.04" type="line"/>
+      <point x="1044.7141509433964" y="40.04" type="line"/>
+      <point x="1044.7141509433964" y="136.29570754716983" type="line"/>
+      <point x="753.9675471698113" y="136.29570754716983" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>minus</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

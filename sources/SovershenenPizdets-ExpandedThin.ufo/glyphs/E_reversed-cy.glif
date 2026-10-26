@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed-cy" format="2">
+  <advance width="737.0"/>
+  <unicode hex="042D"/>
+  <anchor x="356.61" y="667.36" name="top"/>
+  <anchor x="356.61" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="650.64" y="647.16"/>
+      <point x="614.12" y="675.12"/>
+      <point x="359.31" y="675.12" type="curve"/>
+      <point x="108.12" y="675.12"/>
+      <point x="67.98" y="656.68"/>
+      <point x="67.98" y="470.26" type="curve"/>
+      <point x="102.9" y="470.26" type="line"/>
+      <point x="102.9" y="632.04"/>
+      <point x="126.99" y="642.14"/>
+      <point x="359.31" y="642.14" type="curve"/>
+      <point x="593.8" y="642.14"/>
+      <point x="615.72" y="625.65"/>
+      <point x="615.72" y="333.68" type="curve"/>
+      <point x="615.72" y="41.71"/>
+      <point x="593.57" y="25.22"/>
+      <point x="356.61" y="25.22" type="curve"/>
+      <point x="121.83" y="25.22"/>
+      <point x="97.49" y="35.72"/>
+      <point x="97.49" y="203.93" type="curve"/>
+      <point x="62.57" y="203.93" type="line"/>
+      <point x="62.57" y="8.89"/>
+      <point x="103.08" y="-7.76"/>
+      <point x="356.61" y="-7.76" type="curve"/>
+      <point x="613.78" y="-7.76"/>
+      <point x="650.64" y="16.67"/>
+      <point x="650.64" y="333.68" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262.52" y="323.83" type="line"/>
+      <point x="633.18" y="323.83" type="line"/>
+      <point x="633.18" y="355.17" type="line"/>
+      <point x="262.52" y="355.17" type="line"/>
+    </contour>
+  </outline>
+</glyph>

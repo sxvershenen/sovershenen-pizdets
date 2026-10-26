@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute.BRACKET.varAlt01" format="2">
+  <advance width="759.933962264151"/>
+  <anchor x="377.34457547169814" y="0.0" name="bottom"/>
+  <anchor x="378.01716981132074" y="333.68" name="center"/>
+  <anchor x="449.27556603773587" y="0.0" name="ogonek"/>
+  <anchor x="377.34457547169814" y="667.36" name="top"/>
+  <anchor x="-1.861367924528302" y="667.36" name="topleft"/>
+  <anchor x="453.8739150943396" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="489.9057547169811" y="622.7537264150943" type="line"/>
+      <point x="636.7006132075472" y="561.0123113207546" type="line"/>
+      <point x="739.9324056603773" y="720.71" type="line"/>
+      <point x="552.7224056603774" y="720.71" type="line"/>
+    </contour>
+    <contour>
+      <point x="26.2686320754717" y="-53.35" type="line"/>
+      <point x="211.5386320754717" y="-53.35" type="line"/>
+      <point x="285.8259905660378" y="61.28844339622641" type="line"/>
+      <point x="143.97264150943394" y="128.79952830188677" type="line"/>
+    </contour>
+    <component base="O" xOffset="0.6725943396226415"/>
+    <component base="acutecomb.case" xOffset="273.73759433962266" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

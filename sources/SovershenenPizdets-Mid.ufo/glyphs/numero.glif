@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="930.0"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="645.46" y="200.28"/>
+      <point x="650.78" y="166.84"/>
+      <point x="768.62" y="166.84" type="curve"/>
+      <point x="886.45" y="166.84"/>
+      <point x="891.77" y="200.28"/>
+      <point x="891.77" y="330.34" type="curve"/>
+      <point x="891.77" y="460.4"/>
+      <point x="886.45" y="493.85"/>
+      <point x="768.62" y="493.85" type="curve"/>
+      <point x="650.78" y="493.85"/>
+      <point x="645.46" y="460.4"/>
+      <point x="645.46" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="742.31" y="395.4"/>
+      <point x="743.44" y="412.13"/>
+      <point x="768.62" y="412.13" type="curve"/>
+      <point x="793.79" y="412.13"/>
+      <point x="794.92" y="395.4"/>
+      <point x="794.92" y="330.34" type="curve"/>
+      <point x="794.92" y="265.28"/>
+      <point x="793.79" y="248.55"/>
+      <point x="768.62" y="248.55" type="curve"/>
+      <point x="743.44" y="248.55"/>
+      <point x="742.31" y="265.28"/>
+      <point x="742.31" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="645.46" y="40.04" type="line"/>
+      <point x="891.77" y="40.04" type="line"/>
+      <point x="891.77" y="121.75" type="line"/>
+      <point x="645.46" y="121.75" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>minus</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

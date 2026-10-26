@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="166.48948226415092" y="494.70000000000005" name="_top"/>
+  <anchor x="166.48948226415092" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="575.9406113207547" type="line"/>
+      <point x="96.62656830188679" y="575.9406113207547" type="line"/>
+      <point x="244.3371433962264" y="694.5167056603774" type="line"/>
+      <point x="244.3371433962264" y="698.8780452830189" type="line"/>
+      <point x="103.20375396226416" y="698.8780452830189" type="line"/>
+      <point x="0.0" y="580.3019509433963" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.35036981132075" y="575.9406113207547" type="line"/>
+      <point x="322.3510588679245" y="575.9406113207547" type="line"/>
+      <point x="467.9643841509434" y="694.5167056603774" type="line"/>
+      <point x="467.9643841509434" y="698.8780452830189" type="line"/>
+      <point x="327.53144452830185" y="698.8780452830189" type="line"/>
+      <point x="223.35036981132075" y="580.3019509433963" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>382</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.loclGUA" format="2">
+  <advance width="666.2358490566038"/>
+  <anchor x="333.4337735849057" y="0.0" name="bottom"/>
+  <anchor x="333.4337735849057" y="667.36" name="top"/>
+  <anchor x="26.410471698113206" y="667.36" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="333.4337735849057" y="187.8048113207547" type="curve" smooth="yes"/>
+      <point x="620.2929716981132" y="187.8048113207547"/>
+      <point x="639.7844811320754" y="255.11"/>
+      <point x="639.7844811320754" y="498.34665094339624" type="curve" smooth="yes"/>
+      <point x="639.7844811320754" y="667.36" type="line"/>
+      <point x="476.97547169811315" y="667.36" type="line"/>
+      <point x="476.97547169811315" y="466.6340566037736" type="line" smooth="yes"/>
+      <point x="476.97547169811315" y="331.5295283018868"/>
+      <point x="472.2673113207547" y="310.6150471698113"/>
+      <point x="334.1063679245283" y="310.6150471698113" type="curve" smooth="yes"/>
+      <point x="194.60023584905662" y="310.6150471698113"/>
+      <point x="189.59466981132076" y="331.5295283018868"/>
+      <point x="189.59466981132076" y="466.6340566037736" type="curve" smooth="yes"/>
+      <point x="189.59466981132076" y="667.36" type="line"/>
+      <point x="26.410471698113206" y="667.36" type="line"/>
+      <point x="26.410471698113206" y="498.34665094339624" type="line" smooth="yes"/>
+      <point x="26.410471698113206" y="255.11"/>
+      <point x="46.57457547169811" y="187.8048113207547"/>
+    </contour>
+    <contour>
+      <point x="253.2120283018868" y="0.0" type="line"/>
+      <point x="416.39622641509436" y="0.0" type="line"/>
+      <point x="416.39622641509436" y="205.18702830188678" type="line"/>
+      <point x="253.2120283018868" y="205.18702830188678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

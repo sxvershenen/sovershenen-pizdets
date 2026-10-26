@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ve-cy" format="2">
+  <advance width="758.920679245283"/>
+  <unicode hex="0412"/>
+  <anchor x="379.86536679245285" y="0.0" name="bottom"/>
+  <anchor x="379.86536679245285" y="667.36" name="top"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+</glyph>

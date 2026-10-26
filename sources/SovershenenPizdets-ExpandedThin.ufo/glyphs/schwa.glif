@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance width="572.0"/>
+  <unicode hex="0259"/>
+  <anchor x="285.4" y="500.52" name="top"/>
+  <anchor x="81.7" y="495.67" name="ogonek"/>
+  <anchor x="285.4" y="0.0" name="bottom"/>
+  <outline>
+    <component base="e" xScale="-1" yScale="-1" xOffset="621.77" yOffset="494.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

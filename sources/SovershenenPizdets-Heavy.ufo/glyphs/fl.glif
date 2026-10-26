@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="611.9528301886792"/>
+  <unicode hex="FB02"/>
+  <anchor x="305.8017452830189" y="0.0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="91.13051886792454" y="0.0" type="line"/>
+      <point x="236.37886792452832" y="0.0" type="line"/>
+      <point x="236.37886792452832" y="388.6497169811321" type="line"/>
+      <point x="356.07778301886793" y="388.6497169811321" type="line"/>
+      <point x="356.07778301886793" y="500.52" type="line"/>
+      <point x="236.37886792452832" y="500.52" type="line"/>
+      <point x="236.37886792452832" y="560.3183018867924" type="line" smooth="yes"/>
+      <point x="236.37886792452832" y="616.6030660377359"/>
+      <point x="248.32999999999998" y="622.0063679245284"/>
+      <point x="356.07778301886793" y="622.0063679245284" type="curve"/>
+      <point x="356.07778301886793" y="719.77" type="line"/>
+      <point x="140.458679245283" y="719.77"/>
+      <point x="91.13051886792454" y="714.0815566037736"/>
+      <point x="91.13051886792454" y="539.361179245283" type="curve" smooth="yes"/>
+      <point x="91.13051886792454" y="500.52" type="line"/>
+      <point x="-1.4083962264150942" y="500.52" type="line"/>
+      <point x="-1.4083962264150942" y="388.6497169811321" type="line"/>
+      <point x="91.13051886792454" y="388.6497169811321" type="line"/>
+    </contour>
+    <contour>
+      <point x="424.4582075471699" y="0.0" type="line"/>
+      <point x="570.0039622641509" y="0.0" type="line"/>
+      <point x="570.0039622641509" y="720.71" type="line"/>
+      <point x="424.4582075471699" y="720.71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

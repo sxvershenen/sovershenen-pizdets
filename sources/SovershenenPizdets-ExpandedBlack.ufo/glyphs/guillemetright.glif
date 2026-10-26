@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="524.0327547169811"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="38.68862113207547" y="81.31616150943395" type="line"/>
+      <point x="147.35263320754717" y="81.31616150943395" type="line"/>
+      <point x="311.0268460377359" y="287.1712452830189" type="line"/>
+      <point x="147.35263320754717" y="494.70000000000005" type="line"/>
+      <point x="38.68862113207547" y="494.70000000000005" type="line"/>
+      <point x="170.95474641509435" y="287.1712452830189" type="line"/>
+    </contour>
+    <contour>
+      <point x="252.60539320754717" y="81.31616150943395" type="line"/>
+      <point x="361.2694052830189" y="81.31616150943395" type="line"/>
+      <point x="524.2504890566038" y="287.1712452830189" type="line"/>
+      <point x="361.2694052830189" y="494.70000000000005" type="line"/>
+      <point x="252.60539320754717" y="494.70000000000005" type="line"/>
+      <point x="383.47471849056603" y="287.1712452830189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

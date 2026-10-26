@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde.ss01" format="2">
+  <advance width="674.0945660377358"/>
+  <anchor x="337.4012558490566" y="0.0" name="bottom"/>
+  <anchor x="624.3555139622641" y="0.0" name="ogonek"/>
+  <anchor x="337.4012558490566" y="1007.3633018867924" name="top"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="brevecomb_tildecomb.case" xOffset="182.84108981132076" yOffset="172.66000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="330.39622641509436"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="-21.933962264150942" y="0.0" type="line"/>
+      <point x="68.90745283018867" y="0.0" type="line"/>
+      <point x="352.06966981132075" y="667.36" type="line"/>
+      <point x="261.22825471698116" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.1304716981132" y="0.0" type="line"/>
+      <point x="340.49372641509433" y="0.0" type="line"/>
+      <point x="340.49372641509433" y="134.9306603773585" type="line"/>
+      <point x="197.1304716981132" y="134.9306603773585" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10.358018867924528" y="532.4293396226416" type="line"/>
+      <point x="133.0052358490566" y="532.4293396226416" type="line"/>
+      <point x="133.0052358490566" y="667.36" type="line"/>
+      <point x="-10.358018867924528" y="667.36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

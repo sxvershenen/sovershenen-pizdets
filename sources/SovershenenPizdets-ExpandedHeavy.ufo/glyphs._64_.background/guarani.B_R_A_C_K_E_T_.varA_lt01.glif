@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani.BRACKET.varAlt01" format="2">
+  <outline>
+    <contour>
+      <point x="306" y="71" type="curve" smooth="yes"/>
+      <point x="521" y="71"/>
+      <point x="545" y="118"/>
+      <point x="545" y="295" type="curve" smooth="yes"/>
+      <point x="545" y="395" type="line"/>
+      <point x="307" y="395" type="line"/>
+      <point x="307" y="290" type="line"/>
+      <point x="418" y="290" type="line"/>
+      <point x="418" y="263" type="line" smooth="yes"/>
+      <point x="418" y="185"/>
+      <point x="414" y="178"/>
+      <point x="299" y="178" type="curve" smooth="yes"/>
+      <point x="210" y="178"/>
+      <point x="193" y="192"/>
+      <point x="193" y="344" type="curve" smooth="yes"/>
+      <point x="193" y="508"/>
+      <point x="197" y="511"/>
+      <point x="346" y="511" type="curve" smooth="yes"/>
+      <point x="386" y="511"/>
+      <point x="449" y="505"/>
+      <point x="519" y="496" type="curve"/>
+      <point x="519" y="597" type="line"/>
+      <point x="458" y="610"/>
+      <point x="374" y="619"/>
+      <point x="313" y="619" type="curve" smooth="yes"/>
+      <point x="111" y="619"/>
+      <point x="65" y="563"/>
+      <point x="65" y="344" type="curve" smooth="yes"/>
+      <point x="65" y="127"/>
+      <point x="120" y="71"/>
+    </contour>
+    <contour>
+      <point x="267" y="-8" type="line"/>
+      <point x="355" y="-8" type="line"/>
+      <point x="355" y="696" type="line"/>
+      <point x="267" y="696" type="line"/>
+    </contour>
+  </outline>
+</glyph>

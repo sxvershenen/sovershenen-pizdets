@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="555.4204528301887"/>
+  <unicode hex="20A3"/>
+  <anchor x="209.90599320754717" y="0.0" name="bottom"/>
+  <anchor x="286.9706996226415" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-19.962264150943398" y="88.12534188679246" type="line"/>
+      <point x="408.40020452830186" y="88.12534188679246" type="line"/>
+      <point x="408.40020452830186" y="170.0929041509434" type="line"/>
+      <point x="-19.962264150943398" y="170.0929041509434" type="line"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

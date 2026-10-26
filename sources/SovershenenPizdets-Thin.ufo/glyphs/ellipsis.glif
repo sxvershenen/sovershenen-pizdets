@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="462.0"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="378.52" y="0.0" type="line"/>
+      <point x="425.08" y="0.0" type="line"/>
+      <point x="425.08" y="63.05" type="line"/>
+      <point x="378.52" y="63.05" type="line"/>
+    </contour>
+    <contour>
+      <point x="37.08" y="0.0" type="line"/>
+      <point x="83.64" y="0.0" type="line"/>
+      <point x="83.64" y="63.05" type="line"/>
+      <point x="37.08" y="63.05" type="line"/>
+    </contour>
+    <contour>
+      <point x="207.8" y="0.0" type="line"/>
+      <point x="254.36" y="0.0" type="line"/>
+      <point x="254.36" y="63.05" type="line"/>
+      <point x="207.8" y="63.05" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.ss01" format="2">
+  <advance width="312.0754716981132"/>
+  <outline>
+    <contour>
+      <point x="285.5877358490566" y="194.96999999999997" type="line"/>
+      <point x="285.5877358490566" y="471.42" type="line"/>
+      <point x="9.137735849056604" y="332.71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

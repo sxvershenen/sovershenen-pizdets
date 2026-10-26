@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="255.0557735849057"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="126.89976226415095" y="542.1842452830189" type="curve" smooth="yes"/>
+      <point x="261.60377207547174" y="542.1842452830189"/>
+      <point x="274.8440890566038" y="573.260922264151"/>
+      <point x="274.8440890566038" y="658.6021811320754" type="curve" smooth="yes"/>
+      <point x="274.8440890566038" y="743.9475396226416"/>
+      <point x="261.60377207547174" y="776.0487562264151"/>
+      <point x="126.89976226415095" y="776.0487562264151" type="curve" smooth="yes"/>
+      <point x="-7.265147169811321" y="776.0487562264151"/>
+      <point x="-19.962264150943398" y="743.9475396226416"/>
+      <point x="-19.962264150943398" y="658.6021811320754" type="curve" smooth="yes"/>
+      <point x="-19.962264150943398" y="573.260922264151"/>
+      <point x="-7.265147169811321" y="542.1842452830189"/>
+    </contour>
+    <contour>
+      <point x="126.89976226415095" y="605.6526264150943" type="curve" smooth="yes"/>
+      <point x="65.2687441509434" y="605.6526264150943"/>
+      <point x="64.78740452830189" y="616.9497954716982"/>
+      <point x="64.78740452830189" y="658.6021811320754" type="curve" smooth="yes"/>
+      <point x="64.78740452830189" y="700.5282166037737"/>
+      <point x="65.2687441509434" y="711.6754566037736"/>
+      <point x="126.89976226415095" y="711.6754566037736" type="curve" smooth="yes"/>
+      <point x="189.61308075471698" y="711.6754566037736"/>
+      <point x="189.82487018867926" y="700.5282166037737"/>
+      <point x="189.82487018867926" y="658.6021811320754" type="curve" smooth="yes"/>
+      <point x="189.82487018867926" y="616.9497954716982"/>
+      <point x="189.61308075471698" y="605.6526264150943"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

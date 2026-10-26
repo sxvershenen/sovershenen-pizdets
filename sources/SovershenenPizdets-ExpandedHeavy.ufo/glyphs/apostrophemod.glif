@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="121.88679245283019"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="-21.933962264150942" y="487.24198113207547" type="line"/>
+      <point x="123.78108490566038" y="487.24198113207547"/>
+      <point x="143.62033018867925" y="518.2682547169811"/>
+      <point x="143.62033018867925" y="648.6097169811321" type="curve" smooth="yes"/>
+      <point x="143.62033018867925" y="720.71" type="line"/>
+      <point x="-9.232452830188679" y="720.71" type="line"/>
+      <point x="-9.232452830188679" y="617.8671226415095" type="line"/>
+      <point x="48.64268867924528" y="617.8671226415095" type="line"/>
+      <point x="48.64268867924528" y="601.2993396226415" type="line" smooth="yes"/>
+      <point x="48.64268867924528" y="552.3463679245283"/>
+      <point x="35.79933962264151" y="541.8319339622641"/>
+      <point x="-21.933962264150942" y="541.8319339622641" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

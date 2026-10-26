@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve" format="2">
+  <advance width="247.6367924528302"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="122.80193396226414" y="554.2589150943396" type="curve" smooth="yes"/>
+      <point x="253.0015566037736" y="554.2589150943396"/>
+      <point x="269.8530188679245" y="614.0237264150943"/>
+      <point x="269.8530188679245" y="698.3359433962264" type="curve"/>
+      <point x="188.41419811320753" y="698.3359433962264" type="line"/>
+      <point x="188.41419811320753" y="658.3188679245283"/>
+      <point x="187.06900943396226" y="632.9433018867925"/>
+      <point x="122.80193396226414" y="632.9433018867925" type="curve" smooth="yes"/>
+      <point x="58.832264150943395" y="632.9433018867925"/>
+      <point x="58.832264150943395" y="658.3188679245283"/>
+      <point x="58.832264150943395" y="698.3359433962264" type="curve"/>
+      <point x="-21.933962264150942" y="698.3359433962264" type="line"/>
+      <point x="-21.933962264150942" y="614.0237264150943"/>
+      <point x="-6.7250943396226415" y="554.2589150943396"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

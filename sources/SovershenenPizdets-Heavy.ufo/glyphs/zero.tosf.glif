@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf" format="2">
+  <advance width="557.132075471698"/>
+  <outline>
+    <contour>
+      <point x="279.4386320754717" y="-6.79" type="curve" smooth="yes"/>
+      <point x="504.9956603773585" y="-6.79"/>
+      <point x="519.9071226415094" y="39.18891509433962"/>
+      <point x="519.9071226415094" y="283.24" type="curve" smooth="yes"/>
+      <point x="519.9071226415094" y="528.2610849056604"/>
+      <point x="504.6982547169811" y="574.24"/>
+      <point x="279.4386320754717" y="574.24" type="curve" smooth="yes"/>
+      <point x="53.88160377358491" y="574.24"/>
+      <point x="38.297547169811324" y="528.933679245283"/>
+      <point x="38.297547169811324" y="283.24" type="curve" smooth="yes"/>
+      <point x="38.297547169811324" y="38.51632075471698"/>
+      <point x="53.88160377358491" y="-6.79"/>
+    </contour>
+    <contour>
+      <point x="279.4386320754717" y="104.62731132075471" type="curve" smooth="yes"/>
+      <point x="187.43962264150943" y="104.62731132075471"/>
+      <point x="184.07665094339623" y="108.58509433962264"/>
+      <point x="184.07665094339623" y="283.24" type="curve" smooth="yes"/>
+      <point x="184.07665094339623" y="458.5675"/>
+      <point x="187.43962264150943" y="462.8226886792453"/>
+      <point x="279.4386320754717" y="462.8226886792453" type="curve" smooth="yes"/>
+      <point x="370.76504716981134" y="462.8226886792453"/>
+      <point x="374.12801886792454" y="458.5675"/>
+      <point x="374.12801886792454" y="283.24" type="curve" smooth="yes"/>
+      <point x="374.12801886792454" y="109.25768867924528"/>
+      <point x="371.43764150943394" y="104.62731132075471"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-5</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

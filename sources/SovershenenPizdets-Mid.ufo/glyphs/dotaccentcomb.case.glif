@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <anchor x="51.41" y="494.7" name="_top"/>
+  <anchor x="51.41" y="654.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="590.73" type="line"/>
+      <point x="101.85" y="590.73" type="line"/>
+      <point x="101.85" y="684.82" type="line"/>
+      <point x="0.0" y="684.82" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>105</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

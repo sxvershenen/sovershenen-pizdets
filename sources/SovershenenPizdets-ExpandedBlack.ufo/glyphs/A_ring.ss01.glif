@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring.ss01" format="2">
+  <advance width="780.0341886792453"/>
+  <anchor x="390.2333124528302" y="0.0" name="bottom"/>
+  <anchor x="717.4535516981132" y="0.0" name="ogonek"/>
+  <anchor x="390.44832301886794" y="924.4627094339623" name="top"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="ringcomb.case" xOffset="233.3398754716981" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

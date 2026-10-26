@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="574.0765283018868"/>
+  <unicode hex="0127"/>
+  <anchor x="287.43171698113207" y="0.0" name="bottom"/>
+  <anchor x="126.88323471698114" y="253.17" name="center"/>
+  <anchor x="127.12618716981133" y="679.5877358490566" name="top"/>
+  <outline>
+    <contour>
+      <point x="-18.58608679245283" y="590.964962264151" type="line"/>
+      <point x="338.1274867924528" y="590.964962264151" type="line"/>
+      <point x="338.1274867924528" y="669.21" type="line"/>
+      <point x="-18.58608679245283" y="669.21" type="line"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

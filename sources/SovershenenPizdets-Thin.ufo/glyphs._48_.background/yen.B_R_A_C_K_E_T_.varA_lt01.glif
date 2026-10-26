@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.BRACKET.varAlt01" format="2">
+  <outline>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="327" y="261" type="line"/>
+      <point x="542" y="261" type="line"/>
+      <point x="542" y="295" type="line"/>
+      <point x="347" y="295" type="line"/>
+      <point x="579" y="688" type="line"/>
+      <point x="539" y="688" type="line"/>
+      <point x="313" y="295" type="line"/>
+      <point x="306" y="295" type="line"/>
+      <point x="81" y="688" type="line"/>
+      <point x="40" y="688" type="line"/>
+      <point x="271" y="295" type="line"/>
+      <point x="76" y="295" type="line"/>
+      <point x="76" y="261" type="line"/>
+      <point x="291" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="414" type="line"/>
+      <point x="542" y="414" type="line"/>
+      <point x="542" y="448" type="line"/>
+      <point x="76" y="448" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hard-cy" format="2">
+  <advance width="726.0"/>
+  <unicode hex="042A"/>
+  <anchor x="362.98" y="667.36" name="top"/>
+  <anchor x="362.98" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="20.83" y="634.38" type="line"/>
+      <point x="121.42" y="634.38" type="line"/>
+      <point x="121.42" y="667.36" type="line"/>
+      <point x="20.83" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.96" y="0.0" type="line"/>
+      <point x="138.88" y="0.0" type="line"/>
+      <point x="138.88" y="667.36" type="line"/>
+      <point x="103.96" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="421.83" y="0.0" type="line"/>
+      <point x="640.95" y="0.0"/>
+      <point x="652.01" y="93.36"/>
+      <point x="652.01" y="195.2" type="curve"/>
+      <point x="652.01" y="297.05"/>
+      <point x="640.95" y="390.41"/>
+      <point x="421.83" y="390.41" type="curve"/>
+      <point x="103.96" y="390.41" type="line"/>
+      <point x="103.96" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="138.88" y="357.43" type="line"/>
+      <point x="416.24" y="357.43" type="line"/>
+      <point x="606.13" y="357.43"/>
+      <point x="617.09" y="294.6"/>
+      <point x="617.09" y="195.2" type="curve"/>
+      <point x="617.09" y="95.81"/>
+      <point x="606.13" y="32.98"/>
+      <point x="416.24" y="32.98" type="curve"/>
+      <point x="138.88" y="32.98" type="line"/>
+    </contour>
+  </outline>
+</glyph>

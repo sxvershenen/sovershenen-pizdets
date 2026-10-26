@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="655.0731320754717"/>
+  <unicode hex="20A1"/>
+  <anchor x="358.30054641509435" y="0.0" name="bottom"/>
+  <anchor x="358.30054641509435" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="415.0978166037736" y="-80.51" type="line"/>
+      <point x="503.9150430188679" y="-80.51" type="line"/>
+      <point x="695.0983094339622" y="747.87" type="line"/>
+      <point x="605.5879539622641" y="747.87" type="line"/>
+    </contour>
+    <contour>
+      <point x="265.48508981132073" y="-80.51" type="line"/>
+      <point x="354.0905267924528" y="-80.51" type="line"/>
+      <point x="545.2737932075472" y="747.87" type="line"/>
+      <point x="455.97522716981126" y="747.87" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="213.3959479245283" y="494.70000000000005" name="_top"/>
+  <anchor x="214.31655849056605" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="555.5764679245284" type="curve"/>
+      <point x="82.29575169811321" y="555.5764679245284" type="line"/>
+      <point x="82.29575169811321" y="588.6697932075472"/>
+      <point x="82.29575169811321" y="600.7365932075472"/>
+      <point x="112.10044754716981" y="600.7365932075472" type="curve" smooth="yes"/>
+      <point x="133.23700377358492" y="600.7365932075472"/>
+      <point x="161.88509358490566" y="593.7389033962264"/>
+      <point x="194.85462490566036" y="586.7517554716982" type="curve" smooth="yes"/>
+      <point x="234.8080830188679" y="576.9164679245283"/>
+      <point x="277.10118113207545" y="566.7351283018868"/>
+      <point x="324.97511018867925" y="566.7351283018868" type="curve" smooth="yes"/>
+      <point x="423.86371849056604" y="566.7351283018868"/>
+      <point x="427.6566747169812" y="619.1329177358491"/>
+      <point x="427.6566747169812" y="710.2720679245283" type="curve"/>
+      <point x="346.5353916981132" y="710.2720679245283" type="line"/>
+      <point x="346.5353916981132" y="676.6795403773585"/>
+      <point x="345.8422626415095" y="665.8050716981134"/>
+      <point x="315.3338958490566" y="665.8050716981134" type="curve" smooth="yes"/>
+      <point x="291.3670626415094" y="665.8050716981134"/>
+      <point x="264.1629916981132" y="672.802761509434"/>
+      <point x="232.5902603773585" y="679.7899094339623" type="curve" smooth="yes"/>
+      <point x="192.62626037735848" y="688.9320679245283"/>
+      <point x="147.50288528301883" y="699.1134075471698"/>
+      <point x="103.85603320754716" y="699.1134075471698" type="curve" smooth="yes"/>
+      <point x="3.792956226415095" y="699.1134075471698"/>
+      <point x="0.0" y="646.7156181132076"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>357</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

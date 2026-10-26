@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="126.1" y="494.7" name="_top"/>
+  <anchor x="126.1" y="840.02" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="587.82" type="line"/>
+      <point x="26.19" y="587.82" type="line"/>
+      <point x="126.1" y="692.58" type="line"/>
+      <point x="226.01" y="587.82" type="line"/>
+      <point x="252.2" y="587.82" type="line"/>
+      <point x="252.2" y="592.67" type="line"/>
+      <point x="148.41" y="721.68" type="line"/>
+      <point x="103.79" y="721.68" type="line"/>
+      <point x="0.0" y="592.67" type="line"/>
+    </contour>
+    <contour>
+      <point x="92.15" y="746.9" type="line"/>
+      <point x="119.31" y="746.9" type="line"/>
+      <point x="119.31" y="772.12"/>
+      <point x="119.31" y="774.06"/>
+      <point x="162.96" y="785.7" type="curve" smooth="yes"/>
+      <point x="192.06" y="793.46" type="line" smooth="yes"/>
+      <point x="242.5" y="807.04"/>
+      <point x="247.35" y="824.5"/>
+      <point x="247.35" y="861.36" type="curve" smooth="yes"/>
+      <point x="247.35" y="916.65"/>
+      <point x="213.4" y="925.38"/>
+      <point x="126.1" y="925.38" type="curve" smooth="yes"/>
+      <point x="96.03" y="925.38"/>
+      <point x="50.44" y="923.44"/>
+      <point x="19.4" y="919.56" type="curve"/>
+      <point x="19.4" y="894.34" type="line"/>
+      <point x="54.32" y="897.25"/>
+      <point x="95.06" y="899.19"/>
+      <point x="118.34" y="899.19" type="curve" smooth="yes"/>
+      <point x="198.85" y="899.19"/>
+      <point x="217.28" y="899.19"/>
+      <point x="217.28" y="857.48" type="curve" smooth="yes"/>
+      <point x="217.28" y="830.32"/>
+      <point x="210.49" y="825.47"/>
+      <point x="158.11" y="810.92" type="curve" smooth="yes"/>
+      <point x="132.89" y="804.13" type="line" smooth="yes"/>
+      <point x="101.85" y="795.4"/>
+      <point x="92.15" y="787.64"/>
+      <point x="92.15" y="757.57" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>260</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

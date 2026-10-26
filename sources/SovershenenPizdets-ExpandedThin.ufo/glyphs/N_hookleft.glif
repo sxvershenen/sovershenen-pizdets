@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="784.0"/>
+  <unicode hex="019D"/>
+  <anchor x="392.1" y="0.0" name="bottom"/>
+  <anchor x="392.1" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-25.0" y="-194.0" type="line"/>
+      <point x="134.08" y="-194.0"/>
+      <point x="139.9" y="-182.36"/>
+      <point x="139.9" y="51.41" type="curve" smooth="yes" name="0.7 ⛔️"/>
+      <point x="139.9" y="607.22" type="line"/>
+      <point x="143.78" y="607.22" type="line"/>
+      <point x="648.18" y="0.0" type="line"/>
+      <point x="679.22" y="0.0" type="line"/>
+      <point x="679.22" y="667.36" type="line"/>
+      <point x="645.27" y="667.36" type="line"/>
+      <point x="645.27" y="60.14" type="line"/>
+      <point x="641.39" y="60.14" type="line"/>
+      <point x="136.99" y="667.36" type="line"/>
+      <point x="105.95" y="667.36" type="line"/>
+      <point x="105.95" y="51.41" type="line" smooth="yes"/>
+      <point x="105.95" y="-156.17"/>
+      <point x="103.04" y="-164.9"/>
+      <point x="-25.0" y="-164.9" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

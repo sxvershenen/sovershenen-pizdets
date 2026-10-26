@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash.BRACKET.varAlt01" format="2">
+  <advance width="808.9723773584906"/>
+  <anchor x="400.46501886792447" y="0.0" name="bottom"/>
+  <anchor x="402.65355849056596" y="333.68" name="center"/>
+  <anchor x="489.0907343396226" y="0.0" name="ogonek"/>
+  <anchor x="400.46501886792447" y="667.36" name="top"/>
+  <anchor x="0.13086490566037745" y="667.36" name="topleft"/>
+  <anchor x="453.5984709433962" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="519.0936030188678" y="633.1068475471698" type="line"/>
+      <point x="684.6737011320755" y="569.2773335849056" type="line"/>
+      <point x="784.5208890566038" y="720.71" type="line"/>
+      <point x="576.1319456603774" y="720.71" type="line"/>
+    </contour>
+    <contour>
+      <point x="28.983203773584904" y="-53.35" type="line"/>
+      <point x="235.22035773584906" y="-53.35" type="line"/>
+      <point x="315.9604490566038" y="69.15001886792453" type="line"/>
+      <point x="163.15645886792453" y="152.08026037735848" type="line"/>
+    </contour>
+    <component base="O" xOffset="0.6931290566037736"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="278.7938860377359" y="494.70000000000005" name="_top"/>
+  <anchor x="278.7938860377359" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="467.9643841509434" y="575.9406113207547" type="line"/>
+      <point x="467.9643841509434" y="580.3019509433963" type="line"/>
+      <point x="364.7606301886793" y="698.8780452830189" type="line"/>
+      <point x="223.627240754717" y="698.8780452830189" type="line"/>
+      <point x="223.627240754717" y="694.5167056603774" type="line"/>
+      <point x="371.3378158490566" y="575.9406113207547" type="line"/>
+    </contour>
+    <contour>
+      <point x="244.61401433962263" y="575.9406113207547" type="line"/>
+      <point x="244.61401433962263" y="580.3019509433963" type="line"/>
+      <point x="140.43293962264153" y="698.8780452830189" type="line"/>
+      <point x="0.0" y="698.8780452830189" type="line"/>
+      <point x="0.0" y="694.5167056603774" type="line"/>
+      <point x="145.61332528301887" y="575.9406113207547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>382</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

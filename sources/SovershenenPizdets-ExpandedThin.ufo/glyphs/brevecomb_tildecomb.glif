@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="175.57" y="494.7" name="_top"/>
+  <anchor x="175.57" y="837.11" name="top"/>
+  <outline>
+    <contour>
+      <point x="174.6" y="579.09" type="curve" smooth="yes"/>
+      <point x="313.31" y="579.09"/>
+      <point x="314.28" y="636.32"/>
+      <point x="314.28" y="715.86" type="curve"/>
+      <point x="284.21" y="715.86" type="line"/>
+      <point x="284.21" y="643.11"/>
+      <point x="282.27" y="606.25"/>
+      <point x="174.6" y="606.25" type="curve" smooth="yes"/>
+      <point x="65.96" y="606.25"/>
+      <point x="64.99" y="643.11"/>
+      <point x="64.99" y="715.86" type="curve"/>
+      <point x="35.89" y="715.86" type="line"/>
+      <point x="35.89" y="636.32"/>
+      <point x="35.89" y="579.09"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="771.15" type="curve"/>
+      <point x="26.19" y="771.15" type="line"/>
+      <point x="26.19" y="814.8"/>
+      <point x="32.01" y="831.29"/>
+      <point x="65.96" y="831.29" type="curve" smooth="yes"/>
+      <point x="101.85" y="831.29"/>
+      <point x="130.95" y="819.65"/>
+      <point x="162.96" y="808.98" type="curve" smooth="yes"/>
+      <point x="204.67" y="795.4"/>
+      <point x="239.59" y="781.82"/>
+      <point x="285.18" y="781.82" type="curve" smooth="yes"/>
+      <point x="340.47" y="781.82"/>
+      <point x="351.14" y="806.07"/>
+      <point x="351.14" y="873.97" type="curve"/>
+      <point x="324.95" y="873.97" type="line"/>
+      <point x="324.95" y="830.32"/>
+      <point x="319.13" y="813.83"/>
+      <point x="285.18" y="813.83" type="curve" smooth="yes"/>
+      <point x="248.32" y="813.83"/>
+      <point x="218.25" y="825.47"/>
+      <point x="187.21" y="836.14" type="curve" smooth="yes"/>
+      <point x="144.53" y="850.69"/>
+      <point x="106.7" y="863.3"/>
+      <point x="65.96" y="863.3" type="curve" smooth="yes"/>
+      <point x="9.7" y="863.3"/>
+      <point x="0.0" y="839.05"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>362</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

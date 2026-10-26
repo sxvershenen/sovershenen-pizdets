@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance width="771.0"/>
+  <unicode hex="01FE"/>
+  <anchor x="385.31" y="0.0" name="bottom"/>
+  <anchor x="385.31" y="333.68" name="center"/>
+  <anchor x="414.41" y="0.0" name="ogonek"/>
+  <anchor x="385.31" y="667.36" name="top"/>
+  <anchor x="-5.6" y="667.36" name="topleft"/>
+  <anchor x="545.36" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="77.82" y="-53.35" type="line"/>
+      <point x="116.62" y="-53.35" type="line"/>
+      <point x="691.83" y="720.71" type="line"/>
+      <point x="651.09" y="720.71" type="line"/>
+    </contour>
+    <component base="O"/>
+    <component base="acutecomb.case" xOffset="311.59" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

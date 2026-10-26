@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="580.0"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="59.39" y="0.0" type="line"/>
+      <point x="183.55" y="0.0" type="line"/>
+      <point x="183.55" y="228.92" type="line"/>
+      <point x="359.12" y="228.92" type="line" smooth="yes"/>
+      <point x="518.2" y="228.92"/>
+      <point x="557.0" y="307.49"/>
+      <point x="561.85" y="417.1" type="curve"/>
+      <point x="643.33" y="417.1" type="line"/>
+      <point x="643.33" y="487.91" type="line"/>
+      <point x="561.85" y="487.91" type="line"/>
+      <point x="554.09" y="598.49"/>
+      <point x="511.41" y="667.36"/>
+      <point x="363.0" y="667.36" type="curve" smooth="yes"/>
+      <point x="59.39" y="667.36" type="line"/>
+      <point x="59.39" y="487.91" type="line"/>
+      <point x="-25.0" y="487.91" type="line"/>
+      <point x="-25.0" y="417.1" type="line"/>
+      <point x="59.39" y="417.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="183.55" y="333.68" type="line"/>
+      <point x="183.55" y="417.1" type="line"/>
+      <point x="437.69" y="417.1" type="line"/>
+      <point x="434.78" y="351.14"/>
+      <point x="414.41" y="333.68"/>
+      <point x="309.65" y="333.68" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="183.55" y="487.91" type="line"/>
+      <point x="183.55" y="562.6" type="line"/>
+      <point x="313.53" y="562.6" type="line" smooth="yes"/>
+      <point x="410.53" y="562.6"/>
+      <point x="432.84" y="547.08"/>
+      <point x="437.69" y="487.91" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

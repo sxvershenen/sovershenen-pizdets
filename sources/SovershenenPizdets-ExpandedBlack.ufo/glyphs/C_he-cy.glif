@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="768.0266415094341"/>
+  <unicode hex="0427"/>
+  <anchor x="384.06781886792453" y="667.36" name="top"/>
+  <anchor x="384.06781886792453" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="505.41064" y="0.0" type="line"/>
+      <point x="701.806723018868" y="0.0" type="line"/>
+      <point x="701.806723018868" y="667.36" type="line"/>
+      <point x="505.41064" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.41642037735849" y="425.91" type="line"/>
+      <point x="59.41642037735849" y="262.001000754717"/>
+      <point x="68.24006339622642" y="220.23"/>
+      <point x="331.51439169811323" y="220.23" type="curve"/>
+      <point x="603.6122543396227" y="220.23" type="line"/>
+      <point x="603.6122543396227" y="358.09569735849055" type="line"/>
+      <point x="341.9019947169811" y="358.09569735849055" type="line"/>
+      <point x="258.99825207547167" y="358.09569735849055"/>
+      <point x="255.81250339622642" y="361.43848905660377"/>
+      <point x="255.81250339622642" y="432.7966309433962" type="curve"/>
+      <point x="255.81250339622642" y="667.36" type="line"/>
+      <point x="59.41642037735849" y="667.36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

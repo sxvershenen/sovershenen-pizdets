@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="477.2924528301887"/>
+  <unicode hex="013F"/>
+  <anchor x="277.15089622641506" y="0.0" name="bottom"/>
+  <anchor x="129.59193396226414" y="333.68" name="center"/>
+  <anchor x="129.59193396226414" y="667.36" name="top"/>
+  <anchor x="277.98820754716985" y="494.7" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered.loclCAT.case" xOffset="346.2122169811321" yOffset="75.86589622641509"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

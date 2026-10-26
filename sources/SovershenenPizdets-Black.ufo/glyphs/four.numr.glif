@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.numr" format="2">
+  <advance width="347.64981132075474"/>
+  <outline>
+    <contour>
+      <point x="196.12167094339623" y="298.76" type="line"/>
+      <point x="300.13297735849056" y="298.76" type="line"/>
+      <point x="300.13297735849056" y="370.55793584905666" type="line"/>
+      <point x="348.54468905660383" y="370.55793584905666" type="line"/>
+      <point x="348.54468905660383" y="447.9900709433963" type="line"/>
+      <point x="300.13297735849056" y="447.9900709433963" type="line"/>
+      <point x="300.13297735849056" y="530.9444709433963" type="line"/>
+      <point x="232.0808520754717" y="530.9444709433963" type="line"/>
+      <point x="200.43989132075473" y="447.9900709433963" type="line"/>
+      <point x="113.71310641509434" y="447.9900709433963" type="line"/>
+      <point x="252.43013433962267" y="666.889202264151" type="line"/>
+      <point x="137.85058641509434" y="666.889202264151" type="line"/>
+      <point x="3.7864105660377354" y="439.30728981132074" type="line"/>
+      <point x="3.7864105660377354" y="370.55793584905666" type="line"/>
+      <point x="196.12167094339623" y="370.55793584905666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apple" format="2">
+  <advance width="766.0"/>
+  <unicode hex="F8FF"/>
+  <outline>
+    <contour>
+      <point x="44.84" y="0.0" type="line"/>
+      <point x="720.93" y="0.0" type="line"/>
+      <point x="720.93" y="677.06" type="line"/>
+      <point x="44.84" y="677.06" type="line"/>
+    </contour>
+    <contour>
+      <point x="384.34" y="130.95" type="curve"/>
+      <point x="263.09" y="130.95"/>
+      <point x="192.28" y="209.52"/>
+      <point x="192.28" y="306.52" type="curve"/>
+      <point x="192.28" y="370.54" type="line" smooth="yes"/>
+      <point x="192.28" y="467.54"/>
+      <point x="263.09" y="546.11"/>
+      <point x="384.34" y="546.11" type="curve"/>
+      <point x="504.62" y="546.11"/>
+      <point x="574.46" y="467.54"/>
+      <point x="574.46" y="370.54" type="curve"/>
+      <point x="574.46" y="306.52" type="line"/>
+      <point x="574.46" y="209.52"/>
+      <point x="504.62" y="130.95"/>
+    </contour>
+    <contour>
+      <point x="384.34" y="223.1" type="curve"/>
+      <point x="417.32" y="223.1"/>
+      <point x="443.51" y="249.29"/>
+      <point x="443.51" y="281.3" type="curve"/>
+      <point x="443.51" y="395.76" type="line"/>
+      <point x="443.51" y="427.77"/>
+      <point x="417.32" y="453.96"/>
+      <point x="384.34" y="453.96" type="curve"/>
+      <point x="350.39" y="453.96"/>
+      <point x="324.2" y="427.77"/>
+      <point x="324.2" y="395.76" type="curve"/>
+      <point x="324.2" y="281.3" type="line" smooth="yes"/>
+      <point x="324.2" y="249.29"/>
+      <point x="350.39" y="223.1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.BRACKET.varAlt01" format="2">
+  <advance width="675.9203773584906"/>
+  <outline>
+    <contour>
+      <point x="238.90899320754716" y="0.0" type="line"/>
+      <point x="434.6224890566038" y="0.0" type="line"/>
+      <point x="434.6224890566038" y="200.0773245283019" type="line"/>
+      <point x="643.1314928301887" y="200.0773245283019" type="line"/>
+      <point x="643.1314928301887" y="288.73320150943397" type="line"/>
+      <point x="456.47735773584907" y="288.73320150943397" type="line"/>
+      <point x="499.0911781132076" y="351.67609886792457" type="line"/>
+      <point x="643.1314928301887" y="351.67609886792457" type="line"/>
+      <point x="643.1314928301887" y="439.63884679245285" type="line"/>
+      <point x="547.4894928301886" y="439.63884679245285" type="line"/>
+      <point x="680.3102384905661" y="667.36" type="line"/>
+      <point x="490.91909283018873" y="667.36" type="line"/>
+      <point x="341.87679924528305" y="391.87399698113205" type="line"/>
+      <point x="336.49414113207547" y="391.87399698113205" type="line"/>
+      <point x="188.1587396226415" y="667.36" type="line"/>
+      <point x="-6.990545660377358" y="667.36" type="line"/>
+      <point x="127.21645811320755" y="439.63884679245285" type="line"/>
+      <point x="29.210879245283017" y="439.63884679245285" type="line"/>
+      <point x="29.210879245283017" y="351.67609886792457" type="line"/>
+      <point x="174.65531471698114" y="351.67609886792457" type="line"/>
+      <point x="217.0541245283019" y="288.73320150943397" type="line"/>
+      <point x="29.210879245283017" y="288.73320150943397" type="line"/>
+      <point x="29.210879245283017" y="200.0773245283019" type="line"/>
+      <point x="238.90899320754716" y="200.0773245283019" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[48]</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

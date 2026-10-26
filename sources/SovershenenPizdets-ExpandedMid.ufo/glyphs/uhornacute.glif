@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute" format="2">
+  <advance width="556.0"/>
+  <unicode hex="1EE9"/>
+  <anchor x="306.74" y="0.0" name="bottom"/>
+  <anchor x="548.27" y="0.0" name="ogonek"/>
+  <anchor x="308.68" y="664.53" name="top"/>
+  <anchor x="435.75" y="587.75" name="topright"/>
+  <anchor x="435.75" y="500.52" name="_topright"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="acutecomb" xOffset="211.44" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

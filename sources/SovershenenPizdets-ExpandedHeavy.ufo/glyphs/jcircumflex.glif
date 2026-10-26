@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex" format="2">
+  <advance width="240.08962264150944"/>
+  <unicode hex="0135"/>
+  <anchor x="130.70377358490566" y="-242.5" name="bottom"/>
+  <anchor x="130.70377358490566" y="668.3484433962265" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="circumflexcomb" xOffset="-55.0047641509434" yOffset="4.927783018867925"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

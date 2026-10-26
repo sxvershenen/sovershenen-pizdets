@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.case.loclPLK" format="2">
+  <advance width="114.0"/>
+  <anchor x="21.56" y="667.36" name="_top"/>
+  <anchor x="28.35" y="803.16" name="top"/>
+  <outline>
+    <contour>
+      <point x="-25.0" y="722.65" type="line"/>
+      <point x="60.36" y="722.65" type="line"/>
+      <point x="138.93" y="856.51" type="line"/>
+      <point x="138.93" y="861.36" type="line"/>
+      <point x="19.62" y="861.36" type="line"/>
+      <point x="-25.0" y="727.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

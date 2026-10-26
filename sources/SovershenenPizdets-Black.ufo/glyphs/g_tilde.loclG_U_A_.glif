@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g_tilde.loclGUA" format="2">
+  <advance width="539.1067169811321"/>
+  <anchor x="276.3708324528302" y="-242.5" name="bottom"/>
+  <anchor x="281.4045833962264" y="667.36" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="tildecomb" xOffset="74.94142943396227" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>g</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>g</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

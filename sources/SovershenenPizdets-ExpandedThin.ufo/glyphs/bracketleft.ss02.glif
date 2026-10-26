@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft.ss02" format="2">
+  <advance width="335.0"/>
+  <outline>
+    <contour>
+      <point x="18.65" y="0.0" type="line"/>
+      <point x="360.09" y="0.0" type="line"/>
+      <point x="360.09" y="675.12" type="line"/>
+      <point x="159.3" y="675.12"/>
+      <point x="18.65" y="536.41"/>
+      <point x="18.65" y="337.56" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

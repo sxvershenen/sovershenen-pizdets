@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="100.0"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="-25.0" y="-184.3" type="line"/>
+      <point x="86.55" y="-184.3" type="line"/>
+      <point x="125.35" y="12.61" type="line"/>
+      <point x="125.35" y="17.46" type="line"/>
+      <point x="47.75" y="17.46" type="line"/>
+      <point x="-25.0" y="-179.45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gtilde.loclGUA.ss01" format="2">
+  <advance width="779.0071698113208"/>
+  <anchor x="396.77718867924534" y="0.0" name="bottom"/>
+  <anchor x="389.74047924528304" y="840.0199999999999" name="top"/>
+  <outline>
+    <component base="G.ss01"/>
+    <component base="tildecomb.case" xOffset="175.90848150943395" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

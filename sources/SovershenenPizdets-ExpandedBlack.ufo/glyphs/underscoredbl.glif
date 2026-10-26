@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscoredbl" format="2">
+  <advance width="361.00701886792456"/>
+  <unicode hex="2017"/>
+  <outline>
+    <component base="underscore" yOffset="-143.66490641509432"/>
+    <component base="underscore" yOffset="-11.791539622641512"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>underscore</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>underscore</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

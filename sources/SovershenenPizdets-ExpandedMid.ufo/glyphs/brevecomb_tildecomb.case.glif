@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb.case" format="2">
+  <anchor x="153.26" y="494.7" name="_top"/>
+  <anchor x="153.26" y="832.26" name="top"/>
+  <outline>
+    <contour>
+      <point x="152.29" y="558.72" type="curve" smooth="yes"/>
+      <point x="291.97" y="558.72"/>
+      <point x="305.55" y="617.89"/>
+      <point x="305.55" y="704.22" type="curve"/>
+      <point x="239.59" y="704.22" type="line"/>
+      <point x="239.59" y="652.81"/>
+      <point x="237.65" y="623.71"/>
+      <point x="152.29" y="623.71" type="curve" smooth="yes"/>
+      <point x="65.96" y="623.71"/>
+      <point x="65.96" y="652.81"/>
+      <point x="65.96" y="704.22" type="curve"/>
+      <point x="0.0" y="704.22" type="line"/>
+      <point x="0.0" y="617.89"/>
+      <point x="11.64" y="558.72"/>
+    </contour>
+    <contour>
+      <point x="-34.92" y="735.26" type="curve"/>
+      <point x="25.22" y="735.26" type="line"/>
+      <point x="25.22" y="773.09"/>
+      <point x="25.22" y="784.73"/>
+      <point x="57.23" y="784.73" type="curve" smooth="yes"/>
+      <point x="80.51" y="784.73"/>
+      <point x="108.64" y="776.97"/>
+      <point x="138.71" y="768.24" type="curve" smooth="yes"/>
+      <point x="177.51" y="756.6"/>
+      <point x="211.46" y="745.93"/>
+      <point x="257.05" y="745.93" type="curve" smooth="yes"/>
+      <point x="335.62" y="745.93"/>
+      <point x="342.41" y="788.61"/>
+      <point x="342.41" y="870.09" type="curve"/>
+      <point x="284.21" y="870.09" type="line"/>
+      <point x="284.21" y="833.23"/>
+      <point x="283.24" y="821.59"/>
+      <point x="251.23" y="821.59" type="curve" smooth="yes"/>
+      <point x="223.1" y="821.59"/>
+      <point x="197.88" y="829.35"/>
+      <point x="168.78" y="838.08" type="curve" smooth="yes"/>
+      <point x="130.95" y="848.75"/>
+      <point x="92.15" y="859.42"/>
+      <point x="52.38" y="859.42" type="curve" smooth="yes"/>
+      <point x="-28.13" y="859.42"/>
+      <point x="-34.92" y="816.74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>315</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

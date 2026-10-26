@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
+  <advance width="530.2924528301887"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="41.596462264150944" y="-183.33" type="line"/>
+      <point x="185.95259433962264" y="-183.33" type="line"/>
+      <point x="185.95259433962264" y="33.57481132075472" type="line"/>
+      <point x="201.39481132075468" y="33.57481132075472" type="line"/>
+      <point x="66.56938679245283" y="84.49537735849057" type="line"/>
+      <point x="103.22349056603774" y="24.25"/>
+      <point x="149.47235849056605" y="-5.380754716981132"/>
+      <point x="200.30127358490566" y="-5.380754716981132" type="curve" smooth="yes"/>
+      <point x="274.94094339622643" y="-5.380754716981132"/>
+      <point x="315.9280188679245" y="18.494056603773583"/>
+      <point x="340.4754245283019" y="60.67075471698113" type="curve"/>
+      <point x="348.83023584905663" y="60.67075471698113" type="line"/>
+      <point x="352.7102358490566" y="0.0" type="line"/>
+      <point x="488.931179245283" y="0.0" type="line"/>
+      <point x="488.931179245283" y="500.52" type="line"/>
+      <point x="344.57504716981134" y="500.52" type="line"/>
+      <point x="344.57504716981134" y="243.62556603773587" type="line" smooth="yes"/>
+      <point x="344.57504716981134" y="148.76820754716982"/>
+      <point x="336.20650943396225" y="115.64169811320755"/>
+      <point x="262.276037735849" y="115.64169811320755" type="curve" smooth="yes"/>
+      <point x="193.27334905660376" y="115.64169811320755"/>
+      <point x="185.95259433962264" y="123.25122641509434"/>
+      <point x="185.95259433962264" y="238.91740566037737" type="curve" smooth="yes"/>
+      <point x="185.95259433962264" y="500.52" type="line"/>
+      <point x="41.596462264150944" y="500.52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

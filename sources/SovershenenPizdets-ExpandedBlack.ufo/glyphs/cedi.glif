@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="655.0731320754717"/>
+  <unicode hex="20B5"/>
+  <anchor x="358.30054641509435" y="0.0" name="bottom"/>
+  <anchor x="358.30054641509435" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="328.13156981132073" y="-80.51" type="line"/>
+      <point x="459.40763622641515" y="-80.51" type="line"/>
+      <point x="459.40763622641515" y="747.87" type="line"/>
+      <point x="328.13156981132073" y="747.87" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="839.6603773584905"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="388.99372641509433" y="375.39" type="line"/>
+      <point x="464.2236320754717" y="375.39" type="line"/>
+      <point x="464.2236320754717" y="562.0463679245283" type="line"/>
+      <point x="468.10363207547164" y="562.0463679245283" type="line"/>
+      <point x="562.9851886792453" y="375.39" type="line"/>
+      <point x="602.7277358490567" y="375.39" type="line"/>
+      <point x="699.1741037735849" y="562.0463679245283" type="line"/>
+      <point x="702.3815094339623" y="562.0463679245283" type="line"/>
+      <point x="702.3815094339623" y="375.39" type="line"/>
+      <point x="779.2540094339622" y="375.39" type="line"/>
+      <point x="779.2540094339622" y="667.36" type="line"/>
+      <point x="677.2667452830188" y="667.36" type="line"/>
+      <point x="587.8162735849057" y="495.74320754716985" type="line"/>
+      <point x="582.371462264151" y="495.74320754716985" type="line"/>
+      <point x="490.6835849056604" y="667.36" type="line"/>
+      <point x="388.99372641509433" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="150.55674528301887" y="375.39" type="line"/>
+      <point x="232.4988679245283" y="375.39" type="line"/>
+      <point x="232.4988679245283" y="596.9663679245283" type="line"/>
+      <point x="341.5918396226415" y="596.9663679245283" type="line"/>
+      <point x="341.5918396226415" y="667.36" type="line"/>
+      <point x="42.43377358490566" y="667.36" type="line"/>
+      <point x="42.43377358490566" y="596.9663679245283" type="line"/>
+      <point x="150.55674528301887" y="596.9663679245283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

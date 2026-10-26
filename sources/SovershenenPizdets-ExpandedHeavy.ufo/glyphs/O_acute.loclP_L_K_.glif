@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oacute.loclPLK" format="2">
+  <advance width="754.3867924528302"/>
+  <anchor x="377.34457547169814" y="0.0" name="bottom"/>
+  <anchor x="377.34457547169814" y="333.68" name="center"/>
+  <anchor x="448.60297169811327" y="0.0" name="ogonek"/>
+  <anchor x="379.67349056603774" y="803.1599999999999" name="top"/>
+  <anchor x="-2.533962264150943" y="667.36" name="topleft"/>
+  <anchor x="453.201320754717" y="667.36" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="acute.case.loclPLK" xOffset="368.43528301886795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

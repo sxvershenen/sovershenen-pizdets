@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex.loclGUA" format="2">
+  <advance width="485.7169811320755"/>
+  <anchor x="461.84438679245284" y="0.0" name="bottom"/>
+  <anchor x="243.15971698113208" y="669.21" name="top"/>
+  <outline>
+    <component base="y.loclGUA"/>
+    <component base="circumflexcomb" xOffset="82.8397641509434" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.loclGUA" format="2">
+  <advance width="632.0"/>
+  <anchor x="316.44" y="0.0" name="bottom"/>
+  <anchor x="316.44" y="667.36" name="top"/>
+  <anchor x="30.29" y="667.36" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="316.44" y="195.94" type="curve" smooth="yes" name="1.0 ⛔️"/>
+      <point x="580.28" y="195.94"/>
+      <point x="601.62" y="255.11"/>
+      <point x="601.62" y="488.88" type="curve" smooth="yes"/>
+      <point x="601.62" y="667.36" type="line"/>
+      <point x="566.7" y="667.36" type="line"/>
+      <point x="566.7" y="459.78" type="line" smooth="yes"/>
+      <point x="566.7" y="274.51"/>
+      <point x="551.18" y="228.92"/>
+      <point x="316.44" y="228.92" type="curve" smooth="yes"/>
+      <point x="81.7" y="228.92"/>
+      <point x="65.21" y="274.51"/>
+      <point x="65.21" y="459.78" type="curve" smooth="yes"/>
+      <point x="65.21" y="667.36" type="line"/>
+      <point x="30.29" y="667.36" type="line"/>
+      <point x="30.29" y="488.88" type="line" smooth="yes"/>
+      <point x="30.29" y="255.11"/>
+      <point x="53.57" y="195.94"/>
+    </contour>
+    <contour>
+      <point x="298.98" y="0.0" type="line"/>
+      <point x="333.9" y="0.0" type="line"/>
+      <point x="333.9" y="204.67" type="line"/>
+      <point x="298.98" y="204.67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

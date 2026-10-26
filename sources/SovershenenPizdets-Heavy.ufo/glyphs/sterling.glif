@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="539.7311320754717"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="21.65198113207547" y="0.0" type="line"/>
+      <point x="521.018962264151" y="0.0" type="line"/>
+      <point x="521.018962264151" y="122.30693396226415" type="line"/>
+      <point x="249.78957547169813" y="122.30693396226415" type="line"/>
+      <point x="249.78957547169813" y="284.2374528301887" type="line"/>
+      <point x="436.6289622641509" y="284.2374528301887" type="line"/>
+      <point x="436.6289622641509" y="401.6303301886793" type="line"/>
+      <point x="249.78957547169813" y="401.6303301886793" type="line"/>
+      <point x="249.78957547169813" y="411.3303301886793" type="line" smooth="yes"/>
+      <point x="249.78957547169813" y="531.3815566037736"/>
+      <point x="268.297358490566" y="552.8130660377358"/>
+      <point x="394.46599056603776" y="552.8130660377358" type="curve" smooth="yes"/>
+      <point x="418.7937735849057" y="552.8130660377358"/>
+      <point x="469.23377358490563" y="548.9330660377359"/>
+      <point x="509.97377358490564" y="544.0830660377359" type="curve"/>
+      <point x="509.97377358490564" y="658.707783018868" type="line"/>
+      <point x="473.5667452830189" y="668.0325943396226"/>
+      <point x="408.43490566037735" y="675.12"/>
+      <point x="355.16268867924526" y="675.12" type="curve" smooth="yes"/>
+      <point x="145.06160377358492" y="675.12"/>
+      <point x="94.40198113207548" y="606.0303773584906"/>
+      <point x="94.40198113207548" y="411.3303301886793" type="curve" smooth="yes"/>
+      <point x="94.40198113207548" y="401.6303301886793" type="line"/>
+      <point x="21.65198113207547" y="401.6303301886793" type="line"/>
+      <point x="21.65198113207547" y="284.2374528301887" type="line"/>
+      <point x="93.43198113207546" y="284.2374528301887" type="line"/>
+      <point x="93.43198113207546" y="122.30693396226415" type="line"/>
+      <point x="21.65198113207547" y="122.30693396226415" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lira</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lira</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

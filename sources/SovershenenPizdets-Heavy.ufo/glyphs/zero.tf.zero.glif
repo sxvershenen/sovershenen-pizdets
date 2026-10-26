@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf.zero" format="2">
+  <advance width="557.132075471698"/>
+  <outline>
+    <contour>
+      <point x="115.83806603773586" y="279.076320754717" type="line"/>
+      <point x="441.7717924528302" y="279.076320754717" type="line"/>
+      <point x="441.7717924528302" y="387.31367924528297" type="line"/>
+      <point x="115.83806603773586" y="387.31367924528297" type="line"/>
+    </contour>
+    <component base="zero.tf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

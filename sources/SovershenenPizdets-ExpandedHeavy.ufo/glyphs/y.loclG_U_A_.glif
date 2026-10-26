@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.loclGUA" format="2">
+  <advance width="510.63679245283015"/>
+  <anchor x="486.64683962264144" y="0.0" name="bottom"/>
+  <anchor x="255.79669811320755" y="500.52" name="top"/>
+  <outline>
+    <contour>
+      <point x="143.64867924528303" y="-186.07514150943396" type="line"/>
+      <point x="292.57627358490566" y="-186.07514150943396" type="line"/>
+      <point x="353.51896226415096" y="0.0" type="line"/>
+      <point x="206.8986320754717" y="4.073160377358491" type="line"/>
+    </contour>
+    <component base="v"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute.BRACKET.varAlt01" format="2">
+  <advance width="507.0"/>
+  <anchor x="253.39" y="0.0" name="bottom"/>
+  <anchor x="253.39" y="253.17" name="center"/>
+  <anchor x="319.35" y="0.0" name="ogonek"/>
+  <anchor x="253.39" y="500.52" name="top"/>
+  <anchor x="298.98" y="500.52" name="topright"/>
+  <outline>
+    <contour>
+      <point x="395.98" y="417.1" type="line"/>
+      <point x="477.46" y="553.87" type="line"/>
+      <point x="388.22" y="553.87" type="line"/>
+      <point x="327.11" y="452.02" type="line"/>
+    </contour>
+    <contour>
+      <point x="29.32" y="-53.35" type="line"/>
+      <point x="117.59" y="-53.35" type="line"/>
+      <point x="175.79" y="43.65" type="line"/>
+      <point x="109.83" y="82.45" type="line"/>
+    </contour>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="162.21" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

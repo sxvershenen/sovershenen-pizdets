@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron" format="2">
+  <advance width="239.08962264150944"/>
+  <unicode hex="01D0"/>
+  <anchor x="129.73377358490566" y="0.0" name="bottom"/>
+  <anchor x="205.6225471698113" y="0.0" name="ogonek"/>
+  <anchor x="129.73377358490566" y="664.53" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="caroncomb" xOffset="-55.93957547169812" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

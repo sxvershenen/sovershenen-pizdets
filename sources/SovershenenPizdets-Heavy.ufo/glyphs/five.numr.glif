@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.numr" format="2">
+  <advance width="305.5188679245283"/>
+  <outline>
+    <contour>
+      <point x="142.29344339622642" y="294.88" type="curve" smooth="yes"/>
+      <point x="266.5952830188679" y="294.88"/>
+      <point x="295.0226886792452" y="333.2270283018868"/>
+      <point x="295.0226886792452" y="419.1818396226415" type="curve" smooth="yes"/>
+      <point x="295.0226886792452" y="488.64665094339625"/>
+      <point x="274.43306603773584" y="529.3088679245283"/>
+      <point x="177.12193396226417" y="529.3088679245283" type="curve" smooth="yes"/>
+      <point x="151.44896226415094" y="529.3088679245283"/>
+      <point x="125.6982075471698" y="527.6662735849056"/>
+      <point x="105.92301886792453" y="525.053679245283" type="curve"/>
+      <point x="105.92301886792453" y="595.6852358490565" type="line"/>
+      <point x="267.8626886792453" y="595.6852358490565" type="line"/>
+      <point x="267.8626886792453" y="666.312216981132" type="line"/>
+      <point x="25.15679245283019" y="666.312216981132" type="line"/>
+      <point x="25.15679245283019" y="455.69410377358486" type="line"/>
+      <point x="57.83938679245283" y="458.60410377358494"/>
+      <point x="99.47160377358492" y="461.2166981132076"/>
+      <point x="126.77344339622641" y="461.2166981132076" type="curve" smooth="yes"/>
+      <point x="189.03646226415094" y="461.2166981132076"/>
+      <point x="201.58240566037736" y="455.3189150943396"/>
+      <point x="201.58240566037736" y="413.06443396226416" type="curve" smooth="yes"/>
+      <point x="201.58240566037736" y="371.2629245283019"/>
+      <point x="190.3816509433962" y="364.23957547169806"/>
+      <point x="129.83900943396225" y="364.23957547169806" type="curve" smooth="yes"/>
+      <point x="103.05419811320755" y="364.23957547169806"/>
+      <point x="56.19679245283019" y="367.14957547169814"/>
+      <point x="21.276792452830186" y="370.0595754716981" type="curve"/>
+      <point x="21.276792452830186" y="305.1748113207547" type="line"/>
+      <point x="57.386415094339625" y="299.05740566037736"/>
+      <point x="107.45122641509434" y="294.88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>five.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>five.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="617.2641509433963"/>
+  <unicode hex="20AD"/>
+  <anchor x="308.9000943396227" y="0.0" name="bottom"/>
+  <anchor x="308.9000943396227" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-6.464292452830189" y="281.3274528301887" type="line"/>
+      <point x="578.6104245283019" y="281.3274528301887" type="line"/>
+      <point x="578.6104245283019" y="398.7203301886792" type="line"/>
+      <point x="-6.464292452830189" y="398.7203301886792" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

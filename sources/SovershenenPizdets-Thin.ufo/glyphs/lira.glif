@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="514.0"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="33.2" y="0.0" type="line"/>
+      <point x="490.07" y="0.0" type="line"/>
+      <point x="490.07" y="32.98" type="line"/>
+      <point x="139.9" y="32.98" type="line"/>
+      <point x="139.9" y="285.18" type="line" smooth="yes"/>
+      <point x="139.9" y="590.73"/>
+      <point x="139.9" y="642.14"/>
+      <point x="337.78" y="642.14" type="curve" smooth="yes"/>
+      <point x="388.22" y="642.14"/>
+      <point x="441.57" y="637.29"/>
+      <point x="478.43" y="631.47" type="curve"/>
+      <point x="478.43" y="662.51" type="line"/>
+      <point x="448.36" y="670.27"/>
+      <point x="391.13" y="675.12"/>
+      <point x="342.63" y="675.12" type="curve" smooth="yes"/>
+      <point x="135.05" y="675.12"/>
+      <point x="104.01" y="615.95"/>
+      <point x="104.98" y="350.17" type="curve" smooth="yes"/>
+      <point x="104.98" y="32.98" type="line"/>
+      <point x="33.2" y="32.98" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.2" y="244.44" type="line"/>
+      <point x="434.78" y="244.44" type="line"/>
+      <point x="434.78" y="277.42" type="line"/>
+      <point x="33.2" y="277.42" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.2" y="392.85" type="line"/>
+      <point x="434.78" y="392.85" type="line"/>
+      <point x="434.78" y="425.83" type="line"/>
+      <point x="33.2" y="425.83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

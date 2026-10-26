@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="2">
+  <advance width="672.2641509433962"/>
+  <unicode hex="2153"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="222.72481132075472"/>
+    <component base="three.dnom" xOffset="377.3803301886793"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one.numr</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="146.37849056603773" y="494.7" name="_top"/>
+  <anchor x="147.72367924528302" y="645.8369811320755" name="top"/>
+  <outline>
+    <contour>
+      <point x="147.05108490566036" y="708.9418867924528" type="curve" smooth="yes"/>
+      <point x="16.851462264150943" y="708.9418867924528"/>
+      <point x="0.0" y="649.1770754716981"/>
+      <point x="0.0" y="564.864858490566" type="curve"/>
+      <point x="81.43882075471699" y="564.864858490566" type="line"/>
+      <point x="81.43882075471699" y="604.8819339622642"/>
+      <point x="82.78400943396227" y="630.2574999999999"/>
+      <point x="147.05108490566036" y="630.2574999999999" type="curve" smooth="yes"/>
+      <point x="211.02075471698112" y="630.2574999999999"/>
+      <point x="211.02075471698112" y="604.8819339622642"/>
+      <point x="211.02075471698112" y="564.864858490566" type="curve"/>
+      <point x="291.7869811320754" y="564.864858490566" type="line"/>
+      <point x="291.7869811320754" y="649.1770754716981"/>
+      <point x="276.5781132075472" y="708.9418867924528"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>291</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

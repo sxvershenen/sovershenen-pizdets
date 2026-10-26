@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.numr" format="2">
+  <advance width="326.97388679245284"/>
+  <outline>
+    <contour>
+      <point x="12.888597735849057" y="298.76" type="line"/>
+      <point x="311.3228973584906" y="298.76" type="line"/>
+      <point x="311.3228973584906" y="377.49676679245283" type="line"/>
+      <point x="115.21569132075473" y="377.49676679245283" type="line"/>
+      <point x="115.21569132075473" y="393.43214641509434" type="line" smooth="yes"/>
+      <point x="115.21569132075473" y="407.64012075471703"/>
+      <point x="116.88204150943398" y="412.3841894339623"/>
+      <point x="136.29668301886792" y="418.9624" type="curve" smooth="yes"/>
+      <point x="236.7211124528302" y="454.8387833962264" type="line" smooth="yes"/>
+      <point x="294.09108528301886" y="475.35549132075477"/>
+      <point x="311.3228973584906" y="501.0169328301887"/>
+      <point x="311.3228973584906" y="567.7016875471699" type="curve" smooth="yes"/>
+      <point x="311.3228973584906" y="659.9208686792454"/>
+      <point x="245.60528754716984" y="671.9509916981132"/>
+      <point x="166.54047773584907" y="671.9509916981132" type="curve" smooth="yes"/>
+      <point x="119.96063849056604" y="671.9509916981132"/>
+      <point x="60.60300754716982" y="665.970520754717"/>
+      <point x="21.28718716981132" y="658.7464" type="curve"/>
+      <point x="21.28718716981132" y="585.8401750943397" type="line"/>
+      <point x="66.36114716981132" y="590.6933962264152"/>
+      <point x="114.75726566037737" y="593.5488566037736"/>
+      <point x="140.91571320754718" y="593.5488566037736" type="curve" smooth="yes"/>
+      <point x="191.78324528301886" y="593.5488566037736"/>
+      <point x="205.09149886792454" y="591.4933350943396"/>
+      <point x="205.09149886792454" y="562.3630271698114" type="curve" smooth="yes"/>
+      <point x="205.09149886792454" y="537.219602264151"/>
+      <point x="202.85076226415094" y="534.7469441509435"/>
+      <point x="171.43755018867927" y="522.8552566037736" type="curve" smooth="yes"/>
+      <point x="81.29394943396227" y="488.751081509434" type="line" smooth="yes" name="0.7 ⛔️"/>
+      <point x="13.493658113207546" y="462.93648981132077"/>
+      <point x="12.888597735849057" y="424.42024226415094"/>
+      <point x="12.888597735849057" y="362.0072211320755" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>two.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>two.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

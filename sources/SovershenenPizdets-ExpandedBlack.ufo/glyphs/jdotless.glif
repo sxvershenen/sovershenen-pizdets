@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="257.0092830188679"/>
+  <unicode hex="0237"/>
+  <anchor x="128.5931079245283" y="-218.19478716981132" name="bottom"/>
+  <anchor x="128.5931079245283" y="500.5199999999999" name="top"/>
+  <outline>
+    <contour>
+      <point x="-42.34103924528302" y="-194.2438920754717" type="line"/>
+      <point x="168.82686113207546" y="-194.2438920754717"/>
+      <point x="213.4544203773585" y="-177.97118716981134"/>
+      <point x="213.4544203773585" y="1.2169962264150902" type="curve" smooth="yes"/>
+      <point x="213.4544203773585" y="500.5199999999999" type="line"/>
+      <point x="42.752595471698115" y="500.5199999999999" type="line"/>
+      <point x="42.752595471698115" y="-29.630789433962264" type="line" smooth="yes"/>
+      <point x="42.752595471698115" y="-66.46882716981132"/>
+      <point x="37.90897660377359" y="-80.54480830188677"/>
+      <point x="-42.34103924528302" y="-80.54480830188677" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

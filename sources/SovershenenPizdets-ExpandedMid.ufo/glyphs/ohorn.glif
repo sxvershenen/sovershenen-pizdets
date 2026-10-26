@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="535.0"/>
+  <unicode hex="01A1"/>
+  <anchor x="267.65" y="0.0" name="bottom"/>
+  <anchor x="267.65" y="253.17" name="center"/>
+  <anchor x="334.29" y="0.0" name="ogonek"/>
+  <anchor x="267.65" y="500.52" name="top"/>
+  <anchor x="305.09" y="587.75" name="topright"/>
+  <anchor x="305.09" y="500.52" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="305.09" y="453.67" type="line"/>
+      <point x="394.62" y="453.67" type="line" smooth="yes"/>
+      <point x="511.56" y="453.67"/>
+      <point x="530.32" y="479.23"/>
+      <point x="530.32" y="571.31" type="curve" smooth="yes"/>
+      <point x="530.32" y="587.75" type="line"/>
+      <point x="451.75" y="587.75" type="line"/>
+      <point x="451.75" y="565.79" type="line" smooth="yes"/>
+      <point x="451.75" y="514.78"/>
+      <point x="445.3" y="500.52"/>
+      <point x="394.62" y="500.52" type="curve" smooth="yes"/>
+      <point x="305.09" y="500.52" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

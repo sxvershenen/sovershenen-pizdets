@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="407.95773584905663"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="162.84774264150946" y="305.5288430188679" type="line"/>
+      <point x="244.98397509433963" y="305.5288430188679" type="line"/>
+      <point x="234.29933358490567" y="432.4413003773585" type="line"/>
+      <point x="342.23536981132077" y="358.6543154716981" type="line"/>
+      <point x="382.6103569811321" y="431.27305433962266" type="line"/>
+      <point x="265.3181766037736" y="485.3685267924529" type="line"/>
+      <point x="382.6103569811321" y="541.6157886792453" type="line"/>
+      <point x="342.23536981132077" y="613.541398490566" type="line"/>
+      <point x="233.81799396226415" y="540.7244135849057" type="line"/>
+      <point x="244.98397509433963" y="667.36" type="line"/>
+      <point x="162.84774264150946" y="667.36" type="line"/>
+      <point x="173.32059471698113" y="539.7544135849057" type="line"/>
+      <point x="65.5963479245283" y="613.541398490566" type="line"/>
+      <point x="24.740021132075473" y="541.6157886792453" type="line"/>
+      <point x="141.74800981132077" y="485.3685267924529" type="line"/>
+      <point x="24.740021132075473" y="431.27305433962266" type="line"/>
+      <point x="65.5963479245283" y="358.6543154716981" type="line"/>
+      <point x="173.32059471698113" y="432.4413003773585" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

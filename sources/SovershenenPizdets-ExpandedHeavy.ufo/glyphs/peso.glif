@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="682.933962264151"/>
+  <unicode hex="20B1"/>
+  <anchor x="341.9075471698113" y="0.0" name="bottom"/>
+  <anchor x="341.9075471698113" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-21.933962264150942" y="463.17042452830185" type="line"/>
+      <point x="744.4849999999999" y="463.17042452830185" type="line"/>
+      <point x="744.4849999999999" y="528.3525943396226" type="line"/>
+      <point x="-21.933962264150942" y="528.3525943396226" type="line"/>
+    </contour>
+    <contour>
+      <point x="-21.933962264150942" y="352.63160377358486" type="line"/>
+      <point x="744.4849999999999" y="352.63160377358486" type="line"/>
+      <point x="744.4849999999999" y="417.8137735849057" type="line"/>
+      <point x="-21.933962264150942" y="417.8137735849057" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

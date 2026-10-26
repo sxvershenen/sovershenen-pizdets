@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdblgrave" format="2">
+  <advance width="758.3303396226415"/>
+  <unicode hex="0210"/>
+  <anchor x="379.9240060377359" y="0.0" name="bottom"/>
+  <anchor x="380.4566641509434" y="840.0199999999999" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dblgravecomb.case" xOffset="102.25971245283019" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

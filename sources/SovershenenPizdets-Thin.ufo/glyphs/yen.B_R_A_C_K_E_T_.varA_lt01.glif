@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.BRACKET.varAlt01" format="2">
+  <advance width="550.0"/>
+  <outline>
+    <contour>
+      <point x="257.27" y="0.0" type="line"/>
+      <point x="292.19" y="0.0" type="line"/>
+      <point x="292.19" y="253.17" type="line"/>
+      <point x="500.74" y="253.17" type="line"/>
+      <point x="500.74" y="286.15" type="line"/>
+      <point x="311.59" y="286.15" type="line"/>
+      <point x="391.13" y="420.98" type="line"/>
+      <point x="500.74" y="420.98" type="line"/>
+      <point x="500.74" y="453.96" type="line"/>
+      <point x="410.53" y="453.96" type="line"/>
+      <point x="536.63" y="667.36" type="line"/>
+      <point x="497.83" y="667.36" type="line"/>
+      <point x="278.61" y="286.15" type="line"/>
+      <point x="271.82" y="286.15" type="line"/>
+      <point x="53.57" y="667.36" type="line"/>
+      <point x="13.8" y="667.36" type="line"/>
+      <point x="138.93" y="453.96" type="line"/>
+      <point x="48.72" y="453.96" type="line"/>
+      <point x="48.72" y="420.98" type="line"/>
+      <point x="158.33" y="420.98" type="line"/>
+      <point x="237.87" y="286.15" type="line"/>
+      <point x="48.72" y="286.15" type="line"/>
+      <point x="48.72" y="253.17" type="line"/>
+      <point x="257.27" y="253.17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[48]</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

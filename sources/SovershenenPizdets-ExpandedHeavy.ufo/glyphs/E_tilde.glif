@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde" format="2">
+  <advance width="646.9056603773585"/>
+  <unicode hex="1EBC"/>
+  <anchor x="341.24867924528303" y="0.0" name="bottom"/>
+  <anchor x="606.4704716981132" y="0.0" name="ogonek"/>
+  <anchor x="341.24867924528303" y="840.02" name="top"/>
+  <anchor x="67.95575471698113" y="667.36" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="142.65948113207548" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

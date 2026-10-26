@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="539.1067169811321"/>
+  <unicode hex="0111"/>
+  <anchor x="269.8816173584906" y="0.0" name="bottom"/>
+  <anchor x="392.10466716981136" y="253.17" name="center"/>
+  <anchor x="392.10466716981136" y="678.1508000000001" name="top"/>
+  <anchor x="499.9317532075472" y="500.52000000000004" name="topright"/>
+  <outline>
+    <contour>
+      <point x="215.2615645283019" y="590.4914150943397" type="line"/>
+      <point x="558.6105162264151" y="590.4914150943397" type="line"/>
+      <point x="558.6105162264151" y="669.21" type="line"/>
+      <point x="215.2615645283019" y="669.21" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute.BRACKET.varAlt01" format="2">
+  <advance width="638.0"/>
+  <anchor x="322.26" y="0.0" name="bottom"/>
+  <anchor x="319.35" y="333.68" name="center"/>
+  <anchor x="391.13" y="0.0" name="ogonek"/>
+  <anchor x="322.26" y="667.36" name="top"/>
+  <anchor x="-5.6" y="667.36" name="topleft"/>
+  <anchor x="419.26" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="440.6" y="608.19" type="line"/>
+      <point x="504.62" y="563.57" type="line"/>
+      <point x="598.71" y="720.71" type="line"/>
+      <point x="508.5" y="720.71" type="line"/>
+    </contour>
+    <contour>
+      <point x="45.81" y="-53.35" type="line"/>
+      <point x="135.05" y="-53.35" type="line"/>
+      <point x="207.8" y="68.87" type="line"/>
+      <point x="132.14" y="91.18" type="line"/>
+    </contour>
+    <component base="O"/>
+    <component base="acutecomb.case" xOffset="253.39" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

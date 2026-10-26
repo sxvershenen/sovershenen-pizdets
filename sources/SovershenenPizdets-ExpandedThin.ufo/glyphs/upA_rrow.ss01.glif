@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow.ss01" format="2">
+  <advance width="285.0"/>
+  <outline>
+    <contour>
+      <point x="4.1" y="224.07" type="line"/>
+      <point x="280.55" y="224.07" type="line"/>
+      <point x="142.81" y="500.52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <advance width="382.9292452830189"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="65.21047169811321" y="216.6211320754717" type="line"/>
+      <point x="317.8222641509434" y="216.6211320754717" type="line"/>
+      <point x="317.8222641509434" y="449.76886792452825" type="line"/>
+      <point x="65.21047169811321" y="449.76886792452825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

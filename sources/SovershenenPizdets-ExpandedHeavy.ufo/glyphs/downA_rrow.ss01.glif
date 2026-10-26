@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow.ss01" format="2">
+  <advance width="291.1320754716981"/>
+  <outline>
+    <contour>
+      <point x="145.87603773584905" y="165.87" type="line"/>
+      <point x="283.6160377358491" y="442.32" type="line"/>
+      <point x="7.166037735849057" y="442.32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

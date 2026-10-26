@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="914.5990566037736"/>
+  <unicode hex="20A9"/>
+  <anchor x="457.6212264150943" y="0.0" name="bottom"/>
+  <anchor x="457.6212264150943" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-4.446509433962264" y="288.7991981132075" type="line"/>
+      <point x="918.718962264151" y="288.7991981132075" type="line"/>
+      <point x="918.718962264151" y="366.37174528301887" type="line"/>
+      <point x="-4.446509433962264" y="366.37174528301887" type="line"/>
+    </contour>
+    <component base="W"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

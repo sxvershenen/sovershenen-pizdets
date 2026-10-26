@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.numr" format="2">
+  <advance width="312.0"/>
+  <outline>
+    <contour>
+      <point x="215.56" y="298.76" type="line"/>
+      <point x="250.48" y="298.76" type="line"/>
+      <point x="250.48" y="386.06" type="line"/>
+      <point x="309.65" y="386.06" type="line"/>
+      <point x="309.65" y="418.07" type="line"/>
+      <point x="250.48" y="418.07" type="line"/>
+      <point x="250.48" y="556.78" type="line"/>
+      <point x="221.38" y="556.78" type="line"/>
+      <point x="215.56" y="418.07" type="line"/>
+      <point x="42.9" y="418.07" type="line"/>
+      <point x="192.28" y="663.48" type="line"/>
+      <point x="152.51" y="663.48" type="line"/>
+      <point x="3.13" y="414.19" type="line"/>
+      <point x="3.13" y="386.06" type="line"/>
+      <point x="215.56" y="386.06" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

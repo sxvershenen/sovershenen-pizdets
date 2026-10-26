@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave" format="2">
+  <advance width="508.5908679245283"/>
+  <unicode hex="1EF3"/>
+  <anchor x="274.45960301886794" y="-200.45214716981133" name="bottom"/>
+  <anchor x="285.87910188679245" y="664.53" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="gravecomb" xOffset="75.23855924528303" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
+  <advance width="559.372641509434"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="45.88283018867924" y="-187.42726415094342" type="line"/>
+      <point x="192.208679245283" y="-187.42726415094342" type="line"/>
+      <point x="192.208679245283" y="26.722405660377355" type="line"/>
+      <point x="211.39570754716982" y="27.429669811320757" type="line"/>
+      <point x="97.95334905660377" y="62.60155660377359" type="line"/>
+      <point x="128.60650943396226" y="17.397594339622643"/>
+      <point x="170.21749999999997" y="-5.380754716981132"/>
+      <point x="218.27188679245285" y="-5.380754716981132" type="curve" smooth="yes"/>
+      <point x="294.5441981132076" y="-5.380754716981132"/>
+      <point x="337.14254716981134" y="18.915849056603776"/>
+      <point x="362.1341981132075" y="61.61377358490566" type="curve"/>
+      <point x="370.82900943396226" y="61.61377358490566" type="line"/>
+      <point x="374.70900943396225" y="0.0" type="line"/>
+      <point x="512.7954245283019" y="0.0" type="line"/>
+      <point x="512.7954245283019" y="500.52" type="line"/>
+      <point x="366.46957547169814" y="500.52" type="line"/>
+      <point x="366.46957547169814" y="243.36735849056606" type="line" smooth="yes"/>
+      <point x="366.46957547169814" y="151.50735849056605"/>
+      <point x="357.2895283018868" y="115.94485849056605"/>
+      <point x="276.01481132075475" y="115.94485849056605" type="curve" smooth="yes"/>
+      <point x="200.70820754716982" y="115.94485849056605"/>
+      <point x="192.208679245283" y="124.0491037735849"/>
+      <point x="192.208679245283" y="239.1258962264151" type="curve" smooth="yes"/>
+      <point x="192.208679245283" y="500.52" type="line"/>
+      <point x="45.88283018867924" y="500.52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

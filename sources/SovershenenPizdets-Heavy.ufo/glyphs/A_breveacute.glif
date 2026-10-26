@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreveacute" format="2">
+  <advance width="591.1981132075472"/>
+  <unicode hex="1EAE"/>
+  <anchor x="311.8878773584906" y="0.0" name="bottom"/>
+  <anchor x="634.792641509434" y="0.0" name="ogonek"/>
+  <anchor x="311.8878773584906" y="1001.5570283018868" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_acutecomb.case" xOffset="149.36094339622642" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

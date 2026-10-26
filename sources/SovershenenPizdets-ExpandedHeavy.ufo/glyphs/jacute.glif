@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jacute" format="2">
+  <advance width="240.08962264150944"/>
+  <anchor x="130.70377358490566" y="-242.5" name="bottom"/>
+  <anchor x="132.64377358490566" y="662.51" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="acutecomb" xOffset="40.366367924528305" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

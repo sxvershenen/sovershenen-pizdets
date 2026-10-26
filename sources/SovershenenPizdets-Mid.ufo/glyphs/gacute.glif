@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gacute" format="2">
+  <advance width="517.0"/>
+  <unicode hex="01F5"/>
+  <anchor x="248.54" y="-242.5" name="bottom"/>
+  <anchor x="259.21" y="664.53" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="acutecomb" xOffset="168.03" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

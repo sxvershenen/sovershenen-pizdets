@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohm" format="2">
+  <advance width="803.6947924528301"/>
+  <unicode hex="2126"/>
+  <anchor x="402.5182709433962" y="0.0" name="bottom"/>
+  <anchor x="-0.5622641509433961" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

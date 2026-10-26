@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <anchor x="126.1" y="494.7" name="_top"/>
+  <anchor x="126.1" y="840.02" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="588.79" type="line"/>
+      <point x="26.19" y="588.79" type="line"/>
+      <point x="126.1" y="693.55" type="line"/>
+      <point x="226.01" y="588.79" type="line"/>
+      <point x="252.2" y="588.79" type="line"/>
+      <point x="252.2" y="593.64" type="line"/>
+      <point x="148.41" y="722.65" type="line"/>
+      <point x="103.79" y="722.65" type="line"/>
+      <point x="0.0" y="593.64" type="line"/>
+    </contour>
+    <contour>
+      <point x="-31.04" y="775.03" type="curve"/>
+      <point x="-4.85" y="775.03" type="line"/>
+      <point x="-4.85" y="818.68"/>
+      <point x="0.0" y="835.17"/>
+      <point x="29.1" y="835.17" type="curve" smooth="yes"/>
+      <point x="60.14" y="835.17"/>
+      <point x="87.3" y="823.53"/>
+      <point x="115.43" y="812.86" type="curve" smooth="yes"/>
+      <point x="152.29" y="799.28"/>
+      <point x="183.33" y="785.7"/>
+      <point x="222.13" y="785.7" type="curve" smooth="yes"/>
+      <point x="272.57" y="785.7"/>
+      <point x="282.27" y="809.95"/>
+      <point x="282.27" y="877.85" type="curve"/>
+      <point x="256.08" y="877.85" type="line"/>
+      <point x="256.08" y="834.2"/>
+      <point x="251.23" y="817.71"/>
+      <point x="222.13" y="817.71" type="curve" smooth="yes"/>
+      <point x="191.09" y="817.71"/>
+      <point x="163.93" y="829.35"/>
+      <point x="135.8" y="840.02" type="curve" smooth="yes"/>
+      <point x="98.94" y="853.6"/>
+      <point x="64.99" y="867.18"/>
+      <point x="29.1" y="867.18" type="curve" smooth="yes"/>
+      <point x="-21.34" y="867.18"/>
+      <point x="-31.04" y="842.93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>260</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="438.13207547169816"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="24.717547169811322" y="242.6052358490566" type="line"/>
+      <point x="412.8319339622641" y="242.6052358490566" type="line"/>
+      <point x="412.8319339622641" y="346.4821698113208" type="line"/>
+      <point x="24.717547169811322" y="346.4821698113208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

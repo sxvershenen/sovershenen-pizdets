@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute.loclPLK" format="2">
+  <advance width="578.9217358490566"/>
+  <anchor x="287.1565003773585" y="0.0" name="bottom"/>
+  <anchor x="289.9258686792453" y="253.17" name="center"/>
+  <anchor x="287.1565003773585" y="664.53" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="acute.loclPLK" xOffset="246.3422249056604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

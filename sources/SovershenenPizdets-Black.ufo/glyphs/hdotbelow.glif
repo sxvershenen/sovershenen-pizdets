@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdotbelow" format="2">
+  <advance width="545.5878490566038"/>
+  <unicode hex="1E25"/>
+  <anchor x="284.8990988679245" y="-214.0538166037736" name="bottom"/>
+  <anchor x="125.8597758490566" y="253.17" name="center"/>
+  <anchor x="126.07156528301887" y="679.5877358490567" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="dotbelowcomb" xOffset="208.42856"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

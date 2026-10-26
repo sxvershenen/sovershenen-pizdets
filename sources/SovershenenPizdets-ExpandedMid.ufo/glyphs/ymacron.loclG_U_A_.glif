@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron.loclGUA" format="2">
+  <advance width="495.0"/>
+  <anchor x="497.83" y="0.0" name="bottom"/>
+  <anchor x="270.85" y="673.89" name="top"/>
+  <outline>
+    <component base="y.loclGUA"/>
+    <component base="macroncomb" xOffset="88.1" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

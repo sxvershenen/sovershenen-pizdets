@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="721.4452830188679"/>
+  <outline>
+    <contour>
+      <point x="407.79756" y="0.0" type="line"/>
+      <point x="586.6938913207546" y="0.0" type="line"/>
+      <point x="586.6938913207546" y="102.76048226415097" type="line"/>
+      <point x="681.6530113207548" y="102.76048226415097" type="line"/>
+      <point x="681.6530113207548" y="238.9398437735849" type="line"/>
+      <point x="586.6938913207546" y="238.9398437735849" type="line"/>
+      <point x="586.6938913207546" y="354.74847320754714" type="line"/>
+      <point x="470.1859101886792" y="354.74847320754714" type="line"/>
+      <point x="412.97479773584905" y="238.9398437735849" type="line"/>
+      <point x="236.82016226415095" y="238.9398437735849" type="line"/>
+      <point x="519.4453652830189" y="567.45" type="line"/>
+      <point x="321.5748822641509" y="567.45" type="line"/>
+      <point x="42.02322490566038" y="226.5018083018868" type="line"/>
+      <point x="42.02322490566038" y="102.76048226415097" type="line"/>
+      <point x="407.79756" y="102.76048226415097" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

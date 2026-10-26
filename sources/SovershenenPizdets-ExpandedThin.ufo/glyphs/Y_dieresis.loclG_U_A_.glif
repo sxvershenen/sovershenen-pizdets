@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis.loclGUA" format="2">
+  <advance width="632.0"/>
+  <anchor x="316.44" y="0.0" name="bottom"/>
+  <anchor x="316.44" y="841.96" name="top"/>
+  <anchor x="30.29" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="dieresiscomb.case" xOffset="183.55" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy" format="2">
+  <advance width="725.0"/>
+  <unicode hex="0448"/>
+  <anchor x="362.67" y="500.52" name="top"/>
+  <anchor x="362.67" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="72.0" y="500.52" type="line"/>
+      <point x="72.0" y="0.0" type="line"/>
+      <point x="653.34" y="0.0" type="line"/>
+      <point x="653.34" y="500.52" type="line"/>
+      <point x="619.39" y="500.52" type="line"/>
+      <point x="619.39" y="30.42" type="line"/>
+      <point x="379.65" y="30.42" type="line"/>
+      <point x="379.65" y="500.52" type="line"/>
+      <point x="345.7" y="500.52" type="line"/>
+      <point x="345.7" y="30.42" type="line"/>
+      <point x="105.95" y="30.42" type="line"/>
+      <point x="105.95" y="500.52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

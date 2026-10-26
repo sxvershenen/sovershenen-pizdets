@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf.zero" format="2">
+  <advance width="675.4009433962265"/>
+  <outline>
+    <contour>
+      <point x="147.81146226415095" y="236.24075471698114" type="line"/>
+      <point x="529.0717924528302" y="236.24075471698114" type="line"/>
+      <point x="529.0717924528302" y="334.41665094339623" type="line"/>
+      <point x="147.81146226415095" y="334.41665094339623" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero.osf</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

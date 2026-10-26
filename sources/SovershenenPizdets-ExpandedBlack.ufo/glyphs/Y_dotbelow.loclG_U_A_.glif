@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydotbelow.loclGUA" format="2">
+  <advance width="721.9356981132075"/>
+  <anchor x="361.0460158490566" y="-226.26300528301886" name="bottom"/>
+  <anchor x="361.7656060377359" y="667.36" name="top"/>
+  <anchor x="33.159108679245286" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="dotbelowcomb.case" xOffset="292.9175283018868"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

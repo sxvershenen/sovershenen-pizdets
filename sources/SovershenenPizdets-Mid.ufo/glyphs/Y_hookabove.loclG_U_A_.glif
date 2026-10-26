@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yhookabove.loclGUA" format="2">
+  <advance width="551.0"/>
+  <anchor x="274.73" y="0.0" name="bottom"/>
+  <anchor x="274.73" y="840.02" name="top"/>
+  <anchor x="13.8" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="hookabovecomb.case" xOffset="155.42" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.BRACKET.varAlt01" format="2">
+  <advance width="771.0"/>
+  <anchor x="385.31" y="0.0" name="bottom"/>
+  <anchor x="385.31" y="333.68" name="center"/>
+  <anchor x="414.41" y="0.0" name="ogonek"/>
+  <anchor x="385.31" y="667.36" name="top"/>
+  <anchor x="-5.6" y="667.36" name="topleft"/>
+  <anchor x="545.36" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="660.79" y="-111.55" type="line"/>
+      <point x="704.44" y="-111.55" type="line"/>
+      <point x="704.44" y="-109.61" type="line"/>
+      <point x="589.98" y="19.4" type="line"/>
+      <point x="554.09" y="9.7" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[64]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

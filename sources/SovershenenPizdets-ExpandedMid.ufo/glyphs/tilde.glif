@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="327.0"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="-25.0" y="570.36" type="curve"/>
+      <point x="35.14" y="570.36" type="line"/>
+      <point x="35.14" y="608.19"/>
+      <point x="35.14" y="619.83"/>
+      <point x="67.15" y="619.83" type="curve" smooth="yes"/>
+      <point x="90.43" y="619.83"/>
+      <point x="118.56" y="612.07"/>
+      <point x="148.63" y="603.34" type="curve" smooth="yes"/>
+      <point x="187.43" y="591.7"/>
+      <point x="221.38" y="581.03"/>
+      <point x="266.97" y="581.03" type="curve" smooth="yes"/>
+      <point x="345.54" y="581.03"/>
+      <point x="352.33" y="623.71"/>
+      <point x="352.33" y="705.19" type="curve"/>
+      <point x="294.13" y="705.19" type="line"/>
+      <point x="294.13" y="668.33"/>
+      <point x="293.16" y="656.69"/>
+      <point x="261.15" y="656.69" type="curve" smooth="yes"/>
+      <point x="233.02" y="656.69"/>
+      <point x="207.8" y="664.45"/>
+      <point x="178.7" y="673.18" type="curve" smooth="yes"/>
+      <point x="140.87" y="683.85"/>
+      <point x="102.07" y="694.52"/>
+      <point x="62.3" y="694.52" type="curve" smooth="yes"/>
+      <point x="-18.21" y="694.52"/>
+      <point x="-25.0" y="651.84"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

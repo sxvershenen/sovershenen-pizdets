@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <anchor x="153.26" y="494.7" name="_top"/>
+  <anchor x="153.26" y="827.41" name="top"/>
+  <outline>
+    <contour>
+      <point x="152.29" y="558.72" type="curve" smooth="yes"/>
+      <point x="291.97" y="558.72"/>
+      <point x="305.55" y="617.89"/>
+      <point x="305.55" y="704.22" type="curve"/>
+      <point x="239.59" y="704.22" type="line"/>
+      <point x="239.59" y="652.81"/>
+      <point x="237.65" y="623.71"/>
+      <point x="152.29" y="623.71" type="curve" smooth="yes"/>
+      <point x="65.96" y="623.71"/>
+      <point x="65.96" y="652.81"/>
+      <point x="65.96" y="704.22" type="curve"/>
+      <point x="0.0" y="704.22" type="line"/>
+      <point x="0.0" y="617.89"/>
+      <point x="11.64" y="558.72"/>
+    </contour>
+    <contour>
+      <point x="58.2" y="732.35" type="line"/>
+      <point x="137.74" y="732.35" type="line"/>
+      <point x="296.82" y="869.12" type="line"/>
+      <point x="296.82" y="873.97" type="line"/>
+      <point x="180.42" y="873.97" type="line"/>
+      <point x="58.2" y="737.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>315</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I-cy" format="2">
+  <advance width="325.92520754716986"/>
+  <unicode hex="0406"/>
+  <anchor x="162.78258792452831" y="0.0" name="bottom"/>
+  <anchor x="261.3271939622641" y="0.0" name="ogonek"/>
+  <anchor x="162.78258792452831" y="667.36" name="top"/>
+  <anchor x="64.93111094339622" y="667.36" name="topleft"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+</glyph>

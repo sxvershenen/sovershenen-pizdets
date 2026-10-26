@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.ss01" format="2">
+  <advance width="628.4669811320755"/>
+  <anchor x="314.6697641509434" y="0.0" name="bottom"/>
+  <anchor x="580.6556603773585" y="0.0" name="ogonek"/>
+  <anchor x="314.37235849056606" y="1092.22" name="top"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="ringcomb.case" xOffset="174.11127358490566" yOffset="172.66"/>
+    <component base="acutecomb.case" xOffset="237.1109433962264" yOffset="429.71000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

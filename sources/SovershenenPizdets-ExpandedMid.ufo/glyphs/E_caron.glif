@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="642.0"/>
+  <unicode hex="011A"/>
+  <anchor x="346.51" y="0.0" name="bottom"/>
+  <anchor x="601.62" y="0.0" name="ogonek"/>
+  <anchor x="346.51" y="835.17" name="top"/>
+  <anchor x="79.76" y="667.36" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="caroncomb.case" xOffset="180.64" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

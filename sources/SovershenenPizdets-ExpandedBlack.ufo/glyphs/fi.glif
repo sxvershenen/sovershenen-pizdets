@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="701.0045283018868"/>
+  <unicode hex="FB01"/>
+  <anchor x="350.2427418867925" y="0.0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="99.83158264150944" y="0.0" type="line"/>
+      <point x="269.8053539622641" y="0.0" type="line"/>
+      <point x="269.8053539622641" y="377.35292226415095" type="line"/>
+      <point x="397.13821056603774" y="377.35292226415095" type="line"/>
+      <point x="397.13821056603774" y="500.5199999999999" type="line"/>
+      <point x="269.8053539622641" y="500.5199999999999" type="line"/>
+      <point x="269.8053539622641" y="554.6809343396227" type="line" smooth="yes"/>
+      <point x="269.8053539622641" y="606.987556981132"/>
+      <point x="280.1865916981132" y="611.4176369811321"/>
+      <point x="397.13821056603774" y="611.4176369811321" type="curve"/>
+      <point x="397.13821056603774" y="719.7807320754716" type="line"/>
+      <point x="151.73061433962263" y="719.7807320754716"/>
+      <point x="99.83158264150944" y="715.8217290566038"/>
+      <point x="99.83158264150944" y="534.8324550943396" type="curve" smooth="yes"/>
+      <point x="99.83158264150944" y="500.5199999999999" type="line"/>
+      <point x="1.127526037735849" y="500.5199999999999" type="line"/>
+      <point x="1.127526037735849" y="377.35292226415095" type="line"/>
+      <point x="99.83158264150944" y="377.35292226415095" type="line"/>
+    </contour>
+    <contour>
+      <point x="486.54012075471695" y="0.0" type="line"/>
+      <point x="657.2492" y="0.0" type="line"/>
+      <point x="657.2492" y="500.5199999999999" type="line"/>
+      <point x="486.54012075471695" y="500.5199999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="485.5774415094339" y="597.9082309433961" type="line"/>
+      <point x="658.6977841509433" y="597.9082309433961" type="line"/>
+      <point x="658.6977841509433" y="720.71" type="line"/>
+      <point x="485.5774415094339" y="720.71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

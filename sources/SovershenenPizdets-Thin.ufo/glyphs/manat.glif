@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="645.0"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="76.85" y="0.0" type="line"/>
+      <point x="111.77" y="0.0" type="line"/>
+      <point x="111.77" y="411.28" type="line" smooth="yes"/>
+      <point x="111.77" y="590.73"/>
+      <point x="124.38" y="639.23"/>
+      <point x="303.83" y="642.14" type="curve"/>
+      <point x="303.83" y="0.0" type="line"/>
+      <point x="338.75" y="0.0" type="line"/>
+      <point x="338.75" y="642.14" type="line"/>
+      <point x="522.08" y="639.23"/>
+      <point x="533.72" y="591.7"/>
+      <point x="533.72" y="411.28" type="curve" smooth="yes"/>
+      <point x="533.72" y="0.0" type="line"/>
+      <point x="568.64" y="0.0" type="line"/>
+      <point x="568.64" y="411.28" type="line" smooth="yes"/>
+      <point x="568.64" y="610.13"/>
+      <point x="546.33" y="672.21"/>
+      <point x="338.75" y="675.12" type="curve"/>
+      <point x="338.75" y="747.87" type="line"/>
+      <point x="303.83" y="747.87" type="line"/>
+      <point x="303.83" y="675.12" type="line"/>
+      <point x="100.13" y="671.24"/>
+      <point x="76.85" y="609.16"/>
+      <point x="76.85" y="411.28" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="639.8396226415094"/>
+  <unicode hex="0051"/>
+  <anchor x="320.33419811320755" y="0.0" name="bottom"/>
+  <anchor x="320.33419811320755" y="333.68" name="center"/>
+  <anchor x="397.46750000000003" y="0.0" name="ogonek"/>
+  <anchor x="320.33419811320755" y="667.36" name="top"/>
+  <anchor x="-2.533962264150943" y="667.36" name="topleft"/>
+  <anchor x="422.92084905660374" y="667.36" name="topright"/>
+  <outline>
+    <contour>
+      <point x="467.23429245283023" y="-111.54999999999998" type="line"/>
+      <point x="635.5430188679246" y="-111.54999999999998" type="line"/>
+      <point x="635.5430188679246" y="-107.52816037735849" type="line"/>
+      <point x="408.54929245283023" y="211.46000000000004" type="line"/>
+      <point x="249.04834905660377" y="211.46000000000004" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

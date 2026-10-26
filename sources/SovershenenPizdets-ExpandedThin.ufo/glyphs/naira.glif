@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="784.0"/>
+  <unicode hex="20A6"/>
+  <anchor x="392.1" y="0.0" name="bottom"/>
+  <anchor x="392.1" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="-6.57" y="323.98" type="line"/>
+      <point x="789.8" y="323.98" type="line"/>
+      <point x="789.8" y="354.05" type="line"/>
+      <point x="-6.57" y="354.05" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

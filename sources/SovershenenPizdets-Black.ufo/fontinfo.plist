@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>721</integer>
+    <key>capHeight</key>
+    <integer>667</integer>
+    <key>copyright</key>
+    <string>Copyright 2020 The Saira Project Authors (https://github.com/Omnibus-Type/Saira). Copyright 2026 Sovershenen (Sovershenen Pizdets: Cyrillic, redrawn letterforms, metrics).</string>
+    <key>descender</key>
+    <integer>-242</integer>
+    <key>familyName</key>
+    <string>Sovershenen Pizdets</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2020/11/17 16:19:45</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1101</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-426</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Sovershenen Pizdets is a modified version of Saira by Omnibus-Type (SIL OFL 1.1). Not affiliated with or endorsed by Omnibus-Type.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Héctor Gatti, Omnibus-Type Team (Saira); Sovershenen (modifications)</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/Omnibus-Type/Saira</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Sovershenen</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://github.com/sxvershenen/sovershenen-pizdets</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 3.16</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1101</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-426</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>NONE</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1130</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>426</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-9</integer>
+      <integer>0</integer>
+      <integer>495</integer>
+      <integer>503</integer>
+      <integer>667</integer>
+      <integer>676</integer>
+      <integer>721</integer>
+      <integer>736</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-258</integer>
+      <integer>-242</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>109</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>124</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-155</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>97</integer>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>3</integer>
+    <key>versionMinor</key>
+    <integer>160</integer>
+    <key>xHeight</key>
+    <integer>501</integer>
+  </dict>
+</plist>

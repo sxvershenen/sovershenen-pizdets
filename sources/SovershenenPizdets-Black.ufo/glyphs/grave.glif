@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="219.6764528301887"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="123.63221660377359" y="557.6832347169811" type="line"/>
+      <point x="239.83301886792455" y="557.6832347169811" type="line"/>
+      <point x="239.83301886792455" y="562.5332347169812" type="line"/>
+      <point x="140.73393886792454" y="700.1104943396226" type="line"/>
+      <point x="-19.962264150943398" y="700.1104943396226" type="line"/>
+      <point x="-19.962264150943398" y="695.2604943396227" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

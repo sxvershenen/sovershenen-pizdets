@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nj" format="2">
+  <advance width="1143.1249056603774"/>
+  <unicode hex="01CB"/>
+  <anchor x="998.770316226415" y="-264.0550105660377" name="bottom"/>
+  <anchor x="998.770316226415" y="494.70000000000005" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="j" xOffset="853.8126679245282"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

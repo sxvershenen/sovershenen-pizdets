@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="282.003320754717"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="45.42722943396227" y="-172.66000000000003" type="line"/>
+      <point x="236.84146566037737" y="-172.66000000000003" type="line"/>
+      <point x="236.84146566037737" y="-130.8010958490566" type="line"/>
+      <point x="236.84146566037737" y="-81.43995547169811"/>
+      <point x="219.33563773584908" y="120.7815449056604"/>
+      <point x="203.94228679245285" y="264.2604309433963" type="curve"/>
+      <point x="77.8996083018868" y="264.2604309433963" type="line"/>
+      <point x="62.50625735849057" y="120.7815449056604"/>
+      <point x="45.42722943396227" y="-81.43995547169811"/>
+      <point x="45.42722943396227" y="-130.8010958490566" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="52.79293358490566" y="349.24187471698116" type="line"/>
+      <point x="229.47576150943397" y="349.24187471698116" type="line"/>
+      <point x="229.47576150943397" y="494.7" type="line"/>
+      <point x="52.79293358490566" y="494.7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="559.372641509434"/>
+  <unicode hex="0075"/>
+  <anchor x="264.9688679245283" y="0.0" name="bottom"/>
+  <anchor x="513.4754245283019" y="0.0" name="ogonek"/>
+  <anchor x="280.02259433962263" y="500.52" name="top"/>
+  <anchor x="381.0663207547169" y="500.52" name="topright"/>
+  <outline>
+    <contour>
+      <point x="208.571320754717" y="-7.76" type="curve" smooth="yes"/>
+      <point x="282.3849528301887" y="-7.76"/>
+      <point x="334.1531603773585" y="12.700990566037737"/>
+      <point x="362.81419811320757" y="61.61377358490566" type="curve"/>
+      <point x="371.50900943396226" y="61.61377358490566" type="line"/>
+      <point x="375.38900943396226" y="0.0" type="line"/>
+      <point x="513.4754245283019" y="0.0" type="line"/>
+      <point x="513.4754245283019" y="500.52" type="line"/>
+      <point x="367.1495754716981" y="500.52" type="line"/>
+      <point x="367.1495754716981" y="243.36735849056606" type="line" smooth="yes"/>
+      <point x="367.1495754716981" y="151.50735849056605"/>
+      <point x="357.9695283018868" y="115.94485849056605"/>
+      <point x="276.6948113207547" y="115.94485849056605" type="curve" smooth="yes"/>
+      <point x="201.38820754716983" y="115.94485849056605"/>
+      <point x="192.88867924528302" y="124.0491037735849"/>
+      <point x="192.88867924528302" y="239.1258962264151" type="curve" smooth="yes"/>
+      <point x="192.88867924528302" y="500.52" type="line"/>
+      <point x="46.56283018867925" y="500.52" type="line"/>
+      <point x="46.56283018867925" y="193.41240566037735" type="line" smooth="yes"/>
+      <point x="46.56283018867925" y="61.70768867924528"/>
+      <point x="67.4366037735849" y="-7.76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

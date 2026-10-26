@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="836.5745660377358"/>
+  <unicode hex="0175"/>
+  <anchor x="471.63249132075475" y="0.0" name="bottom"/>
+  <anchor x="471.63249132075475" y="667.1715305660377" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="circumflexcomb" xOffset="230.667800754717" yOffset="3.708987169811321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

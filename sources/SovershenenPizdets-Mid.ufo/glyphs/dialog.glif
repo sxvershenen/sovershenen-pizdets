@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialog" format="2">
+  <advance width="731.0"/>
+  <outline>
+    <contour>
+      <point x="271.82" y="-205.64" type="line"/>
+      <point x="478.43" y="0.0" type="line"/>
+      <point x="698.62" y="0.0" type="line"/>
+      <point x="698.62" y="667.36" type="line"/>
+      <point x="32.23" y="667.36" type="line"/>
+      <point x="32.23" y="0.0" type="line"/>
+      <point x="271.82" y="0.0" type="line"/>
+      <point x="271.82" y="58.2" type="line"/>
+      <point x="90.43" y="58.2" type="line"/>
+      <point x="90.43" y="609.16" type="line"/>
+      <point x="640.42" y="609.16" type="line"/>
+      <point x="640.42" y="58.2" type="line"/>
+      <point x="454.18" y="58.2" type="line"/>
+      <point x="271.82" y="-123.19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

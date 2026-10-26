@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign.BRACKET.varAlt01" format="2">
+  <advance width="613.0"/>
+  <anchor x="355.24" y="0.0" name="bottom"/>
+  <anchor x="355.24" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="346.51" y="-80.51" type="line"/>
+      <point x="380.46" y="-80.51" type="line"/>
+      <point x="591.92" y="747.87" type="line"/>
+      <point x="558.94" y="747.87" type="line"/>
+    </contour>
+    <contour>
+      <point x="206.83" y="-80.51" type="line"/>
+      <point x="240.78" y="-80.51" type="line"/>
+      <point x="452.24" y="747.87" type="line"/>
+      <point x="419.26" y="747.87" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

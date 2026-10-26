@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jacute" format="2">
+  <advance width="738.4716981132076"/>
+  <anchor x="591.6825471698114" y="0.0" name="bottom"/>
+  <anchor x="229.7947641509434" y="0.0" name="ogonek"/>
+  <anchor x="591.6825471698114" y="835.17" name="top"/>
+  <anchor x="66.61056603773584" y="667.36" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="43.58679245283019" yOffset="172.66"/>
+    <component base="J" xOffset="339.6006603773585"/>
+    <component base="acutecomb.case" xOffset="43.58679245283019" yOffset="340.47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

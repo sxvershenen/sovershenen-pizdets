@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.ss02" format="2">
+  <advance width="742.0"/>
+  <outline>
+    <contour>
+      <point x="147.66" y="-13.58" type="line"/>
+      <point x="371.73" y="151.32" type="line"/>
+      <point x="595.8" y="-13.58" type="line"/>
+      <point x="508.5" y="254.14" type="line"/>
+      <point x="733.54" y="422.92" type="line"/>
+      <point x="454.18" y="422.92" type="line"/>
+      <point x="371.73" y="683.85" type="line"/>
+      <point x="287.34" y="422.92" type="line"/>
+      <point x="8.95" y="422.92" type="line"/>
+      <point x="235.93" y="254.14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

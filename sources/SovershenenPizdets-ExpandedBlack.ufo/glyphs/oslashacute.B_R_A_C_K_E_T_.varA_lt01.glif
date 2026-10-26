@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute.BRACKET.varAlt01" format="2">
+  <advance width="554.4332830188679"/>
+  <anchor x="277.48688528301886" y="0.0" name="bottom"/>
+  <anchor x="277.48688528301886" y="253.17" name="center"/>
+  <anchor x="364.00695849056603" y="0.0" name="ogonek"/>
+  <anchor x="277.48688528301886" y="500.5199999999999" name="top"/>
+  <anchor x="303.6702271698113" y="500.5199999999999" name="topright"/>
+  <outline>
+    <contour>
+      <point x="453.8433320754718" y="430.11010339622646" type="line"/>
+      <point x="529.1771720754716" y="553.6270475471698" type="line"/>
+      <point x="396.888639245283" y="553.6270475471698" type="line"/>
+      <point x="347.0238369811321" y="471.8208445283019" type="line"/>
+    </contour>
+    <contour>
+      <point x="25.78945283018868" y="-53.35" type="line"/>
+      <point x="156.6255313207547" y="-53.35" type="line"/>
+      <point x="204.79426490566038" y="26.531083018867925" type="line"/>
+      <point x="101.86641735849057" y="72.11876301886794" type="line"/>
+    </contour>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="196.98933056603772" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

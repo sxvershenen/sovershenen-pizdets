@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="285.0"/>
+  <unicode hex="0074"/>
+  <anchor x="133.79" y="0.0" name="bottom"/>
+  <anchor x="134.13" y="253.17" name="center"/>
+  <anchor x="134.13" y="500.52" name="top"/>
+  <anchor x="285.59" y="500.52" name="topright"/>
+  <outline>
+    <contour>
+      <point x="116.33" y="0.0" type="line"/>
+      <point x="150.28" y="0.0" type="line"/>
+      <point x="150.28" y="469.48" type="line"/>
+      <point x="279.29" y="469.48" type="line"/>
+      <point x="279.29" y="500.52" type="line"/>
+      <point x="150.28" y="500.52" type="line"/>
+      <point x="150.28" y="641.12" type="line"/>
+      <point x="116.33" y="641.12" type="line"/>
+      <point x="116.33" y="500.52" type="line"/>
+      <point x="5.46" y="500.52" type="line"/>
+      <point x="5.46" y="469.48" type="line"/>
+      <point x="116.33" y="469.48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

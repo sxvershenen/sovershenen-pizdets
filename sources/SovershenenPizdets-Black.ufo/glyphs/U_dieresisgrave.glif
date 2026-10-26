@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisgrave" format="2">
+  <advance width="674.0945660377358"/>
+  <unicode hex="01DB"/>
+  <anchor x="337.4012558490566" y="0.0" name="bottom"/>
+  <anchor x="427.9593577358491" y="0.0" name="ogonek"/>
+  <anchor x="337.88259547169815" y="1009.77" name="top"/>
+  <anchor x="489.13129132075477" y="667.36" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb.case" xOffset="161.51031396226415" yOffset="172.66000000000003"/>
+    <component base="gravecomb.case" xOffset="153.3995766037736" yOffset="347.26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

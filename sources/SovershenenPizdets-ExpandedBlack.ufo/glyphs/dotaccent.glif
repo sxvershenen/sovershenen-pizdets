@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="107.59652830188679"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="-17.262792452830187" y="575.2762528301886" type="line"/>
+      <point x="124.48297811320754" y="575.2762528301886" type="line"/>
+      <point x="124.48297811320754" y="683.9990505660378" type="line"/>
+      <point x="-17.262792452830187" y="683.9990505660378" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

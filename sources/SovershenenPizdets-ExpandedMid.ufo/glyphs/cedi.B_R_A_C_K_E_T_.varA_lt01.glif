@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi.BRACKET.varAlt01" format="2">
+  <advance width="608.0"/>
+  <anchor x="332.93" y="0.0" name="bottom"/>
+  <anchor x="332.93" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="336.81" y="621.77" type="line"/>
+      <point x="420.23" y="621.77" type="line"/>
+      <point x="420.23" y="747.87" type="line"/>
+      <point x="336.81" y="747.87" type="line"/>
+    </contour>
+    <contour>
+      <point x="336.81" y="-80.51" type="line"/>
+      <point x="420.23" y="-80.51" type="line"/>
+      <point x="420.23" y="46.56" type="line"/>
+      <point x="336.81" y="46.56" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

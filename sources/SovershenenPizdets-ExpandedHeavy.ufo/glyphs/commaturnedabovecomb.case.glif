@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <anchor x="73.67882075471698" y="494.7" name="_top"/>
+  <anchor x="77.71438679245283" y="773.6207547169811" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="551.9437264150943" type="line"/>
+      <point x="155.80396226415095" y="551.9437264150943" type="line"/>
+      <point x="155.80396226415095" y="667.076320754717" type="line"/>
+      <point x="91.26693396226415" y="667.076320754717" type="line"/>
+      <point x="91.26693396226415" y="680.2948584905661" type="line" smooth="yes"/>
+      <point x="91.26693396226415" y="711.1930188679246"/>
+      <point x="102.76509433962264" y="717.9052358490566"/>
+      <point x="155.80396226415095" y="717.9052358490566" type="curve"/>
+      <point x="155.80396226415095" y="773.6207547169811" type="line"/>
+      <point x="17.30443396226415" y="773.6207547169811"/>
+      <point x="0.0" y="745.7241037735849"/>
+      <point x="0.0" y="630.747075471698" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>141</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

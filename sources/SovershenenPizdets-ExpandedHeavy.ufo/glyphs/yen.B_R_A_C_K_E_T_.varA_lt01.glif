@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.BRACKET.varAlt01" format="2">
+  <advance width="641.6792452830189"/>
+  <outline>
+    <contour>
+      <point x="238.32801886792453" y="0.0" type="line"/>
+      <point x="400.46443396226414" y="0.0" type="line"/>
+      <point x="400.46443396226414" y="204.91707547169813" type="line"/>
+      <point x="606.6763679245283" y="204.91707547169813" type="line"/>
+      <point x="606.6763679245283" y="285.54146226415094" type="line"/>
+      <point x="421.20962264150944" y="285.54146226415094" type="line"/>
+      <point x="467.35783018867926" y="356.392641509434" type="line"/>
+      <point x="606.6763679245283" y="356.392641509434" type="line"/>
+      <point x="606.6763679245283" y="436.34443396226413" type="line"/>
+      <point x="511.4470754716981" y="436.34443396226413" type="line"/>
+      <point x="642.4245283018868" y="667.36" type="line"/>
+      <point x="482.7314150943396" y="667.36" type="line"/>
+      <point x="325.10641509433964" y="373.12056603773584" type="line"/>
+      <point x="318.91122641509435" y="373.12056603773584" type="line"/>
+      <point x="161.5836320754717" y="667.36" type="line"/>
+      <point x="-3.632075471698113" y="667.36" type="line"/>
+      <point x="128.69056603773583" y="436.34443396226413" type="line"/>
+      <point x="31.521273584905657" y="436.34443396226413" type="line"/>
+      <point x="31.521273584905657" y="356.392641509434" type="line"/>
+      <point x="171.43462264150943" y="356.392641509434" type="line"/>
+      <point x="217.58283018867925" y="285.54146226415094" type="line"/>
+      <point x="31.521273584905657" y="285.54146226415094" type="line"/>
+      <point x="31.521273584905657" y="204.91707547169813" type="line"/>
+      <point x="238.32801886792453" y="204.91707547169813" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[48]</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

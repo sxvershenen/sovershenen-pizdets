@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="526.0"/>
+  <unicode hex="01DA"/>
+  <anchor x="233.99" y="0.0" name="bottom"/>
+  <anchor x="478.43" y="0.0" name="ogonek"/>
+  <anchor x="263.09" y="822.56" name="top"/>
+  <anchor x="362.03" y="500.52" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="112.74" yOffset="5.82"/>
+    <component base="caroncomb" xOffset="110.8" yOffset="165.87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

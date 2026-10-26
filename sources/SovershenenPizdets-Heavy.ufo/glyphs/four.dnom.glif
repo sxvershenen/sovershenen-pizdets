@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="314.7452830188679"/>
+  <outline>
+    <contour>
+      <point x="181.57386792452832" y="0.0" type="line"/>
+      <point x="272.77674528301884" y="0.0" type="line"/>
+      <point x="272.77674528301884" y="74.32853773584905" type="line"/>
+      <point x="319.2726886792453" y="74.32853773584905" type="line"/>
+      <point x="319.2726886792453" y="143.68811320754716" type="line"/>
+      <point x="272.77674528301884" y="143.68811320754716" type="line"/>
+      <point x="272.77674528301884" y="235.20669811320755" type="line"/>
+      <point x="211.3967924528302" y="235.20669811320755" type="line"/>
+      <point x="184.70349056603771" y="143.68811320754716" type="line"/>
+      <point x="95.98966981132075" y="143.68811320754716" type="line"/>
+      <point x="223.74599056603773" y="367.5522169811321" type="line"/>
+      <point x="123.59349056603773" y="367.5522169811321" type="line"/>
+      <point x="-0.0632075471698113" y="136.00589622641508" type="line"/>
+      <point x="-0.0632075471698113" y="74.32853773584905" type="line"/>
+      <point x="181.57386792452832" y="74.32853773584905" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

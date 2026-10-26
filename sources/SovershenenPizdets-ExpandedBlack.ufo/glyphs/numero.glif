@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1159.4730566037736"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="799.3456271698113" y="200.05547320754718"/>
+      <point x="804.2404332075471" y="166.84"/>
+      <point x="956.0268913207547" y="166.84" type="curve"/>
+      <point x="1107.815641509434" y="166.84"/>
+      <point x="1112.71044754717" y="200.05547320754718"/>
+      <point x="1112.71044754717" y="330.34" type="curve"/>
+      <point x="1112.71044754717" y="460.6389267924528"/>
+      <point x="1107.815641509434" y="493.85"/>
+      <point x="956.0268913207547" y="493.85" type="curve"/>
+      <point x="804.2404332075471" y="493.85"/>
+      <point x="799.3456271698113" y="460.6389267924528"/>
+      <point x="799.3456271698113" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="952.9096445283019" y="357.24838188679246"/>
+      <point x="953.879084528302" y="363.1530505660378"/>
+      <point x="956.0268913207547" y="363.1530505660378" type="curve"/>
+      <point x="958.1747735849057" y="363.1530505660378"/>
+      <point x="959.1464301886792" y="357.24838188679246"/>
+      <point x="959.1464301886792" y="330.34" type="curve"/>
+      <point x="959.1464301886792" y="303.443801509434"/>
+      <point x="958.1747735849057" y="297.54134943396224"/>
+      <point x="956.0268913207547" y="297.54134943396224" type="curve"/>
+      <point x="953.879084528302" y="297.54134943396224"/>
+      <point x="952.9096445283019" y="303.443801509434"/>
+      <point x="952.9096445283019" y="330.34" type="curve"/>
+    </contour>
+    <contour>
+      <point x="799.3456271698113" y="40.04" type="line"/>
+      <point x="1112.71044754717" y="40.04" type="line"/>
+      <point x="1112.71044754717" y="149.77106867924527" type="line"/>
+      <point x="799.3456271698113" y="149.77106867924527" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>minus</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

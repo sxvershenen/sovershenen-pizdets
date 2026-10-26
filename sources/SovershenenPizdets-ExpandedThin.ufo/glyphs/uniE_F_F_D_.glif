@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEFFD" format="2">
+  <advance width="809.0"/>
+  <unicode hex="EFFD"/>
+  <outline>
+    <contour>
+      <point x="402.77" y="-82.45" type="curve"/>
+      <point x="410.53" y="-82.45" type="line"/>
+      <point x="422.17" y="-59.17"/>
+      <point x="454.18" y="-5.82"/>
+      <point x="538.57" y="-5.82" type="curve" smooth="yes"/>
+      <point x="671.46" y="-5.82"/>
+      <point x="740.33" y="0.0"/>
+      <point x="740.33" y="94.09" type="curve" smooth="yes"/>
+      <point x="740.33" y="666.39" type="line"/>
+      <point x="69.09" y="666.39" type="line"/>
+      <point x="69.09" y="94.09" type="line" smooth="yes"/>
+      <point x="69.09" y="0.0"/>
+      <point x="138.93" y="-5.82"/>
+      <point x="272.79" y="-5.82" type="curve" smooth="yes"/>
+      <point x="359.12" y="-5.82"/>
+      <point x="389.19" y="-61.11"/>
+    </contour>
+    <contour>
+      <point x="266.0" y="21.34" type="line"/>
+      <point x="229.14" y="21.34"/>
+      <point x="200.04" y="24.25"/>
+      <point x="173.85" y="25.22" type="curve"/>
+      <point x="173.85" y="569.39" type="line"/>
+      <point x="266.0" y="569.39" type="line"/>
+    </contour>
+    <contour>
+      <point x="408.59" y="-33.95" type="curve"/>
+      <point x="392.1" y="-19.4"/>
+      <point x="378.52" y="-4.85"/>
+      <point x="359.12" y="3.88" type="curve"/>
+      <point x="359.12" y="569.39" type="line"/>
+      <point x="450.3" y="569.39" type="line"/>
+      <point x="450.3" y="3.88" type="line"/>
+      <point x="433.81" y="-4.85"/>
+      <point x="416.35" y="-21.34"/>
+    </contour>
+    <contour>
+      <point x="543.42" y="21.34" type="curve"/>
+      <point x="543.42" y="569.39" type="line"/>
+      <point x="635.57" y="569.39" type="line"/>
+      <point x="635.57" y="25.22" type="line"/>
+      <point x="614.23" y="24.25"/>
+      <point x="580.28" y="21.34"/>
+    </contour>
+    <contour>
+      <point x="313.53" y="730.41" type="line"/>
+      <point x="400.83" y="798.31" type="line"/>
+      <point x="495.89" y="730.41" type="line"/>
+      <point x="461.94" y="840.99" type="line"/>
+      <point x="551.18" y="911.8" type="line"/>
+      <point x="438.66" y="911.8" type="line"/>
+      <point x="400.83" y="1022.38" type="line"/>
+      <point x="370.76" y="911.8" type="line"/>
+      <point x="254.36" y="911.8" type="line"/>
+      <point x="347.48" y="840.99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

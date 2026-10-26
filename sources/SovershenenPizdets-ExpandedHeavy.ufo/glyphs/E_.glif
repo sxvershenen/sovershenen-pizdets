@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="646.9056603773585"/>
+  <unicode hex="0045"/>
+  <anchor x="341.24867924528303" y="0.0" name="bottom"/>
+  <anchor x="606.4704716981132" y="0.0" name="ogonek"/>
+  <anchor x="341.24867924528303" y="667.36" name="top"/>
+  <anchor x="67.95575471698113" y="667.36" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="67.95575471698113" y="0.0" type="line"/>
+      <point x="606.4704716981132" y="0.0" type="line"/>
+      <point x="606.4704716981132" y="122.21542452830188" type="line"/>
+      <point x="230.54514150943396" y="122.21542452830188" type="line"/>
+      <point x="230.54514150943396" y="276.0382075471698" type="line"/>
+      <point x="550.5856603773585" y="276.0382075471698" type="line"/>
+      <point x="550.5856603773585" y="396.76660377358496" type="line"/>
+      <point x="230.54514150943396" y="396.76660377358496" type="line"/>
+      <point x="230.54514150943396" y="545.1445754716981" type="line"/>
+      <point x="606.4704716981132" y="545.1445754716981" type="line"/>
+      <point x="606.4704716981132" y="667.36" type="line"/>
+      <point x="67.95575471698113" y="667.36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

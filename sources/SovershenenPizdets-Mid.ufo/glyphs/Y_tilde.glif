@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="549.0"/>
+  <unicode hex="1EF8"/>
+  <anchor x="274.73" y="0.0" name="bottom"/>
+  <anchor x="274.73" y="840.02" name="top"/>
+  <anchor x="-20.15" y="667.36" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tildecomb.case" xOffset="102.07" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

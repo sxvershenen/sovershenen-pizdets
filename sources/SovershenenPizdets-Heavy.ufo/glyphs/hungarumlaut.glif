@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="337.25"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="-21.933962264150942" y="561.5018867924529" type="line"/>
+      <point x="63.229292452830194" y="561.5018867924529" type="line"/>
+      <point x="173.37004716981133" y="679.5444811320755" type="line"/>
+      <point x="173.37004716981133" y="684.0970754716981" type="line"/>
+      <point x="56.507924528301885" y="684.0970754716981" type="line"/>
+      <point x="-21.933962264150942" y="566.0544811320755" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.74122641509436" y="561.5018867924529" type="line"/>
+      <point x="248.4992924528302" y="561.5018867924529" type="line"/>
+      <point x="359.01523584905664" y="679.5444811320755" type="line"/>
+      <point x="359.01523584905664" y="684.0970754716981" type="line"/>
+      <point x="241.77792452830187" y="684.0970754716981" type="line"/>
+      <point x="162.74122641509436" y="566.0544811320755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

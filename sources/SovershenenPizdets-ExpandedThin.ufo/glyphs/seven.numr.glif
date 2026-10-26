@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr" format="2">
+  <advance width="322.0"/>
+  <outline>
+    <contour>
+      <point x="80.73" y="298.76" type="line"/>
+      <point x="121.47" y="298.76" type="line"/>
+      <point x="310.62" y="633.41" type="line"/>
+      <point x="310.62" y="662.51" type="line"/>
+      <point x="5.07" y="662.51" type="line"/>
+      <point x="5.07" y="630.5" type="line"/>
+      <point x="268.91" y="630.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seven.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seven.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="655.0"/>
+  <unicode hex="0414"/>
+  <anchor x="327.66" y="667.36" name="top"/>
+  <anchor x="327.66" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="88.58" y="634.38" type="line"/>
+      <point x="512.27" y="634.38" type="line"/>
+      <point x="512.27" y="16.49" type="line"/>
+      <point x="547.19" y="16.49" type="line"/>
+      <point x="547.19" y="667.36" type="line"/>
+      <point x="88.58" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="74.61" y="240.25" type="line"/>
+      <point x="74.61" y="111.74"/>
+      <point x="49.2" y="32.98"/>
+      <point x="7.74" y="32.98" type="curve"/>
+      <point x="76.36" y="32.98" type="line"/>
+      <point x="94.6" y="32.98"/>
+      <point x="109.53" y="131.45"/>
+      <point x="109.53" y="251.79" type="curve"/>
+      <point x="109.53" y="667.36" type="line"/>
+      <point x="74.61" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="7.74" y="0.0" type="line"/>
+      <point x="582.11" y="0.0" type="line"/>
+      <point x="582.11" y="32.98" type="line"/>
+      <point x="7.74" y="32.98" type="line"/>
+    </contour>
+    <contour>
+      <point x="7.74" y="-126.8" type="line"/>
+      <point x="42.66" y="-126.8" type="line"/>
+      <point x="42.66" y="16.49" type="line"/>
+      <point x="7.74" y="16.49" type="line"/>
+    </contour>
+    <contour>
+      <point x="547.19" y="-126.8" type="line"/>
+      <point x="582.11" y="-126.8" type="line"/>
+      <point x="582.11" y="16.49" type="line"/>
+      <point x="547.19" y="16.49" type="line"/>
+    </contour>
+  </outline>
+</glyph>

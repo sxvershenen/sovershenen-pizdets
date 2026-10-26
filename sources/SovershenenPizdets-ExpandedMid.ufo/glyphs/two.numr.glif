@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.numr" format="2">
+  <advance width="366.0"/>
+  <outline>
+    <contour>
+      <point x="19.62" y="298.76" type="line"/>
+      <point x="341.66" y="298.76" type="line"/>
+      <point x="341.66" y="359.87" type="line"/>
+      <point x="98.19" y="359.87" type="line"/>
+      <point x="98.19" y="386.06" type="line" smooth="yes"/>
+      <point x="98.19" y="404.49"/>
+      <point x="100.13" y="409.34"/>
+      <point x="117.59" y="415.16" type="curve" smooth="yes"/>
+      <point x="254.36" y="460.75" type="line" smooth="yes"/>
+      <point x="325.17" y="484.03"/>
+      <point x="341.66" y="508.28"/>
+      <point x="341.66" y="570.36" type="curve" smooth="yes"/>
+      <point x="341.66" y="660.57"/>
+      <point x="271.82" y="670.27"/>
+      <point x="186.46" y="670.27" type="curve" smooth="yes"/>
+      <point x="135.05" y="670.27"/>
+      <point x="72.0" y="664.45"/>
+      <point x="29.32" y="657.66" type="curve"/>
+      <point x="29.32" y="600.43" type="line"/>
+      <point x="78.79" y="604.31"/>
+      <point x="134.08" y="607.22"/>
+      <point x="165.12" y="607.22" type="curve" smooth="yes"/>
+      <point x="241.75" y="607.22"/>
+      <point x="264.06" y="607.22"/>
+      <point x="264.06" y="565.51" type="curve" smooth="yes"/>
+      <point x="264.06" y="536.41"/>
+      <point x="257.27" y="532.53"/>
+      <point x="216.53" y="517.98" type="curve" smooth="yes"/>
+      <point x="92.37" y="475.3" type="line" smooth="yes"/>
+      <point x="18.65" y="450.08"/>
+      <point x="19.62" y="428.74"/>
+      <point x="19.62" y="332.71" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>two.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>two.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="141.62" y="494.7" name="_top"/>
+  <anchor x="143.56" y="636.32" name="top"/>
+  <outline>
+    <contour>
+      <point x="142.59" y="714.89" type="curve" smooth="yes"/>
+      <point x="13.58" y="714.89"/>
+      <point x="0.0" y="655.72"/>
+      <point x="0.0" y="572.3" type="curve"/>
+      <point x="69.84" y="572.3" type="line"/>
+      <point x="69.84" y="618.86"/>
+      <point x="71.78" y="646.02"/>
+      <point x="142.59" y="646.02" type="curve" smooth="yes"/>
+      <point x="213.4" y="646.02"/>
+      <point x="213.4" y="618.86"/>
+      <point x="213.4" y="572.3" type="curve"/>
+      <point x="282.27" y="572.3" type="line"/>
+      <point x="282.27" y="655.72"/>
+      <point x="270.63" y="714.89"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>291</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

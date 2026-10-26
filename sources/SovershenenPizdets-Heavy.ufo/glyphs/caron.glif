@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="277.0754716981132"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="69.7767924528302" y="561.5018867924529" type="line"/>
+      <point x="206.02518867924528" y="561.5018867924529" type="line"/>
+      <point x="298.7059433962264" y="694.6115094339623" type="line"/>
+      <point x="298.7059433962264" y="701.6989150943396" type="line"/>
+      <point x="204.3734433962264" y="701.6989150943396" type="line"/>
+      <point x="138.30820754716981" y="621.0974056603773" type="line"/>
+      <point x="71.72594339622641" y="701.6989150943396" type="line"/>
+      <point x="-21.933962264150942" y="701.6989150943396" type="line"/>
+      <point x="-21.933962264150942" y="694.6115094339623" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso.BRACKET.varAlt01" format="2">
+  <advance width="585.0"/>
+  <anchor x="104.01" y="0.0" name="bottom"/>
+  <anchor x="293.16" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="527.9" y="513.13" type="line"/>
+      <point x="648.18" y="513.13" type="line"/>
+      <point x="648.18" y="546.11" type="line"/>
+      <point x="527.9" y="546.11" type="line"/>
+    </contour>
+    <contour>
+      <point x="527.9" y="384.12" type="line"/>
+      <point x="648.18" y="384.12" type="line"/>
+      <point x="648.18" y="417.1" type="line"/>
+      <point x="527.9" y="417.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25.0" y="513.13" type="line"/>
+      <point x="104.01" y="513.13" type="line"/>
+      <point x="104.01" y="546.11" type="line"/>
+      <point x="-25.0" y="546.11" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25.0" y="384.12" type="line"/>
+      <point x="104.01" y="384.12" type="line"/>
+      <point x="104.01" y="417.1" type="line"/>
+      <point x="-25.0" y="417.1" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

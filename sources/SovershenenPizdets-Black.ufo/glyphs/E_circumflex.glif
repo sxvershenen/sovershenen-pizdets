@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="592.6582641509434"/>
+  <unicode hex="00CA"/>
+  <anchor x="309.9088935849057" y="0.0" name="bottom"/>
+  <anchor x="557.7079486792453" y="0.0" name="ogonek"/>
+  <anchor x="309.9088935849057" y="840.02" name="top"/>
+  <anchor x="52.78861433962265" y="667.36" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="137.37481056603775" yOffset="172.66000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso.BRACKET.varAlt01" format="2">
+  <advance width="626.3981886792453"/>
+  <anchor x="225.45681358490566" y="0.0" name="bottom"/>
+  <anchor x="313.40601811320755" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="510.70357886792453" y="461.3626739622642" type="line"/>
+      <point x="681.4248966037736" y="461.3626739622642" type="line"/>
+      <point x="681.4248966037736" y="533.3606860377358" type="line"/>
+      <point x="510.70357886792453" y="533.3606860377358" type="line"/>
+    </contour>
+    <contour>
+      <point x="510.70357886792453" y="343.0912694339623" type="line"/>
+      <point x="681.4248966037736" y="343.0912694339623" type="line"/>
+      <point x="681.4248966037736" y="415.089281509434" type="line"/>
+      <point x="510.70357886792453" y="415.089281509434" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19.962264150943398" y="461.3626739622642" type="line"/>
+      <point x="145.95202641509434" y="461.3626739622642" type="line"/>
+      <point x="145.95202641509434" y="533.3606860377358" type="line"/>
+      <point x="-19.962264150943398" y="533.3606860377358" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19.962264150943398" y="343.0912694339623" type="line"/>
+      <point x="145.95202641509434" y="343.0912694339623" type="line"/>
+      <point x="145.95202641509434" y="415.089281509434" type="line"/>
+      <point x="-19.962264150943398" y="415.089281509434" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[86]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

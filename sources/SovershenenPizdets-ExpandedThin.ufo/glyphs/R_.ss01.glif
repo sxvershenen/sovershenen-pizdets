@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.ss01" format="2">
+  <advance width="733.0"/>
+  <anchor x="366.88" y="0.0" name="bottom"/>
+  <anchor x="366.88" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="105.95" y="0.0" type="line"/>
+      <point x="140.87" y="0.0" type="line"/>
+      <point x="140.87" y="298.76" type="line"/>
+      <point x="131.17" y="289.06" type="line"/>
+      <point x="441.57" y="289.06" type="line" smooth="yes"/>
+      <point x="602.59" y="289.06"/>
+      <point x="604.53" y="215.34"/>
+      <point x="609.38" y="147.44" type="curve" smooth="yes"/>
+      <point x="620.05" y="0.0" type="line"/>
+      <point x="654.0" y="0.0" type="line"/>
+      <point x="642.36" y="165.87" type="line" smooth="yes"/>
+      <point x="635.57" y="265.78"/>
+      <point x="599.68" y="291.97"/>
+      <point x="521.11" y="306.52" type="curve"/>
+      <point x="521.11" y="310.4" type="line"/>
+      <point x="604.53" y="325.92"/>
+      <point x="650.12" y="367.63"/>
+      <point x="650.12" y="486.94" type="curve" smooth="yes"/>
+      <point x="650.12" y="606.25"/>
+      <point x="607.44" y="667.36"/>
+      <point x="452.24" y="667.36" type="curve" smooth="yes"/>
+      <point x="105.95" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.87" y="322.04" type="line"/>
+      <point x="140.87" y="634.38" type="line"/>
+      <point x="448.36" y="634.38" type="line" smooth="yes"/>
+      <point x="607.44" y="634.38"/>
+      <point x="615.2" y="570.36"/>
+      <point x="615.2" y="478.21" type="curve" smooth="yes"/>
+      <point x="615.2" y="388.0"/>
+      <point x="588.04" y="322.04"/>
+      <point x="438.66" y="322.04" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

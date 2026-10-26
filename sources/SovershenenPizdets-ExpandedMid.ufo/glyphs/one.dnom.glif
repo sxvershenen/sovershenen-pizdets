@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="210.0"/>
+  <outline>
+    <contour>
+      <point x="90.43" y="0.0" type="line"/>
+      <point x="169.0" y="0.0" type="line"/>
+      <point x="169.0" y="364.72" type="line"/>
+      <point x="113.71" y="364.72" type="line"/>
+      <point x="-2.69" y="306.52" type="line"/>
+      <point x="-2.69" y="241.53" type="line"/>
+      <point x="90.43" y="284.21" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

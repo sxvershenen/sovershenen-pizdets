@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="695.162037735849"/>
+  <unicode hex="00C9"/>
+  <anchor x="359.83095018867925" y="0.0" name="bottom"/>
+  <anchor x="650.3539298113208" y="0.0" name="ogonek"/>
+  <anchor x="359.83095018867925" y="835.17" name="top"/>
+  <anchor x="66.31736905660378" y="667.36" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="acutecomb.case" xOffset="238.3235524528302" yOffset="172.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

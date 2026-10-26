@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis" format="2">
+  <advance width="504.7452830188679"/>
+  <unicode hex="00E4"/>
+  <anchor x="252.8734433962264" y="0.0" name="bottom"/>
+  <anchor x="462.50783018867924" y="0.0" name="ogonek"/>
+  <anchor x="254.3604716981132" y="658.4749056603773" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresiscomb" xOffset="91.96400943396226" yOffset="5.82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

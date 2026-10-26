@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.numr" format="2">
+  <advance width="300.0"/>
+  <outline>
+    <contour>
+      <point x="138.93" y="294.88" type="curve" smooth="yes"/>
+      <point x="261.15" y="294.88"/>
+      <point x="289.28" y="331.74"/>
+      <point x="289.28" y="417.1" type="curve" smooth="yes"/>
+      <point x="289.28" y="485.97"/>
+      <point x="269.88" y="525.74"/>
+      <point x="169.0" y="525.74" type="curve" smooth="yes"/>
+      <point x="141.84" y="525.74"/>
+      <point x="113.71" y="523.8"/>
+      <point x="93.34" y="520.89" type="curve"/>
+      <point x="93.34" y="604.31" type="line"/>
+      <point x="262.12" y="604.31" type="line"/>
+      <point x="262.12" y="665.42" type="line"/>
+      <point x="24.47" y="665.42" type="line"/>
+      <point x="24.47" y="460.75" type="line"/>
+      <point x="57.45" y="463.66"/>
+      <point x="98.19" y="466.57"/>
+      <point x="123.41" y="466.57" type="curve" smooth="yes"/>
+      <point x="195.19" y="466.57"/>
+      <point x="210.71" y="459.78"/>
+      <point x="210.71" y="411.28" type="curve" smooth="yes"/>
+      <point x="210.71" y="364.72"/>
+      <point x="197.13" y="355.02"/>
+      <point x="128.26" y="355.02" type="curve" smooth="yes"/>
+      <point x="102.07" y="355.02"/>
+      <point x="55.51" y="357.93"/>
+      <point x="20.59" y="360.84" type="curve"/>
+      <point x="20.59" y="304.58" type="line"/>
+      <point x="55.51" y="298.76"/>
+      <point x="104.98" y="294.88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>five.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>five.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

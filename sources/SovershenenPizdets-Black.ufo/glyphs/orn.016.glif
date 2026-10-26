@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="orn.016" format="2">
+  <advance width="508.07547169811323"/>
+  <outline>
+    <contour>
+      <point x="-20.932264150943396" y="609.16" type="line"/>
+      <point x="529.0577358490566" y="609.16" type="line"/>
+      <point x="529.0577358490566" y="667.36" type="line"/>
+      <point x="-20.932264150943396" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20.932264150943396" y="0.0" type="line"/>
+      <point x="529.0577358490566" y="0.0" type="line"/>
+      <point x="529.0577358490566" y="58.2" type="line"/>
+      <point x="-20.932264150943396" y="58.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

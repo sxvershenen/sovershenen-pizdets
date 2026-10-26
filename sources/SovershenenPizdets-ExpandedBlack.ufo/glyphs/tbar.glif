@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="385.45350943396227"/>
+  <unicode hex="0167"/>
+  <anchor x="184.4554475471698" y="0.0" name="bottom"/>
+  <anchor x="186.17089509433964" y="253.17" name="center"/>
+  <anchor x="186.17089509433964" y="500.5199999999999" name="top"/>
+  <anchor x="384.49523849056607" y="500.5199999999999" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1.627202264150943" y="166.2788769811321" type="line"/>
+      <point x="383.2702611320755" y="166.2788769811321" type="line"/>
+      <point x="383.2702611320755" y="269.50216226415097" type="line"/>
+      <point x="1.627202264150943" y="269.50216226415097" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="house" format="2">
+  <advance width="869.4801509433962"/>
+  <unicode hex="2302"/>
+  <outline>
+    <contour>
+      <point x="40.158775094339624" y="0.0" type="line"/>
+      <point x="830.8518958490566" y="0.0" type="line"/>
+      <point x="830.6401064150944" y="440.1860732075471" type="line"/>
+      <point x="485.50890867924534" y="671.827197735849" type="line"/>
+      <point x="384.10496226415097" y="671.827197735849" type="line"/>
+      <point x="39.67743547169811" y="440.1860732075471" type="line"/>
+    </contour>
+    <contour>
+      <point x="139.68860830188677" y="89.20200528301888" type="line"/>
+      <point x="139.20726867924526" y="393.37431245283017" type="line"/>
+      <point x="435.7443947169811" y="610.7374762264151" type="line"/>
+      <point x="731.1102732075472" y="393.37431245283017" type="line"/>
+      <point x="730.6289335849058" y="89.20200528301888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

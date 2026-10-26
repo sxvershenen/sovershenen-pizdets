@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.numr" format="2">
+  <advance width="419.5710943396227"/>
+  <outline>
+    <contour>
+      <point x="210.55871169811323" y="294.88" type="curve" smooth="yes"/>
+      <point x="374.95109056603775" y="294.88"/>
+      <point x="396.581358490566" y="310.8528618867925"/>
+      <point x="396.581358490566" y="484.464120754717" type="curve" smooth="yes"/>
+      <point x="396.581358490566" y="658.2903901886792"/>
+      <point x="375.16288000000003" y="672.4396520754717"/>
+      <point x="210.55871169811323" y="672.4396520754717" type="curve" smooth="yes"/>
+      <point x="46.16633283018868" y="672.4396520754717"/>
+      <point x="24.53606490566038" y="658.2903901886792"/>
+      <point x="24.53606490566038" y="484.464120754717" type="curve" smooth="yes"/>
+      <point x="24.53606490566038" y="310.8528618867925"/>
+      <point x="46.16633283018868" y="294.88"/>
+    </contour>
+    <contour>
+      <point x="210.55871169811323" y="378.5808973584906" type="curve" smooth="yes"/>
+      <point x="141.64595849056602" y="378.5808973584906"/>
+      <point x="139.07468981132075" y="383.3039554716981"/>
+      <point x="139.07468981132075" y="484.464120754717" type="curve" smooth="yes"/>
+      <point x="139.07468981132075" y="585.8392966037736"/>
+      <point x="141.64595849056602" y="589.1655547169812"/>
+      <point x="210.55871169811323" y="589.1655547169812" type="curve" smooth="yes"/>
+      <point x="279.2564543396227" y="589.1655547169812"/>
+      <point x="280.4414649056604" y="585.8392966037736"/>
+      <point x="280.4414649056604" y="484.464120754717" type="curve" smooth="yes"/>
+      <point x="280.4414649056604" y="383.3039554716981"/>
+      <point x="279.2564543396227" y="378.5808973584906"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zero.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zero.dnom</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

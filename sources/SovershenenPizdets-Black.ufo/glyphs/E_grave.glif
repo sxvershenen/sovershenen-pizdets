@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave" format="2">
+  <advance width="592.6582641509434"/>
+  <unicode hex="00C8"/>
+  <anchor x="309.9088935849057" y="0.0" name="bottom"/>
+  <anchor x="557.7079486792453" y="0.0" name="ogonek"/>
+  <anchor x="310.3902332075472" y="835.1700000000001" name="top"/>
+  <anchor x="52.78861433962265" y="667.36" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="gravecomb.case" xOffset="125.90721433962264" yOffset="172.66000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

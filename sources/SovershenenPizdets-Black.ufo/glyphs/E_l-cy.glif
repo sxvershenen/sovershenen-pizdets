@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy" format="2">
+  <advance width="678.952603773585"/>
+  <unicode hex="041B"/>
+  <anchor x="339.380000754717" y="667.36" name="top"/>
+  <anchor x="339.380000754717" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="159.59196226415096" y="532.4628686792453" type="line"/>
+      <point x="448.8628369811321" y="532.4628686792453" type="line"/>
+      <point x="448.8628369811321" y="0.0" type="line"/>
+      <point x="631.0658067924528" y="0.0" type="line"/>
+      <point x="631.0658067924528" y="667.36" type="line"/>
+      <point x="159.59196226415096" y="667.36" type="line"/>
+    </contour>
+    <contour>
+      <point x="68.48938566037735" y="667.36" type="line"/>
+      <point x="68.48938566037735" y="298.5608090566038" type="line"/>
+      <point x="68.48938566037735" y="234.63009584905663"/>
+      <point x="68.68316226415095" y="149.69426264150943"/>
+      <point x="0.5990588679245283" y="149.69426264150943" type="curve"/>
+      <point x="0.5990588679245283" y="0.0" type="line"/>
+      <point x="139.061920754717" y="0.0"/>
+      <point x="250.69235547169814" y="83.9440203773585"/>
+      <point x="250.69235547169814" y="298.5608090566038" type="curve"/>
+      <point x="250.69235547169814" y="667.36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

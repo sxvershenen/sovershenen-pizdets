@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="154.23" y="494.7" name="_top"/>
+  <anchor x="154.23" y="667.36" name="top"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="570.36" type="line"/>
+      <point x="67.9" y="570.36" type="line"/>
+      <point x="208.55" y="686.76" type="line"/>
+      <point x="208.55" y="691.61" type="line"/>
+      <point x="108.64" y="691.61" type="line"/>
+      <point x="0.0" y="575.21" type="line"/>
+    </contour>
+    <contour>
+      <point x="217.28" y="570.36" type="line"/>
+      <point x="286.15" y="570.36" type="line"/>
+      <point x="425.83" y="686.76" type="line"/>
+      <point x="425.83" y="691.61" type="line"/>
+      <point x="325.92" y="691.61" type="line"/>
+      <point x="217.28" y="575.21" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=0</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>439</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
