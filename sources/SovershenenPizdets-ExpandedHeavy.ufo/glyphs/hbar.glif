@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="559.372641509434"/>
+  <advance width="559.6216981132076"/>
   <unicode hex="0127"/>
-  <anchor x="280.02259433962263" y="0.0" name="bottom"/>
-  <anchor x="118.91424528301887" y="253.16999999999996" name="center"/>
-  <anchor x="119.15" y="675.5260377358491" name="top"/>
+  <anchor x="280.1446320754717" y="0.0" name="bottom"/>
+  <anchor x="119.54594339622642" y="253.17000000000002" name="center"/>
+  <anchor x="119.774" y="675.9924528301888" name="top"/>
   <outline>
     <contour>
-      <point x="-16.547122641509432" y="594.1019339622642" type="line"/>
-      <point x="317.58316037735847" y="594.1019339622642" type="line"/>
-      <point x="317.58316037735847" y="669.21" type="line"/>
-      <point x="-16.547122641509432" y="669.21" type="line"/>
+      <point x="-16.81497169811321" y="593.7417075471699" type="line"/>
+      <point x="319.22942452830193" y="593.7417075471699" type="line"/>
+      <point x="319.22942452830193" y="669.21" type="line"/>
+      <point x="-16.81497169811321" y="669.21" type="line"/>
     </contour>
     <component base="h"/>
   </outline>

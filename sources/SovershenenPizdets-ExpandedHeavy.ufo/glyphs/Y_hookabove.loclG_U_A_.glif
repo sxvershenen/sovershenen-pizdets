@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yhookabove.loclGUA" format="2">
-  <advance width="666.2358490566038"/>
-  <anchor x="333.4337735849057" y="0.0" name="bottom"/>
-  <anchor x="333.4337735849057" y="840.02" name="top"/>
-  <anchor x="26.410471698113206" y="667.36" name="topleft"/>
+  <advance width="667.7301886792453"/>
+  <anchor x="334.18728301886796" y="0.0" name="bottom"/>
+  <anchor x="334.18728301886796" y="840.02" name="top"/>
+  <anchor x="26.768660377358493" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="Y.loclGUA"/>
-    <component base="hookabovecomb.case" xOffset="209.96009433962263" yOffset="172.66"/>
+    <component base="hookabovecomb.case" xOffset="210.4061320754717" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash.BRACKET.varAlt01" format="2">
-  <advance width="693.0403018867926"/>
-  <anchor x="347.618320754717" y="0.0" name="bottom"/>
-  <anchor x="345.9268603773585" y="333.68" name="center"/>
-  <anchor x="428.2936966037736" y="0.0" name="ogonek"/>
-  <anchor x="347.618320754717" y="667.36" name="top"/>
-  <anchor x="-0.35047471698113186" y="667.36" name="topleft"/>
-  <anchor x="433.92943320754716" y="667.36" name="topright"/>
+  <advance width="656.2009811320754"/>
+  <anchor x="330.8669113207547" y="0.0" name="bottom"/>
+  <anchor x="327.890841509434" y="333.68" name="center"/>
+  <anchor x="409.99771773584905" y="0.0" name="ogonek"/>
+  <anchor x="330.8669113207547" y="667.36" name="top"/>
+  <anchor x="-0.06626830188679322" y="667.36" name="topleft"/>
+  <anchor x="427.8602494339623" y="667.36" name="topright"/>
   <outline>
     <contour>
-      <point x="435.5052256603774" y="603.926319245283" type="line"/>
-      <point x="547.5248520754718" y="528.3250316981132" type="line"/>
-      <point x="669.8430966037736" y="720.71" type="line"/>
-      <point x="509.5881154716982" y="720.71" type="line"/>
+      <point x="405.3088475471698" y="593.1967649056604" type="line"/>
+      <point x="501.95250981132074" y="510.8316124528302" type="line"/>
+      <point x="634.589138490566" y="720.71" type="line"/>
+      <point x="485.95219509433963" y="720.71" type="line"/>
     </contour>
     <contour>
-      <point x="26.86018490566038" y="-53.35000000000001" type="line"/>
-      <point x="185.4447162264151" y="-53.35000000000001" type="line"/>
-      <point x="263.6902603773585" y="69.97360377358491" type="line"/>
-      <point x="139.686119245283" y="124.38035471698115" type="line"/>
+      <point x="24.68879056603774" y="-53.35" type="line"/>
+      <point x="171.7714645283019" y="-53.35" type="line"/>
+      <point x="249.70389999999998" y="70.57262452830189" type="line"/>
+      <point x="132.19923471698112" y="117.4432075471698" type="line"/>
     </contour>
-    <component base="O" xOffset="0.21178943396226416"/>
+    <component base="O" xOffset="0.052599622641509435"/>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Te-cy" format="2">
-  <advance width="481.42452830188677"/>
+  <advance width="482.1943396226415"/>
   <unicode hex="0422"/>
-  <anchor x="262.04268867924526" y="0.0" name="bottom"/>
-  <anchor x="262.04268867924526" y="333.68" name="center"/>
-  <anchor x="262.04268867924526" y="667.36" name="top"/>
+  <anchor x="262.4667641509434" y="0.0" name="bottom"/>
+  <anchor x="262.4667641509434" y="333.68000000000006" name="center"/>
+  <anchor x="262.4667641509434" y="667.3600000000001" name="top"/>
   <outline>
     <component base="T"/>
   </outline>

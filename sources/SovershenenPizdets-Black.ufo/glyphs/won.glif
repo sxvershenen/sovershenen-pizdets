@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="978.4351698113207"/>
+  <advance width="934.6280754716981"/>
   <unicode hex="20A9"/>
-  <anchor x="489.4810037735849" y="0.0" name="bottom"/>
-  <anchor x="489.4810037735849" y="667.36" name="top"/>
+  <anchor x="467.72018490566035" y="0.0" name="bottom"/>
+  <anchor x="467.72018490566035" y="667.36" name="top"/>
   <outline>
     <contour>
-      <point x="-5.345645283018869" y="309.44947320754716" type="line"/>
-      <point x="983.1258633962266" y="309.44947320754716" type="line"/>
-      <point x="983.1258633962266" y="391.3657169811321" type="line"/>
-      <point x="-5.345645283018869" y="391.3657169811321" type="line"/>
+      <point x="-7.652290566037735" y="301.0782633962264" type="line"/>
+      <point x="942.070060754717" y="301.0782633962264" type="line"/>
+      <point x="942.070060754717" y="384.6062811320754" type="line"/>
+      <point x="-7.652290566037735" y="384.6062811320754" type="line"/>
     </contour>
     <component base="W"/>
   </outline>

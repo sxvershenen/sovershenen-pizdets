@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.tosf" format="2">
-  <advance width="675.4009433962265"/>
+  <advance width="675.061320754717"/>
   <outline>
     <contour>
-      <point x="159.3050471698113" y="0.0" type="line"/>
-      <point x="328.99556603773584" y="0.0" type="line"/>
-      <point x="612.9767924528302" y="460.59900943396224" type="line"/>
-      <point x="612.9767924528302" y="567.45" type="line"/>
-      <point x="50.90754716981132" y="567.45" type="line"/>
-      <point x="50.90754716981132" y="448.0667924528302" type="line"/>
-      <point x="449.0147641509434" y="448.0667924528302" type="line"/>
+      <point x="158.01606603773584" y="0.0" type="line"/>
+      <point x="330.4957924528302" y="0.0" type="line"/>
+      <point x="613.0275094339622" y="459.08361320754716" type="line"/>
+      <point x="613.0275094339622" y="567.45" type="line"/>
+      <point x="50.78256603773585" y="567.45" type="line"/>
+      <point x="50.78256603773585" y="446.4855094339623" type="line"/>
+      <point x="446.62766981132074" y="446.4855094339623" type="line"/>
     </contour>
   </outline>
   <lib>

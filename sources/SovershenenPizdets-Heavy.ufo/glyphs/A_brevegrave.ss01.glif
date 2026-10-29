@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevegrave.ss01" format="2">
-  <advance width="628.4669811320755"/>
-  <anchor x="314.6697641509434" y="0.0" name="bottom"/>
-  <anchor x="580.6556603773585" y="0.0" name="ogonek"/>
-  <anchor x="316.6097641509434" y="1001.5570283018868" name="top"/>
+  <advance width="628.3537735849056"/>
+  <anchor x="314.6106698113208" y="0.0" name="bottom"/>
+  <anchor x="580.9699245283019" y="0.0" name="ogonek"/>
+  <anchor x="316.5506698113208" y="1001.6668396226416" name="top"/>
   <outline>
     <component base="A.ss01"/>
-    <component base="brevecomb_gravecomb.case" xOffset="168.29127358490564" yOffset="172.66"/>
+    <component base="brevecomb_gravecomb.case" xOffset="167.88078301886793" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

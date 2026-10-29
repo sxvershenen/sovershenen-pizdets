@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohookabove" format="2">
-  <advance width="512.2122641509434"/>
+  <advance width="512.5971698113208"/>
   <unicode hex="1ECF"/>
-  <anchor x="256.1586320754717" y="0.0" name="bottom"/>
-  <anchor x="256.1586320754717" y="253.16999999999996" name="center"/>
-  <anchor x="331.3382075471698" y="0.0" name="ogonek"/>
-  <anchor x="256.1586320754717" y="669.21" name="top"/>
-  <anchor x="304.72268867924527" y="500.52" name="topright"/>
+  <anchor x="256.3630849056604" y="0.0" name="bottom"/>
+  <anchor x="256.3630849056604" y="253.17000000000002" name="center"/>
+  <anchor x="332.22349056603775" y="0.0" name="ogonek"/>
+  <anchor x="256.3630849056604" y="669.21" name="top"/>
+  <anchor x="305.1467641509434" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="hookabovecomb" xOffset="132.6849528301887" yOffset="5.82"/>
+    <component base="hookabovecomb" xOffset="132.58193396226415" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

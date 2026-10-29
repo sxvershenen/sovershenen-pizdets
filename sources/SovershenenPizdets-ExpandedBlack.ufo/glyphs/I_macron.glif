@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Imacron" format="2">
-  <advance width="325.92520754716986"/>
+  <advance width="316.37664150943397"/>
   <unicode hex="012A"/>
-  <anchor x="162.78258792452831" y="0.0" name="bottom"/>
-  <anchor x="261.3271939622641" y="0.0" name="ogonek"/>
-  <anchor x="162.78258792452831" y="847.7076709433962" name="top"/>
-  <anchor x="64.93111094339622" y="667.36" name="topleft"/>
+  <anchor x="158.03114" y="0.0" name="bottom"/>
+  <anchor x="257.32623320754715" y="0.0" name="ogonek"/>
+  <anchor x="158.03114" y="846.0474701886793" name="top"/>
+  <anchor x="59.22697660377358" y="667.36" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="macroncomb.case" xOffset="-18.89262867924528" yOffset="172.66"/>
+    <component base="macroncomb.case" xOffset="-20.706696981132076" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

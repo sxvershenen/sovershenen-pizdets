@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cacute" format="2">
-  <advance width="662.0406792452831"/>
+  <advance width="628.7438113207547"/>
   <unicode hex="0106"/>
-  <anchor x="316.53198037735854" y="0.0" name="bottom"/>
-  <anchor x="316.53198037735854" y="835.1700000000001" name="top"/>
+  <anchor x="303.17590037735846" y="0.0" name="bottom"/>
+  <anchor x="303.17590037735846" y="835.17" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acutecomb.case" xOffset="273.8195894339623" yOffset="172.66000000000003"/>
+    <component base="acutecomb.case" xOffset="266.0181788679245" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

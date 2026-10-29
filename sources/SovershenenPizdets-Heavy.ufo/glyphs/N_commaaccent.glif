@@ -2,11 +2,11 @@
 <glyph name="Ncommaaccent" format="2">
   <advance width="654.0"/>
   <unicode hex="0145"/>
-  <anchor x="335.41495283018867" y="-293.47075471698116" name="bottom"/>
-  <anchor x="335.41495283018867" y="667.36" name="top"/>
+  <anchor x="335.31193396226416" y="-293.2950566037736" name="bottom"/>
+  <anchor x="335.31193396226416" y="667.3600000000001" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="commaaccentcomb.case" xOffset="252.99240566037736"/>
+    <component base="commaaccentcomb.case" xOffset="252.31836792452833"/>
   </outline>
   <lib>
     <dict>

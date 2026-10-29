@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="doubleprimemod" format="2">
-  <advance width="295.6981132075472"/>
+  <advance width="298.77735849056603"/>
   <unicode hex="02BA"/>
   <outline>
-    <component base="minute" xOffset="137.16806603773585"/>
-    <component base="minute" xOffset="-49.328160377358486"/>
+    <component base="minute" xOffset="138.2002924528302"/>
+    <component base="minute" xOffset="-49.174424528301884"/>
   </outline>
   <lib>
     <dict>

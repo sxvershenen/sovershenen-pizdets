@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="underscoredbl" format="2">
-  <advance width="344.3301886792453"/>
+  <advance width="345.46226415094344"/>
   <unicode hex="2017"/>
   <outline>
-    <component base="underscore" yOffset="-134.58292452830187"/>
-    <component base="underscore" yOffset="-3.994386792452829"/>
+    <component base="underscore" yOffset="-135.06609433962265"/>
+    <component base="underscore" yOffset="-4.719141509433964"/>
   </outline>
   <lib>
     <dict>

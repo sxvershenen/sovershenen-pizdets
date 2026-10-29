@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="259.25"/>
+  <advance width="260.45"/>
   <unicode hex="012E"/>
-  <anchor x="129.59193396226414" y="0.0" name="bottom"/>
-  <anchor x="207.43443396226417" y="0.0" name="ogonek"/>
-  <anchor x="129.59193396226414" y="667.36" name="top"/>
-  <anchor x="51.74943396226415" y="667.36" name="topleft"/>
+  <anchor x="130.1917075471698" y="0.0" name="bottom"/>
+  <anchor x="209.19820754716983" y="0.0" name="ogonek"/>
+  <anchor x="130.1917075471698" y="667.3600000000001" name="top"/>
+  <anchor x="51.18520754716981" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.case" xOffset="27.755660377358492" yOffset="-3.88"/>
+    <component base="ogonekcomb.case" xOffset="28.06992452830189" yOffset="-3.88"/>
   </outline>
   <lib>
     <dict>

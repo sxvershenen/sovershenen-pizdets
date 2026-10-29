@@ -146,23 +146,23 @@
       <key>A-cy</key>
       <integer>25</integer>
       <key>De-cy</key>
-      <integer>21</integer>
+      <integer>22</integer>
       <key>El-cy</key>
-      <integer>28</integer>
+      <integer>29</integer>
       <key>Ha-cy</key>
       <integer>23</integer>
       <key>J</key>
-      <integer>15</integer>
+      <integer>16</integer>
       <key>X</key>
       <integer>23</integer>
       <key>Zhe-cy</key>
       <integer>6</integer>
       <key>de-cy</key>
-      <integer>24</integer>
+      <integer>25</integer>
       <key>el-cy</key>
       <integer>21</integer>
       <key>ha-cy</key>
-      <integer>21</integer>
+      <integer>22</integer>
       <key>ia-cy</key>
       <integer>21</integer>
       <key>j</key>
@@ -170,9 +170,9 @@
       <key>parenright</key>
       <integer>23</integer>
       <key>slash</key>
-      <integer>49</integer>
+      <integer>50</integer>
       <key>x</key>
-      <integer>21</integer>
+      <integer>22</integer>
       <key>zhe-cy</key>
       <integer>3</integer>
     </dict>
@@ -2228,7 +2228,7 @@
       <key>be-cy</key>
       <integer>-15</integer>
       <key>de-cy</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>el-cy</key>
       <integer>5</integer>
       <key>h</key>
@@ -3203,21 +3203,21 @@
     <key>de-cy</key>
     <dict>
       <key>A</key>
-      <integer>9</integer>
+      <integer>8</integer>
       <key>A-cy</key>
-      <integer>9</integer>
+      <integer>8</integer>
       <key>De-cy</key>
-      <integer>6</integer>
+      <integer>5</integer>
       <key>El-cy</key>
-      <integer>12</integer>
+      <integer>11</integer>
       <key>Ha-cy</key>
-      <integer>7</integer>
+      <integer>6</integer>
       <key>Ia-cy</key>
       <integer>0</integer>
       <key>J</key>
       <integer>0</integer>
       <key>X</key>
-      <integer>7</integer>
+      <integer>6</integer>
       <key>Zhe-cy</key>
       <integer>0</integer>
       <key>a</key>
@@ -3237,33 +3237,33 @@
       <key>ef-cy</key>
       <integer>0</integer>
       <key>el-cy</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>es-cy</key>
       <integer>0</integer>
       <key>four</key>
       <integer>0</integer>
       <key>ha-cy</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>ia-cy</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>ie-cy</key>
       <integer>0</integer>
       <key>io-cy</key>
       <integer>0</integer>
       <key>j</key>
-      <integer>41</integer>
+      <integer>40</integer>
       <key>o</key>
       <integer>0</integer>
       <key>o-cy</key>
       <integer>0</integer>
       <key>parenright</key>
-      <integer>3</integer>
+      <integer>2</integer>
       <key>s</key>
       <integer>0</integer>
       <key>slash</key>
       <integer>33</integer>
       <key>x</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>ze-cy</key>
       <integer>0</integer>
       <key>zhe-cy</key>

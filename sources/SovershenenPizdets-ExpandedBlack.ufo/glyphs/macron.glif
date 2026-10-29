@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
-  <advance width="321.9943396226415"/>
+  <advance width="317.2118867924528"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="-19.962264150943394" y="575.2762528301886" type="line"/>
-      <point x="342.203158490566" y="575.2762528301886" type="line"/>
-      <point x="342.203158490566" y="675.0476709433963" type="line"/>
-      <point x="-19.962264150943394" y="675.0476709433963" type="line"/>
+      <point x="-19.5188679245283" y="573.4667452830189" type="line"/>
+      <point x="336.9230056603773" y="573.4667452830189" type="line"/>
+      <point x="336.9230056603773" y="673.3874701886792" type="line"/>
+      <point x="-19.5188679245283" y="673.3874701886792" type="line"/>
     </contour>
   </outline>
   <lib>

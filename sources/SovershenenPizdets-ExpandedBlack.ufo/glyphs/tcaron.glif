@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="385.45350943396227"/>
+  <advance width="383.1094716981132"/>
   <unicode hex="0165"/>
-  <anchor x="210.8201358490566" y="0.0" name="bottom"/>
-  <anchor x="215.71420679245284" y="253.17" name="center"/>
-  <anchor x="215.71420679245284" y="500.5199999999999" name="top"/>
-  <anchor x="431.79470113207543" y="500.5199999999999" name="topright"/>
+  <anchor x="203.93618867924528" y="0.0" name="bottom"/>
+  <anchor x="207.79085886792453" y="253.16999999999996" name="center"/>
+  <anchor x="207.79085886792453" y="500.52" name="top"/>
+  <anchor x="419.6847966037735" y="500.52" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="caroncomb.alt" xOffset="384.49523849056607" yOffset="5.82"/>
+    <component base="caroncomb.alt" xOffset="382.0823920754717" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

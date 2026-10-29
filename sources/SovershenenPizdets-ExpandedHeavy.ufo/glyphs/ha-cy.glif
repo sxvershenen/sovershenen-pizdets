@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ha-cy" format="2">
-  <advance width="530.25"/>
+  <advance width="531.45"/>
   <unicode hex="0445"/>
-  <anchor x="290.53415094339624" y="0.0" name="bottom"/>
-  <anchor x="290.53415094339624" y="500.52" name="top"/>
+  <anchor x="291.19981132075475" y="0.0" name="bottom"/>
+  <anchor x="291.19981132075475" y="500.52000000000004" name="top"/>
   <outline>
     <component base="x"/>
   </outline>

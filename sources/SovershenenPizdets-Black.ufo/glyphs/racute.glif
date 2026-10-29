@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="racute" format="2">
-  <advance width="378.46867924528306"/>
+  <advance width="375.948679245283"/>
   <unicode hex="0155"/>
-  <anchor x="124.35470188679245" y="0.0" name="bottom"/>
-  <anchor x="193.37162943396228" y="664.53" name="top"/>
+  <anchor x="121.45104905660378" y="0.0" name="bottom"/>
+  <anchor x="186.30901924528303" y="664.53" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="acutecomb" xOffset="87.05369584905661" yOffset="5.82"/>
+    <component base="acutecomb" xOffset="78.95456339622642" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

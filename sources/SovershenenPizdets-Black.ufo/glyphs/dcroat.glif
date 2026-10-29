@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="539.1067169811321"/>
+  <advance width="530.8168301886792"/>
   <unicode hex="0111"/>
-  <anchor x="269.8816173584906" y="0.0" name="bottom"/>
-  <anchor x="392.10466716981136" y="253.17" name="center"/>
-  <anchor x="392.10466716981136" y="678.1508000000001" name="top"/>
-  <anchor x="499.9317532075472" y="500.52000000000004" name="topright"/>
+  <anchor x="265.82201018867926" y="0.0" name="bottom"/>
+  <anchor x="403.5664437735849" y="253.17" name="center"/>
+  <anchor x="403.5664437735849" y="671.6484" name="top"/>
+  <anchor x="494.0131837735849" y="500.52" name="topright"/>
   <outline>
     <contour>
-      <point x="215.2615645283019" y="590.4914150943397" type="line"/>
-      <point x="558.6105162264151" y="590.4914150943397" type="line"/>
-      <point x="558.6105162264151" y="669.21" type="line"/>
-      <point x="215.2615645283019" y="669.21" type="line"/>
+      <point x="208.72972716981133" y="589.7442924528302" type="line"/>
+      <point x="551.0866777358491" y="589.7442924528302" type="line"/>
+      <point x="551.0866777358491" y="669.21" type="line"/>
+      <point x="208.72972716981133" y="669.21" type="line"/>
     </contour>
     <component base="d"/>
   </outline>

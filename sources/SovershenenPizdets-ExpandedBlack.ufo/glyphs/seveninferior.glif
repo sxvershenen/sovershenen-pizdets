@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seveninferior" format="2">
-  <advance width="363.641358490566"/>
+  <advance width="344.47064150943396"/>
   <unicode hex="2087"/>
   <outline>
     <component base="seven.dnom" yOffset="-97.0"/>

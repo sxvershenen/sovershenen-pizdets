@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ge-cy" format="2">
-  <advance width="653.9317735849056"/>
+  <advance width="623.4439245283019"/>
   <unicode hex="0413"/>
-  <anchor x="326.89686943396225" y="667.36" name="top"/>
-  <anchor x="326.89686943396225" y="0.0" name="bottom"/>
+  <anchor x="311.65740679245283" y="667.36" name="top"/>
+  <anchor x="311.65740679245283" y="0.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="66.31736905660378" y="0.0" type="line"/>
-      <point x="261.52112075471695" y="0.0" type="line"/>
-      <point x="261.52112075471695" y="529.4943026415094" type="line"/>
-      <point x="627.4672007547169" y="529.4943026415094" type="line"/>
-      <point x="627.4672007547169" y="667.36" type="line"/>
-      <point x="66.31736905660378" y="667.36" type="line"/>
+      <point x="60.208836226415094" y="0.0" type="line"/>
+      <point x="257.18095283018863" y="0.0" type="line"/>
+      <point x="257.18095283018863" y="527.1359581132076" type="line"/>
+      <point x="599.3604222641509" y="527.1359581132076" type="line"/>
+      <point x="599.3604222641509" y="667.36" type="line"/>
+      <point x="60.208836226415094" y="667.36" type="line"/>
     </contour>
   </outline>
 </glyph>

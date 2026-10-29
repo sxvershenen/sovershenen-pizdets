@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelow" format="2">
-  <advance width="513.207320754717"/>
+  <advance width="505.6529433962264"/>
   <unicode hex="1E63"/>
-  <anchor x="275.2785358490566" y="-226.26300528301886" name="bottom"/>
-  <anchor x="274.9303275471698" y="500.5199999999999" name="top"/>
+  <anchor x="264.1614075471698" y="-225.0123275471698" name="bottom"/>
+  <anchor x="263.86674188679245" y="500.52" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="188.57854943396225"/>
+    <component base="dotbelowcomb" xOffset="183.9653328301887"/>
   </outline>
   <lib>
     <dict>

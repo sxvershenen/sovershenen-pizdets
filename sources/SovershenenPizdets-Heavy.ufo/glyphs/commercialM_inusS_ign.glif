@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commercialMinusSign" format="2">
-  <advance width="330.39622641509436"/>
+  <advance width="331.7547169811321"/>
   <unicode hex="2052"/>
   <outline>
     <contour>
-      <point x="-21.933962264150942" y="0.0" type="line"/>
-      <point x="68.90745283018867" y="0.0" type="line"/>
-      <point x="352.06966981132075" y="667.36" type="line"/>
-      <point x="261.22825471698116" y="667.36" type="line"/>
+      <point x="-21.70754716981132" y="0.0" type="line"/>
+      <point x="69.96843396226416" y="0.0" type="line"/>
+      <point x="353.19653773584906" y="667.3600000000001" type="line"/>
+      <point x="261.52055660377357" y="667.3600000000001" type="line"/>
     </contour>
     <contour>
-      <point x="197.1304716981132" y="0.0" type="line"/>
-      <point x="340.49372641509433" y="0.0" type="line"/>
-      <point x="340.49372641509433" y="134.9306603773585" type="line"/>
-      <point x="197.1304716981132" y="134.9306603773585" type="line"/>
+      <point x="197.48866037735849" y="0.0" type="line"/>
+      <point x="341.84021698113213" y="0.0" type="line"/>
+      <point x="341.84021698113213" y="135.9409245283019" type="line"/>
+      <point x="197.48866037735849" y="135.9409245283019" type="line"/>
     </contour>
     <contour>
-      <point x="-10.358018867924528" y="532.4293396226416" type="line"/>
-      <point x="133.0052358490566" y="532.4293396226416" type="line"/>
-      <point x="133.0052358490566" y="667.36" type="line"/>
-      <point x="-10.358018867924528" y="667.36" type="line"/>
+      <point x="-10.35122641509434" y="531.4190754716981" type="line"/>
+      <point x="134.00033018867924" y="531.4190754716981" type="line"/>
+      <point x="134.00033018867924" y="667.3600000000001" type="line"/>
+      <point x="-10.35122641509434" y="667.3600000000001" type="line"/>
     </contour>
   </outline>
   <lib>

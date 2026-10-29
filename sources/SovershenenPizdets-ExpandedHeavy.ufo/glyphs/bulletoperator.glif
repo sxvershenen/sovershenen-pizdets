@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bulletoperator" format="2">
-  <advance width="382.9292452830189"/>
+  <advance width="384.40094339622647"/>
   <unicode hex="2219"/>
   <outline>
     <contour>
-      <point x="65.21047169811321" y="216.6211320754717" type="line"/>
-      <point x="317.8222641509434" y="216.6211320754717" type="line"/>
-      <point x="317.8222641509434" y="449.76886792452825" type="line"/>
-      <point x="65.21047169811321" y="449.76886792452825" type="line"/>
+      <point x="65.5686603773585" y="216.3575849056604" type="line"/>
+      <point x="318.92716981132077" y="216.3575849056604" type="line"/>
+      <point x="318.92716981132077" y="450.0324150943396" type="line"/>
+      <point x="65.5686603773585" y="450.0324150943396" type="line"/>
     </contour>
   </outline>
   <lib>

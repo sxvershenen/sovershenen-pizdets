@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="802.9379622641509"/>
+  <advance width="785.2046037735848"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="318.14825660377363" y="-102.82" type="line"/>
-      <point x="502.2831735849056" y="-102.82" type="line"/>
-      <point x="779.7630573584906" y="746.9" type="line"/>
-      <point x="629.204562264151" y="746.9" type="line"/>
-      <point x="400.10725358490566" y="39.52760981132076" type="line"/>
-      <point x="203.65121358490563" y="342.66476226415097" type="line"/>
-      <point x="19.144987924528298" y="260.9341728301887" type="line"/>
-      <point x="53.273248301886795" y="189.82233811320754" type="line"/>
-      <point x="115.35419999999999" y="217.57692981132075" type="line"/>
+      <point x="303.46807169811325" y="-102.82" type="line"/>
+      <point x="495.4923830188679" y="-102.82" type="line"/>
+      <point x="760.4338637735849" y="746.9" type="line"/>
+      <point x="606.2901754716981" y="746.9" type="line"/>
+      <point x="389.72585245283017" y="42.199063018867925" type="line"/>
+      <point x="205.24718943396226" y="343.2943471698113" type="line"/>
+      <point x="17.436411698113208" y="260.6694909433962" type="line"/>
+      <point x="51.66880981132075" y="187.19118566037739" type="line"/>
+      <point x="112.6070283018868" y="214.30279547169812" type="line"/>
     </contour>
   </outline>
   <lib>

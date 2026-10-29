@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevedotbelow.ss01" format="2">
-  <advance width="737.5613207547169"/>
-  <anchor x="369.37028301886795" y="-209.60693396226412" name="bottom"/>
-  <anchor x="674.9012264150944" y="0.0" name="ogonek"/>
-  <anchor x="369.2231132075472" y="833.7470283018868" name="top"/>
+  <advance width="737.0858490566038"/>
+  <anchor x="369.1243962264151" y="-210.90270754716983" name="bottom"/>
+  <anchor x="675.083716981132" y="0.0" name="ogonek"/>
+  <anchor x="368.96635849056605" y="833.8568396226415" name="top"/>
   <outline>
     <component base="A.ss01"/>
-    <component base="dotbelowcomb.case" xOffset="311.36702830188676"/>
-    <component base="brevecomb.case" xOffset="211.20462264150945" yOffset="172.66"/>
+    <component base="dotbelowcomb.case" xOffset="310.13283962264154"/>
+    <component base="brevecomb.case" xOffset="210.59647169811322" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

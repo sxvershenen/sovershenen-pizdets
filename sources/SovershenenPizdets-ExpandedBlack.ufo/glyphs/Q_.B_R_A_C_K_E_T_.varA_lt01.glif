@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q.BRACKET.varAlt01" format="2">
-  <advance width="803.6991698113209"/>
-  <anchor x="401.9604294339622" y="0.0" name="bottom"/>
-  <anchor x="401.9604294339622" y="333.68" name="center"/>
-  <anchor x="488.39760528301883" y="0.0" name="ogonek"/>
-  <anchor x="401.9604294339622" y="667.36" name="top"/>
-  <anchor x="-0.5622641509433961" y="667.36" name="topleft"/>
-  <anchor x="452.9053418867925" y="667.36" name="topright"/>
+  <advance width="767.4175849056604"/>
+  <anchor x="383.9115626415095" y="0.0" name="bottom"/>
+  <anchor x="383.9115626415095" y="333.68" name="center"/>
+  <anchor x="472.32526905660376" y="0.0" name="ogonek"/>
+  <anchor x="383.9115626415095" y="667.36" name="top"/>
+  <anchor x="-0.1188679245283022" y="667.36" name="topleft"/>
+  <anchor x="444.50080075471703" y="667.36" name="topright"/>
   <outline>
     <contour>
-      <point x="579.6065954716981" y="-111.55" type="line"/>
-      <point x="786.8332226415093" y="-111.55" type="line"/>
-      <point x="786.8332226415093" y="-105.48570641509433" type="line"/>
-      <point x="659.8891396226416" y="52.021356226415094" type="line"/>
-      <point x="488.4676649056604" y="8.445808301886792" type="line"/>
+      <point x="548.9034381132075" y="-111.55" type="line"/>
+      <point x="757.0719169811321" y="-111.55" type="line"/>
+      <point x="757.0719169811321" y="-105.29284113207547" type="line"/>
+      <point x="633.1981584905661" y="53.38656716981132" type="line"/>
+      <point x="460.8387486792453" y="8.157590188679245" type="line"/>
     </contour>
     <component base="O"/>
   </outline>

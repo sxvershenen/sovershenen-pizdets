@@ -39,7 +39,7 @@
     <key>openTypeNameManufacturerURL</key>
     <string>https://github.com/sxvershenen/sovershenen-pizdets</string>
     <key>openTypeNameVersion</key>
-    <string>Version 3.16</string>
+    <string>Version 3.17</string>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>
@@ -93,7 +93,7 @@
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>160</integer>
+    <integer>170</integer>
     <key>xHeight</key>
     <integer>501</integer>
   </dict>

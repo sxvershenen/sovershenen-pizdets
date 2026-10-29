@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdotbelow.ss01" format="2">
-  <advance width="721.3867924528302"/>
-  <anchor x="361.0048113207547" y="-209.60693396226412" name="bottom"/>
-  <anchor x="360.8545754716981" y="667.36" name="top"/>
+  <advance width="721.3415094339623"/>
+  <anchor x="361.00073584905664" y="-210.90270754716983" name="bottom"/>
+  <anchor x="360.83940566037734" y="667.3600000000001" name="top"/>
   <outline>
     <component base="R.ss01"/>
-    <component base="dotbelowcomb.case" xOffset="303.00155660377357"/>
+    <component base="dotbelowcomb.case" xOffset="302.00917924528306"/>
   </outline>
   <lib>
     <dict>

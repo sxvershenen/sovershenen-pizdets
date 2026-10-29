@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="saltillo" format="2">
-  <advance width="225.20271698113208"/>
+  <advance width="222.9224150943396"/>
   <unicode hex="A78C"/>
   <outline>
     <contour>
-      <point x="40.59630339622642" y="265.72875471698114" type="line"/>
-      <point x="150.41860528301885" y="265.72875471698114" type="line"/>
-      <point x="184.41259622641508" y="506.38392452830186" type="line"/>
-      <point x="184.41259622641508" y="720.71" type="line"/>
-      <point x="40.59630339622642" y="720.71" type="line"/>
+      <point x="37.95476150943396" y="265.1266226415094" type="line"/>
+      <point x="150.2716105660377" y="265.1266226415094" type="line"/>
+      <point x="184.86884905660378" y="506.900037735849" type="line"/>
+      <point x="184.86884905660378" y="720.71" type="line"/>
+      <point x="37.95476150943396" y="720.71" type="line"/>
     </contour>
   </outline>
   <lib>

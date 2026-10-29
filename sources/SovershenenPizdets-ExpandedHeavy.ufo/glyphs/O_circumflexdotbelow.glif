@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflexdotbelow" format="2">
-  <advance width="754.3867924528302"/>
+  <advance width="754.3415094339623"/>
   <unicode hex="1ED8"/>
-  <anchor x="377.4948113207547" y="-209.60693396226412" name="bottom"/>
-  <anchor x="377.34457547169814" y="333.68" name="center"/>
-  <anchor x="448.60297169811327" y="0.0" name="ogonek"/>
-  <anchor x="377.34457547169814" y="840.02" name="top"/>
-  <anchor x="-2.533962264150943" y="667.36" name="topleft"/>
-  <anchor x="453.201320754717" y="667.36" name="topright"/>
+  <anchor x="377.49073584905665" y="-210.90270754716983" name="bottom"/>
+  <anchor x="377.3294056603774" y="333.68000000000006" name="center"/>
+  <anchor x="450.1251603773585" y="0.0" name="ogonek"/>
+  <anchor x="377.3294056603774" y="840.02" name="top"/>
+  <anchor x="-2.3075471698113206" y="667.3600000000001" name="topleft"/>
+  <anchor x="452.1978490566038" y="667.3600000000001" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb.case" xOffset="319.48849056603774"/>
-    <component base="circumflexcomb.case" xOffset="201.95759433962263" yOffset="172.66"/>
+    <component base="dotbelowcomb.case" xOffset="318.49588679245284"/>
+    <component base="circumflexcomb.case" xOffset="201.23963207547172" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

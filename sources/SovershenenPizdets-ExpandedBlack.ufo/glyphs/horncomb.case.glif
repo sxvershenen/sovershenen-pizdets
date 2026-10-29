@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
-  <anchor x="0.0" y="494.70000000000005" name="_topright"/>
-  <anchor x="0.0" y="581.5040188679245" name="topright"/>
+  <anchor x="0.0" y="494.7" name="_topright"/>
+  <anchor x="0.0" y="581.3749905660377" name="topright"/>
   <outline>
     <contour>
-      <point x="0.0" y="435.2060566037736" type="line"/>
-      <point x="218.4459033962264" y="435.2060566037736" type="line" smooth="yes"/>
-      <point x="303.11526339622645" y="435.2060566037736"/>
-      <point x="334.259437735849" y="465.24347924528297"/>
-      <point x="334.259437735849" y="570.3765449056604" type="curve" smooth="yes"/>
-      <point x="334.259437735849" y="581.5040188679245" type="line"/>
-      <point x="217.3393713207547" y="581.5040188679245" type="line"/>
-      <point x="217.3393713207547" y="569.1013426415094" type="line" smooth="yes"/>
-      <point x="217.3393713207547" y="512.7545916981132"/>
-      <point x="211.24250037735848" y="494.70000000000005"/>
-      <point x="157.93020226415095" y="494.70000000000005" type="curve" smooth="yes"/>
-      <point x="0.0" y="494.70000000000005" type="line"/>
+      <point x="0.0" y="434.13704339622643" type="line"/>
+      <point x="184.61457283018868" y="434.13704339622643" type="line" smooth="yes"/>
+      <point x="282.3687569811321" y="434.13704339622643"/>
+      <point x="311.8167490566038" y="464.16513207547166"/>
+      <point x="311.8167490566038" y="569.1331879245283" type="curve" smooth="yes"/>
+      <point x="311.8167490566038" y="581.3749905660377" type="line"/>
+      <point x="194.41358603773585" y="581.3749905660377" type="line"/>
+      <point x="194.41358603773585" y="566.168977735849" type="line" smooth="yes"/>
+      <point x="194.41358603773585" y="512.1116098113208"/>
+      <point x="188.1145158490566" y="494.7"/>
+      <point x="133.4041366037736" y="494.7" type="curve" smooth="yes"/>
+      <point x="0.0" y="494.7" type="line"/>
     </contour>
   </outline>
   <lib>

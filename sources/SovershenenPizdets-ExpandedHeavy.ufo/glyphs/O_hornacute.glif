@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohornacute" format="2">
-  <advance width="754.3867924528302"/>
+  <advance width="754.3415094339623"/>
   <unicode hex="1EDA"/>
-  <anchor x="377.34457547169814" y="0.0" name="bottom"/>
-  <anchor x="377.34457547169814" y="333.68" name="center"/>
-  <anchor x="448.60297169811327" y="0.0" name="ogonek"/>
-  <anchor x="377.34457547169814" y="835.17" name="top"/>
-  <anchor x="-2.533962264150943" y="667.36" name="topleft"/>
-  <anchor x="453.201320754717" y="754.737783018868" name="topright"/>
-  <anchor x="453.201320754717" y="667.36" name="_topright"/>
+  <anchor x="377.3294056603774" y="0.0" name="bottom"/>
+  <anchor x="377.3294056603774" y="333.68000000000006" name="center"/>
+  <anchor x="450.1251603773585" y="0.0" name="ogonek"/>
+  <anchor x="377.3294056603774" y="835.1700000000001" name="top"/>
+  <anchor x="-2.3075471698113206" y="667.3600000000001" name="topleft"/>
+  <anchor x="452.1978490566038" y="754.6718962264151" name="topright"/>
+  <anchor x="452.1978490566038" y="667.3600000000001" name="_topright"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="acutecomb.case" xOffset="273.065" yOffset="172.66"/>
+    <component base="acutecomb.case" xOffset="272.369" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

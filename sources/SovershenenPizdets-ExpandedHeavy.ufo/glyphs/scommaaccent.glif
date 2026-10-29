@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scommaaccent" format="2">
-  <advance width="495.5849056603774"/>
+  <advance width="496.21886792452835"/>
   <unicode hex="0219"/>
-  <anchor x="256.37825471698113" y="-293.47075471698116" name="bottom"/>
-  <anchor x="256.37825471698113" y="500.52" name="top"/>
+  <anchor x="256.6705566037736" y="-293.2950566037736" name="bottom"/>
+  <anchor x="256.6705566037736" y="500.52000000000004" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="commaaccentcomb" xOffset="160.6957075471698"/>
+    <component base="commaaccentcomb" xOffset="160.46499056603773"/>
   </outline>
   <lib>
     <dict>

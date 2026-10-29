@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rinvertedbreve.ss01" format="2">
-  <advance width="766.7325283018869"/>
-  <anchor x="383.7600083018868" y="0.0" name="bottom"/>
-  <anchor x="383.3364294339623" y="846.7972618867923" name="top"/>
+  <advance width="733.3144905660378"/>
+  <anchor x="366.94476188679243" y="0.0" name="bottom"/>
+  <anchor x="366.8395626415094" y="841.7031879245283" name="top"/>
   <outline>
     <component base="R.ss01"/>
-    <component base="breveinvertedcomb.case" xOffset="216.8561713207547" yOffset="172.66"/>
+    <component base="breveinvertedcomb.case" xOffset="203.18577471698114" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

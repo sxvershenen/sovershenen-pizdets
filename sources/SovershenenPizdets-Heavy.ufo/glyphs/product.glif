@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="product" format="2">
-  <advance width="655.8396226415094"/>
+  <advance width="655.9754716981132"/>
   <unicode hex="220F"/>
   <outline>
     <contour>
-      <point x="52.64165094339623" y="-183.33" type="line"/>
-      <point x="208.54627358490566" y="-183.33" type="line"/>
-      <point x="208.54627358490566" y="546.2426886792452" type="line"/>
-      <point x="446.5943396226415" y="546.2426886792452" type="line"/>
-      <point x="446.5943396226415" y="-183.33" type="line"/>
-      <point x="602.8741509433962" y="-183.33" type="line"/>
-      <point x="602.8741509433962" y="667.36" type="line"/>
-      <point x="52.64165094339623" y="667.36" type="line"/>
+      <point x="52.14331132075472" y="-183.33" type="line"/>
+      <point x="210.46378301886793" y="-183.33" type="line"/>
+      <point x="210.46378301886793" y="545.0347641509434" type="line"/>
+      <point x="444.88807547169813" y="545.0347641509434" type="line"/>
+      <point x="444.88807547169813" y="-183.33" type="line"/>
+      <point x="603.5398113207548" y="-183.33" type="line"/>
+      <point x="603.5398113207548" y="667.3600000000001" type="line"/>
+      <point x="52.14331132075472" y="667.3600000000001" type="line"/>
     </contour>
   </outline>
   <lib>

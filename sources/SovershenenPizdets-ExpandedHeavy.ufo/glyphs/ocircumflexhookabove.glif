@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexhookabove" format="2">
-  <advance width="539.5990566037735"/>
+  <advance width="539.9386792452831"/>
   <unicode hex="1ED5"/>
-  <anchor x="295.70900943396225" y="0.0" name="bottom"/>
-  <anchor x="295.70900943396225" y="253.16999999999996" name="center"/>
-  <anchor x="378.1818867924528" y="0.0" name="ogonek"/>
-  <anchor x="295.70900943396225" y="839.127783018868" name="top"/>
-  <anchor x="305.8253773584905" y="500.52" name="topright"/>
+  <anchor x="295.8256132075472" y="0.0" name="bottom"/>
+  <anchor x="295.8256132075472" y="253.17000000000002" name="center"/>
+  <anchor x="379.37464150943396" y="0.0" name="ogonek"/>
+  <anchor x="295.8256132075472" y="839.0618962264152" name="top"/>
+  <anchor x="305.04152830188684" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_hookabovecomb" xOffset="94.9120754716981" yOffset="4.927783018867925"/>
+    <component base="circumflexcomb_hookabovecomb" xOffset="94.40490566037735" yOffset="4.8618962264150944"/>
   </outline>
   <lib>
     <dict>

@@ -156,35 +156,35 @@
     <key>De-cy</key>
     <dict>
       <key>A</key>
-      <integer>11</integer>
+      <integer>12</integer>
       <key>A-cy</key>
-      <integer>11</integer>
+      <integer>12</integer>
       <key>De-cy</key>
-      <integer>10</integer>
+      <integer>11</integer>
       <key>El-cy</key>
       <integer>19</integer>
       <key>Ha-cy</key>
-      <integer>10</integer>
+      <integer>11</integer>
       <key>J</key>
       <integer>0</integer>
       <key>X</key>
-      <integer>10</integer>
+      <integer>11</integer>
       <key>Zhe-cy</key>
       <integer>0</integer>
       <key>de-cy</key>
-      <integer>17</integer>
+      <integer>18</integer>
       <key>el-cy</key>
-      <integer>13</integer>
+      <integer>14</integer>
       <key>ha-cy</key>
       <integer>13</integer>
       <key>ia-cy</key>
-      <integer>13</integer>
+      <integer>14</integer>
       <key>j</key>
       <integer>52</integer>
       <key>parenright</key>
-      <integer>15</integer>
+      <integer>16</integer>
       <key>slash</key>
-      <integer>55</integer>
+      <integer>56</integer>
       <key>x</key>
       <integer>13</integer>
       <key>zhe-cy</key>
@@ -2242,7 +2242,7 @@
       <key>be-cy</key>
       <integer>-10</integer>
       <key>de-cy</key>
-      <integer>-18</integer>
+      <integer>-14</integer>
       <key>el-cy</key>
       <integer>-7</integer>
       <key>h</key>
@@ -6574,7 +6574,7 @@
       <key>guillemetleft</key>
       <integer>0</integer>
       <key>te-cy</key>
-      <integer>-72</integer>
+      <integer>-71</integer>
     </dict>
     <key>t</key>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="micro" format="2">
-  <advance width="574.0765283018868"/>
+  <advance width="565.4319245283018"/>
   <unicode hex="00B5"/>
   <outline>
     <component base="mu"/>

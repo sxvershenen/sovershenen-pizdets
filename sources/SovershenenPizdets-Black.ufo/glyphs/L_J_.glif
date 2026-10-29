@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="LJ" format="2">
-  <advance width="942.6124528301887"/>
+  <advance width="898.2167924528302"/>
   <unicode hex="01C7"/>
-  <anchor x="775.0865592452831" y="0.0" name="bottom"/>
-  <anchor x="200.9303086792453" y="333.68" name="center"/>
-  <anchor x="800.9029079245283" y="667.36" name="top"/>
-  <anchor x="313.4556528301887" y="494.7" name="topright"/>
+  <anchor x="721.1056713207547" y="0.0" name="bottom"/>
+  <anchor x="153.89710981132077" y="333.68" name="center"/>
+  <anchor x="761.9391573584905" y="667.36" name="top"/>
+  <anchor x="295.05323018867927" y="494.7" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="559.365763773585"/>
+    <component base="J" xOffset="530.367778490566"/>
   </outline>
   <lib>
     <dict>

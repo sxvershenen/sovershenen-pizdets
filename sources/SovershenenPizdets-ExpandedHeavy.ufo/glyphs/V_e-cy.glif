@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ve-cy" format="2">
-  <advance width="714.933962264151"/>
+  <advance width="714.7075471698113"/>
   <unicode hex="0412"/>
-  <anchor x="357.72495283018867" y="0.0" name="bottom"/>
-  <anchor x="357.72495283018867" y="667.36" name="top"/>
+  <anchor x="357.62193396226417" y="0.0" name="bottom"/>
+  <anchor x="357.62193396226417" y="667.3600000000001" name="top"/>
   <outline>
     <component base="B"/>
   </outline>

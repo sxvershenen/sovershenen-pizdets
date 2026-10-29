@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedilla" format="2">
-  <advance width="125.75471698113208"/>
+  <advance width="127.65660377358492"/>
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="-21.933962264150942" y="-184.3" type="line"/>
-      <point x="111.02924528301887" y="-184.3" type="line"/>
-      <point x="148.04481132075472" y="12.61" type="line"/>
-      <point x="148.04481132075472" y="17.46" type="line"/>
-      <point x="54.384905660377356" y="17.46" type="line"/>
-      <point x="-21.933962264150942" y="-179.45" type="line"/>
+      <point x="-21.70754716981132" y="-184.3" type="line"/>
+      <point x="112.83694339622642" y="-184.3" type="line"/>
+      <point x="149.7207358490566" y="12.61" type="line"/>
+      <point x="149.7207358490566" y="17.46" type="line"/>
+      <point x="54.8748679245283" y="17.46" type="line"/>
+      <point x="-21.70754716981132" y="-179.45" type="line"/>
     </contour>
   </outline>
   <lib>

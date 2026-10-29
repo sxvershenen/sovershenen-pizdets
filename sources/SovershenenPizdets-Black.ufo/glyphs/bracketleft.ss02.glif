@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft.ss02" format="2">
-  <advance width="345.07547169811323"/>
+  <advance width="345.9622641509434"/>
   <outline>
     <contour>
-      <point x="23.687735849056605" y="0.0" type="line"/>
-      <point x="365.1277358490566" y="0.0" type="line"/>
-      <point x="365.1277358490566" y="675.1200000000001" type="line"/>
-      <point x="164.33773584905663" y="675.1200000000001"/>
-      <point x="23.687735849056605" y="536.4100000000001"/>
-      <point x="23.687735849056605" y="337.56000000000006" type="curve" smooth="yes"/>
+      <point x="24.131132075471697" y="0.0" type="line"/>
+      <point x="365.57113207547167" y="0.0" type="line"/>
+      <point x="365.57113207547167" y="675.12" type="line"/>
+      <point x="164.7811320754717" y="675.12"/>
+      <point x="24.131132075471697" y="536.41"/>
+      <point x="24.131132075471697" y="337.56" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

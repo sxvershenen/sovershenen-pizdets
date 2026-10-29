@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ka-cy" format="2">
-  <advance width="726.2641509433963"/>
+  <advance width="727.1698113207548"/>
   <unicode hex="041A"/>
-  <anchor x="363.2200943396226" y="0.0" name="bottom"/>
-  <anchor x="363.2200943396226" y="667.36" name="top"/>
+  <anchor x="363.6661320754717" y="0.0" name="bottom"/>
+  <anchor x="363.6661320754717" y="667.3600000000001" name="top"/>
   <outline>
     <component base="K"/>
   </outline>

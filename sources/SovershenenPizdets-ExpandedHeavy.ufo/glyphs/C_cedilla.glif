@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccedilla" format="2">
-  <advance width="723.9481132075472"/>
+  <advance width="723.4273584905661"/>
   <unicode hex="00C7"/>
-  <anchor x="337.1856603773585" y="-184.3" name="bottom"/>
-  <anchor x="337.1856603773585" y="667.36" name="top"/>
+  <anchor x="337.4999245283019" y="-184.3" name="bottom"/>
+  <anchor x="337.4999245283019" y="667.3600000000001" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="268.9474528301887"/>
+    <component base="cedillacomb.case" xOffset="267.84843396226415"/>
   </outline>
   <lib>
     <dict>

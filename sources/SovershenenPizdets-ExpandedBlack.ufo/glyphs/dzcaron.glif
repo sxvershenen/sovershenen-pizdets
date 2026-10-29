@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcaron" format="2">
-  <advance width="1260.3561509433962"/>
+  <advance width="1212.3290943396225"/>
   <unicode hex="01C6"/>
-  <anchor x="968.6132724528301" y="0.0" name="bottom"/>
-  <anchor x="971.3826407547169" y="253.17" name="center"/>
-  <anchor x="968.6132724528301" y="664.53" name="top"/>
-  <anchor x="587.8983018867924" y="500.5199999999999" name="topright"/>
+  <anchor x="933.6471298113207" y="0.0" name="bottom"/>
+  <anchor x="934.3869286792452" y="253.16999999999996" name="center"/>
+  <anchor x="933.6471298113207" y="664.53" name="top"/>
+  <anchor x="567.9837773584906" y="500.52" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="681.4567720754717"/>
-    <component base="caroncomb" xOffset="166.19396981132076" yOffset="203.77080000000004"/>
+    <component base="z" xOffset="655.5849686792453"/>
+    <component base="caroncomb" xOffset="181.66975849056604" yOffset="197.2684"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydieresis.loclGUA" format="2">
-  <advance width="485.7169811320755"/>
-  <anchor x="461.84438679245284" y="0.0" name="bottom"/>
-  <anchor x="243.45712264150944" y="658.4749056603773" name="top"/>
+  <advance width="486.8037735849057"/>
+  <anchor x="464.201141509434" y="0.0" name="bottom"/>
+  <anchor x="244.01297169811323" y="658.5808679245283" name="top"/>
   <outline>
     <component base="y.loclGUA"/>
-    <component base="dieresiscomb" xOffset="81.06066037735849" yOffset="5.82"/>
+    <component base="dieresiscomb" xOffset="80.7269245283019" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

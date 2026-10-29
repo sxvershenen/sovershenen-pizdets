@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twoinferior" format="2">
-  <advance width="326.97388679245284"/>
+  <advance width="308.68815094339624"/>
   <unicode hex="2082"/>
   <outline>
     <component base="two.dnom" yOffset="-97.0"/>

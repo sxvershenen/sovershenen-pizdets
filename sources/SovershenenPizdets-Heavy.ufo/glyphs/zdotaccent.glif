@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotaccent" format="2">
-  <advance width="463.95754716981133"/>
+  <advance width="464.8405660377358"/>
   <unicode hex="017C"/>
-  <anchor x="239.13787735849056" y="0.0" name="bottom"/>
-  <anchor x="232.27009433962263" y="253.16999999999996" name="center"/>
-  <anchor x="239.13787735849056" y="658.4749056603773" name="top"/>
+  <anchor x="239.5180283018868" y="0.0" name="bottom"/>
+  <anchor x="232.7161320754717" y="253.17000000000002" name="center"/>
+  <anchor x="239.5180283018868" y="658.5808679245283" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="dotaccentcomb" xOffset="178.80570754716985" yOffset="5.82"/>
+    <component base="dotaccentcomb" xOffset="178.52699056603774" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

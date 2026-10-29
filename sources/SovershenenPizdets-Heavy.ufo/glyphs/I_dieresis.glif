@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresis" format="2">
-  <advance width="259.25"/>
+  <advance width="260.45"/>
   <unicode hex="00CF"/>
-  <anchor x="129.59193396226414" y="0.0" name="bottom"/>
-  <anchor x="207.43443396226417" y="0.0" name="ogonek"/>
-  <anchor x="129.59193396226414" y="841.96" name="top"/>
-  <anchor x="51.74943396226415" y="667.36" name="topleft"/>
+  <anchor x="130.1917075471698" y="0.0" name="bottom"/>
+  <anchor x="209.19820754716983" y="0.0" name="ogonek"/>
+  <anchor x="130.1917075471698" y="841.96" name="top"/>
+  <anchor x="51.18520754716981" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="-32.65429245283019" yOffset="172.66"/>
+    <component base="dieresiscomb.case" xOffset="-32.93300943396226" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

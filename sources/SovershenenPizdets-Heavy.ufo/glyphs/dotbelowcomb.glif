@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
-  <anchor x="56.67179245283019" y="0.0" name="_bottom"/>
-  <anchor x="56.67179245283019" y="-201.7966037735849" name="bottom"/>
+  <anchor x="57.41850943396227" y="0.0" name="_bottom"/>
+  <anchor x="57.41850943396227" y="-202.5872452830189" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.0" y="-201.7966037735849" type="line"/>
-      <point x="113.34358490566038" y="-201.7966037735849" type="line"/>
-      <point x="113.34358490566038" y="-95.90188679245283" type="line"/>
-      <point x="0.0" y="-95.90188679245283" type="line"/>
+      <point x="0.0" y="-202.5872452830189" type="line"/>
+      <point x="114.83701886792454" y="-202.5872452830189" type="line"/>
+      <point x="114.83701886792454" y="-95.46264150943395" type="line"/>
+      <point x="0.0" y="-95.46264150943395" type="line"/>
     </contour>
   </outline>
   <lib>

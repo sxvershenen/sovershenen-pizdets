@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="orn.017" format="2">
-  <advance width="58.0"/>
+  <advance width="58.00000000000001"/>
   <outline>
     <contour>
       <point x="0.0" y="0.0" type="line"/>
-      <point x="58.2" y="0.0" type="line"/>
-      <point x="58.2" y="667.36" type="line"/>
-      <point x="0.0" y="667.36" type="line"/>
+      <point x="58.20000000000001" y="0.0" type="line"/>
+      <point x="58.20000000000001" y="667.3600000000001" type="line"/>
+      <point x="0.0" y="667.3600000000001" type="line"/>
     </contour>
   </outline>
   <lib>

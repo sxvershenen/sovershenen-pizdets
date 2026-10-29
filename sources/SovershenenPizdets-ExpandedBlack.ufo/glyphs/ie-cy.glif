@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ie-cy" format="2">
-  <advance width="553.4559245283019"/>
+  <advance width="545.7388301886792"/>
   <unicode hex="0435"/>
-  <anchor x="305.1323939622642" y="0.0" name="bottom"/>
-  <anchor x="547.467676981132" y="10.640643773584905" name="ogonek"/>
-  <anchor x="303.0016150943396" y="500.5199999999999" name="top"/>
+  <anchor x="293.37619169811325" y="0.0" name="bottom"/>
+  <anchor x="528.977478490566" y="10.639289433962263" name="ogonek"/>
+  <anchor x="292.8053924528302" y="500.52" name="top"/>
   <outline>
     <component base="e"/>
   </outline>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhungarumlaut" format="2">
-  <advance width="530.2924528301887"/>
+  <advance width="530.6094339622641"/>
   <unicode hex="0171"/>
-  <anchor x="242.11193396226415" y="0.0" name="bottom"/>
-  <anchor x="488.931179245283" y="0.0" name="ogonek"/>
-  <anchor x="265.26382075471696" y="664.53" name="top"/>
-  <anchor x="365.98825471698115" y="500.52" name="topright"/>
+  <anchor x="242.71170754716982" y="0.0" name="bottom"/>
+  <anchor x="489.70665094339626" y="0.0" name="ogonek"/>
+  <anchor x="265.4243490566038" y="664.53" name="top"/>
+  <anchor x="366.28055660377356" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="hungarumlautcomb" xOffset="123.21830188679246" yOffset="5.82"/>
+    <component base="hungarumlautcomb" xOffset="122.91762264150945" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

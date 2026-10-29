@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcaron" format="2">
-  <advance width="571.5047169811321"/>
+  <advance width="572.2066037735849"/>
   <unicode hex="0164"/>
-  <anchor x="310.2452830188679" y="0.0" name="bottom"/>
-  <anchor x="310.2452830188679" y="333.68" name="center"/>
-  <anchor x="310.2452830188679" y="835.17" name="top"/>
+  <anchor x="310.64739622641514" y="0.0" name="bottom"/>
+  <anchor x="310.64739622641514" y="333.68000000000006" name="center"/>
+  <anchor x="310.64739622641514" y="835.1700000000001" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb.case" xOffset="109.46179245283018" yOffset="172.66"/>
+    <component base="caroncomb.case" xOffset="109.05650943396228" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

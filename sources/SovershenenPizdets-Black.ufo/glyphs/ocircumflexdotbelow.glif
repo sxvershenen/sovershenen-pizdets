@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflexdotbelow" format="2">
-  <advance width="527.4408301886792"/>
+  <advance width="519.5463773584905"/>
   <unicode hex="1ED9"/>
-  <anchor x="275.11103018867925" y="-214.0538166037736" name="bottom"/>
-  <anchor x="275.00463320754716" y="253.17" name="center"/>
-  <anchor x="360.83689509433964" y="0.0" name="ogonek"/>
-  <anchor x="275.00463320754716" y="668.5871343396227" name="top"/>
-  <anchor x="304.2724981132076" y="500.52000000000004" name="topright"/>
+  <anchor x="263.0046320754717" y="-211.81392188679246" name="bottom"/>
+  <anchor x="262.973060754717" y="253.17" name="center"/>
+  <anchor x="346.7960316981132" y="0.0" name="ogonek"/>
+  <anchor x="262.973060754717" y="669.025176226415" name="top"/>
+  <anchor x="307.8323396226415" y="500.52" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dotbelowcomb" xOffset="199.33466188679247"/>
-    <component base="circumflexcomb" xOffset="91.59294490566037" yOffset="5.174968301886793"/>
+    <component base="dotbelowcomb" xOffset="194.88766150943397"/>
+    <component base="circumflexcomb" xOffset="91.43132377358491" yOffset="5.628598867924529"/>
   </outline>
   <lib>
     <dict>

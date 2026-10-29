@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydotbelow.loclGUA" format="2">
-  <advance width="721.9356981132075"/>
-  <anchor x="361.0460158490566" y="-226.26300528301886" name="bottom"/>
-  <anchor x="361.7656060377359" y="667.36" name="top"/>
-  <anchor x="33.159108679245286" y="667.36" name="topleft"/>
+  <advance width="693.8385660377359"/>
+  <anchor x="347.4006109433962" y="-225.0123275471698" name="bottom"/>
+  <anchor x="347.4188083018868" y="667.36" name="top"/>
+  <anchor x="31.226151320754717" y="667.36" name="topleft"/>
   <outline>
     <component base="Y.loclGUA"/>
-    <component base="dotbelowcomb.case" xOffset="292.9175283018868"/>
+    <component base="dotbelowcomb.case" xOffset="278.3803264150944"/>
   </outline>
   <lib>
     <dict>

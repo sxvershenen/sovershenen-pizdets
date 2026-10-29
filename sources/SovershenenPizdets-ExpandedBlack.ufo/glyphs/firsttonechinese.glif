@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="firsttonechinese" format="2">
-  <advance width="321.9943396226415"/>
+  <advance width="317.2118867924528"/>
   <unicode hex="02C9"/>
   <outline>
     <component base="macron"/>

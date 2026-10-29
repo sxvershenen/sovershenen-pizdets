@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="orn.015" format="2">
-  <advance width="504.1320754716981"/>
+  <advance width="504.58490566037744"/>
   <outline>
     <contour>
-      <point x="158.48603773584904" y="-205.64" type="line"/>
-      <point x="365.09603773584905" y="0.0" type="line"/>
-      <point x="527.086037735849" y="0.0" type="line"/>
-      <point x="527.086037735849" y="58.2" type="line"/>
-      <point x="340.846037735849" y="58.2" type="line"/>
-      <point x="158.48603773584904" y="-123.19" type="line"/>
+      <point x="158.71245283018868" y="-205.64" type="line"/>
+      <point x="365.3224528301887" y="0.0" type="line"/>
+      <point x="527.3124528301887" y="0.0" type="line"/>
+      <point x="527.3124528301887" y="58.20000000000001" type="line"/>
+      <point x="341.07245283018864" y="58.20000000000001" type="line"/>
+      <point x="158.71245283018868" y="-123.19000000000001" type="line"/>
     </contour>
     <contour>
-      <point x="-22.903962264150945" y="0.0" type="line"/>
-      <point x="158.48603773584904" y="0.0" type="line"/>
-      <point x="158.48603773584904" y="58.2" type="line"/>
-      <point x="-22.903962264150945" y="58.2" type="line"/>
+      <point x="-22.67754716981132" y="0.0" type="line"/>
+      <point x="158.71245283018868" y="0.0" type="line"/>
+      <point x="158.71245283018868" y="58.20000000000001" type="line"/>
+      <point x="-22.67754716981132" y="58.20000000000001" type="line"/>
     </contour>
     <contour>
-      <point x="-22.903962264150945" y="609.16" type="line"/>
-      <point x="527.086037735849" y="609.16" type="line"/>
-      <point x="527.086037735849" y="667.36" type="line"/>
-      <point x="-22.903962264150945" y="667.36" type="line"/>
+      <point x="-22.67754716981132" y="609.16" type="line"/>
+      <point x="527.3124528301887" y="609.16" type="line"/>
+      <point x="527.3124528301887" y="667.3600000000001" type="line"/>
+      <point x="-22.67754716981132" y="667.3600000000001" type="line"/>
     </contour>
   </outline>
   <lib>

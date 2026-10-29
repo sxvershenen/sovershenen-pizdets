@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecircumflexgrave" format="2">
-  <advance width="526.4634716981133"/>
+  <advance width="518.8350566037736"/>
   <unicode hex="1EC1"/>
-  <anchor x="267.30971471698115" y="0.0" name="bottom"/>
-  <anchor x="484.89169584905665" y="9.663323018867924" name="ogonek"/>
-  <anchor x="271.10801509433963" y="834.5249683018868" name="top"/>
+  <anchor x="255.6395313207547" y="0.0" name="bottom"/>
+  <anchor x="466.27246905660377" y="9.575949811320754" name="ogonek"/>
+  <anchor x="261.5325924528302" y="834.9785988679245" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_gravecomb" xOffset="90.71726188679246" yOffset="5.174968301886793"/>
+    <component base="circumflexcomb_gravecomb" xOffset="94.2753237735849" yOffset="5.628598867924529"/>
   </outline>
   <lib>
     <dict>

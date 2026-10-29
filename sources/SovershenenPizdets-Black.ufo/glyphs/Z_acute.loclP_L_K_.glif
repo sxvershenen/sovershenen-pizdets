@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zacute.loclPLK" format="2">
-  <advance width="600.5994716981132"/>
-  <anchor x="305.8612483018868" y="0.0" name="bottom"/>
-  <anchor x="300.5181954716981" y="333.68" name="center"/>
-  <anchor x="305.32134264150943" y="803.16" name="top"/>
+  <advance width="569.8606415094339"/>
+  <anchor x="286.50288150943396" y="0.0" name="bottom"/>
+  <anchor x="285.0198796226415" y="333.68" name="center"/>
+  <anchor x="285.3178343396226" y="803.16" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acute.case.loclPLK" xOffset="272.81429358490567"/>
+    <component base="acute.case.loclPLK" xOffset="243.70730226415094"/>
   </outline>
   <lib>
     <dict>

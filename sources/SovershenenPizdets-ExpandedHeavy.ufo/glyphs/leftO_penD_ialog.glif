@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="leftOpenDialog" format="2">
-  <advance width="562.132075471698"/>
+  <advance width="562.5849056603774"/>
   <outline>
     <component base="orn.017"/>
-    <component base="orn.016" xOffset="58.2"/>
+    <component base="orn.016" xOffset="58.20000000000001"/>
   </outline>
   <lib>
     <dict>

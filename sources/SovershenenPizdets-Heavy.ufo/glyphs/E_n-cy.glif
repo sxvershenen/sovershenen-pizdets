@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="En-cy" format="2">
-  <advance width="651.5471698113207"/>
+  <advance width="651.3660377358491"/>
   <unicode hex="041D"/>
-  <anchor x="326.01235849056604" y="0.0" name="bottom"/>
-  <anchor x="326.01235849056604" y="494.7" name="center"/>
-  <anchor x="326.01235849056604" y="667.36" name="top"/>
-  <anchor x="51.74943396226415" y="667.36" name="topleft"/>
+  <anchor x="325.9313018867925" y="0.0" name="bottom"/>
+  <anchor x="325.9313018867925" y="494.70000000000005" name="center"/>
+  <anchor x="325.9313018867925" y="667.3600000000001" name="top"/>
+  <anchor x="51.18520754716981" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="H"/>
   </outline>

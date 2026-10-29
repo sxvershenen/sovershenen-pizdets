@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.tf.zero" format="2">
-  <advance width="721.4452830188679"/>
+  <advance width="684.9562264150943"/>
   <outline>
     <contour>
-      <point x="141.7061350943396" y="281.2928256603774" type="line"/>
-      <point x="581.8266143396227" y="281.2928256603774" type="line"/>
-      <point x="581.8266143396227" y="385.1077162264151" type="line"/>
-      <point x="141.7061350943396" y="385.1077162264151" type="line"/>
+      <point x="145.1747966037736" y="279.6512928301887" type="line"/>
+      <point x="541.4031418867925" y="279.6512928301887" type="line"/>
+      <point x="541.4031418867925" y="386.84324754716977" type="line"/>
+      <point x="145.1747966037736" y="386.84324754716977" type="line"/>
     </contour>
     <component base="zero.tf"/>
   </outline>

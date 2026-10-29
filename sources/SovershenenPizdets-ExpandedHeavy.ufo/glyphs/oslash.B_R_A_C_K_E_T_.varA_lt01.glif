@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash.BRACKET.varAlt01" format="2">
-  <advance width="539.5990566037735"/>
-  <anchor x="270.0016509433962" y="0.0" name="bottom"/>
-  <anchor x="270.0016509433962" y="253.16999999999996" name="center"/>
-  <anchor x="347.7345754716981" y="0.0" name="ogonek"/>
-  <anchor x="270.0016509433962" y="500.52" name="top"/>
-  <anchor x="305.10839622641504" y="500.52" name="topright"/>
+  <advance width="539.9386792452831"/>
+  <anchor x="270.17531132075476" y="0.0" name="bottom"/>
+  <anchor x="270.17531132075476" y="253.17000000000002" name="center"/>
+  <anchor x="348.72740566037737" y="0.0" name="ogonek"/>
+  <anchor x="270.17531132075476" y="500.52000000000004" name="top"/>
+  <anchor x="305.1097547169811" y="500.52000000000004" name="topright"/>
   <outline>
     <contour>
-      <point x="434.24867924528303" y="425.6289150943397" type="line"/>
-      <point x="511.91061320754716" y="553.6342452830188" type="line"/>
-      <point x="397.95603773584907" y="553.6342452830188" type="line"/>
-      <point x="344.2757547169811" y="465.3597641509434" type="line"/>
+      <point x="434.86815094339624" y="425.15548113207547" type="line"/>
+      <point x="512.6498584905661" y="553.6419433962265" type="line"/>
+      <point x="396.6944528301887" y="553.6419433962265" type="line"/>
+      <point x="343.2120566037736" y="465.49266981132075" type="line"/>
     </contour>
     <contour>
-      <point x="28.085754716981132" y="-53.35" type="line"/>
-      <point x="140.7372641509434" y="-53.35" type="line"/>
-      <point x="192.63985849056604" y="32.153867924528306" type="line"/>
-      <point x="106.05089622641509" y="76.3217924528302" type="line"/>
+      <point x="27.694056603773586" y="-53.35" type="line"/>
+      <point x="142.34616981132075" y="-53.35" type="line"/>
+      <point x="194.03480188679248" y="32.057415094339625" type="line"/>
+      <point x="105.87225471698113" y="76.97250943396227" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

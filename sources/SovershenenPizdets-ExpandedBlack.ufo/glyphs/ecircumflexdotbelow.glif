@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecircumflexdotbelow" format="2">
-  <advance width="553.4559245283019"/>
+  <advance width="545.7388301886792"/>
   <unicode hex="1EC7"/>
-  <anchor x="305.48060226415095" y="-226.26300528301886" name="bottom"/>
-  <anchor x="547.467676981132" y="10.640643773584905" name="ogonek"/>
-  <anchor x="303.0016150943396" y="667.1715305660377" name="top"/>
+  <anchor x="293.6708573584906" y="-225.0123275471698" name="bottom"/>
+  <anchor x="528.977478490566" y="10.639289433962263" name="ogonek"/>
+  <anchor x="292.8053924528302" y="667.4849781132075" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="209.24049207547174"/>
-    <component base="circumflexcomb" xOffset="91.55806867924528" yOffset="3.708987169811321"/>
+    <component base="dotbelowcomb" xOffset="204.40019924528303"/>
+    <component base="circumflexcomb" xOffset="91.77133924528302" yOffset="4.033589433962264"/>
   </outline>
   <lib>
     <dict>

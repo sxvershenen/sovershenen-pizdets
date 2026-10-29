@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ygrave.loclGUA" format="2">
-  <advance width="666.2358490566038"/>
-  <anchor x="333.4337735849057" y="0.0" name="bottom"/>
-  <anchor x="334.1063679245283" y="835.17" name="top"/>
-  <anchor x="26.410471698113206" y="667.36" name="topleft"/>
+  <advance width="667.7301886792453"/>
+  <anchor x="334.18728301886796" y="0.0" name="bottom"/>
+  <anchor x="334.8379150943396" y="835.1700000000001" name="top"/>
+  <anchor x="26.768660377358493" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="Y.loclGUA"/>
-    <component base="gravecomb.case" xOffset="159.18608490566038" yOffset="172.66"/>
+    <component base="gravecomb.case" xOffset="158.81951886792456" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

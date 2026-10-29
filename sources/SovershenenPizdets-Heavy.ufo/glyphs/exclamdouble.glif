@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdouble" format="2">
-  <advance width="507.4292452830189"/>
+  <advance width="511.30094339622644"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam" xOffset="242.43136792452827"/>
+    <component base="exclam" xOffset="243.85891509433964"/>
     <component base="exclam"/>
   </outline>
   <lib>

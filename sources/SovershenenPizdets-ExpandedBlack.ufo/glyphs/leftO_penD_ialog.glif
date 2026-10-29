@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="leftOpenDialog" format="2">
-  <advance width="566.0754716981132"/>
+  <advance width="566.9622641509434"/>
   <outline>
     <component base="orn.017"/>
     <component base="orn.016" xOffset="58.2"/>

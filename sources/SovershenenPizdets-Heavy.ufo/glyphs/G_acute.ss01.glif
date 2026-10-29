@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gacute.ss01" format="2">
-  <advance width="621.372641509434"/>
-  <anchor x="311.22900943396223" y="0.0" name="bottom"/>
-  <anchor x="311.22900943396223" y="835.17" name="top"/>
+  <advance width="621.6216981132076"/>
+  <anchor x="311.34561320754716" y="0.0" name="bottom"/>
+  <anchor x="311.34561320754716" y="835.1700000000001" name="top"/>
   <outline>
     <component base="G.ss01"/>
-    <component base="acutecomb.case" xOffset="233.96759433962265" yOffset="172.66"/>
+    <component base="acutecomb.case" xOffset="233.2496320754717" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

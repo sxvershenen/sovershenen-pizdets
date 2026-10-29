@@ -3,12 +3,12 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
       <map input="100" output="36"/>
-      <map input="300" output="61.9"/>
-      <map input="400" output="83"/>
-      <map input="500" output="113.3"/>
+      <map input="300" output="61.5"/>
+      <map input="400" output="82.4"/>
+      <map input="500" output="112.2"/>
       <map input="700" output="138.6"/>
-      <map input="800" output="160.5"/>
-      <map input="900" output="181.4"/>
+      <map input="800" output="162.9"/>
+      <map input="900" output="186.1"/>
     </axis>
     <axis tag="wdth" name="Width" minimum="100" maximum="125" default="100"/>
   </axes>
@@ -61,13 +61,13 @@
     </source>
     <source filename="SovershenenPizdets-Heavy.ufo" familyname="Sovershenen Pizdets" stylename="Heavy">
       <location>
-        <dimension name="Weight" xvalue="160.5"/>
+        <dimension name="Weight" xvalue="162.9"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
     <source filename="SovershenenPizdets-Black.ufo" familyname="Sovershenen Pizdets" stylename="Black">
       <location>
-        <dimension name="Weight" xvalue="181.4"/>
+        <dimension name="Weight" xvalue="186.1"/>
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
@@ -85,13 +85,13 @@
     </source>
     <source filename="SovershenenPizdets-ExpandedHeavy.ufo" familyname="Sovershenen Pizdets" stylename="ExpandedHeavy">
       <location>
-        <dimension name="Weight" xvalue="160.5"/>
+        <dimension name="Weight" xvalue="162.9"/>
         <dimension name="Width" xvalue="125"/>
       </location>
     </source>
     <source filename="SovershenenPizdets-ExpandedBlack.ufo" familyname="Sovershenen Pizdets" stylename="ExpandedBlack">
       <location>
-        <dimension name="Weight" xvalue="181.4"/>
+        <dimension name="Weight" xvalue="186.1"/>
         <dimension name="Width" xvalue="125"/>
       </location>
     </source>
@@ -100,43 +100,43 @@
     <instance familyname="Sovershenen Pizdets" stylename="Thin" filename="instances/SovershenenPizdets-Thin.ufo" stylemapfamilyname="Sovershenen Pizdets Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="36"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Light" filename="instances/SovershenenPizdets-Light.ufo" stylemapfamilyname="Sovershenen Pizdets Light" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="61.9"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Weight" xvalue="61.5"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Regular" filename="instances/SovershenenPizdets-Regular.ufo" stylemapfamilyname="Sovershenen Pizdets" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="83"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Weight" xvalue="82.4"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Medium" filename="instances/SovershenenPizdets-Medium.ufo" stylemapfamilyname="Sovershenen Pizdets Medium" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="113.3"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Weight" xvalue="112.2"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Bold" filename="instances/SovershenenPizdets-Bold.ufo" stylemapfamilyname="Sovershenen Pizdets" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="138.6"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Heavy" filename="instances/SovershenenPizdets-Heavy.ufo" stylemapfamilyname="Sovershenen Pizdets Heavy" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="160.5"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Weight" xvalue="162.9"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
     <instance familyname="Sovershenen Pizdets" stylename="Black" filename="instances/SovershenenPizdets-Black.ufo" stylemapfamilyname="Sovershenen Pizdets Black" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="181.4"/>
-        <dimension name="Width" xvalue="116"/>
+        <dimension name="Weight" xvalue="186.1"/>
+        <dimension name="Width" xvalue="107"/>
       </location>
     </instance>
   </instances>

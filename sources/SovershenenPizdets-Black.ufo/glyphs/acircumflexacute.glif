@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexacute" format="2">
-  <advance width="521.618037735849"/>
+  <advance width="513.4611698113207"/>
   <unicode hex="1EA5"/>
-  <anchor x="272.52875396226415" y="0.0" name="bottom"/>
-  <anchor x="501.0764203773585" y="0.0" name="ogonek"/>
-  <anchor x="275.0242528301887" y="834.5249683018868" name="top"/>
+  <anchor x="260.2728003773585" y="0.0" name="bottom"/>
+  <anchor x="481.11090679245285" y="0.0" name="ogonek"/>
+  <anchor x="263.3128169811321" y="834.9785988679245" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb_acutecomb" xOffset="90.49304905660378" yOffset="5.174968301886793"/>
+    <component base="circumflexcomb_acutecomb" xOffset="90.69269056603773" yOffset="5.628598867924529"/>
   </outline>
   <lib>
     <dict>

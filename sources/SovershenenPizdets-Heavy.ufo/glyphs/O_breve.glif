@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Obreve" format="2">
-  <advance width="639.8396226415094"/>
+  <advance width="639.9754716981132"/>
   <unicode hex="014E"/>
-  <anchor x="320.33419811320755" y="0.0" name="bottom"/>
-  <anchor x="320.33419811320755" y="333.68" name="center"/>
-  <anchor x="397.46750000000003" y="0.0" name="ogonek"/>
-  <anchor x="320.33419811320755" y="833.7470283018868" name="top"/>
-  <anchor x="-2.533962264150943" y="667.36" name="topleft"/>
-  <anchor x="422.92084905660374" y="667.36" name="topright"/>
+  <anchor x="320.4068773584906" y="0.0" name="bottom"/>
+  <anchor x="320.4068773584906" y="333.68000000000006" name="center"/>
+  <anchor x="397.9355" y="0.0" name="ogonek"/>
+  <anchor x="320.4068773584906" y="833.8568396226415" name="top"/>
+  <anchor x="-2.3075471698113206" y="667.3600000000001" name="topleft"/>
+  <anchor x="423.1911886792453" y="667.3600000000001" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="brevecomb.case" xOffset="173.9557075471698" yOffset="172.66"/>
+    <component base="brevecomb.case" xOffset="173.67699056603774" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

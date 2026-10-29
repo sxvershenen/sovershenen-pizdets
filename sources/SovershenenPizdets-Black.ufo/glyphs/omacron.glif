@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacron" format="2">
-  <advance width="527.4408301886792"/>
+  <advance width="519.5463773584905"/>
   <unicode hex="014D"/>
-  <anchor x="275.00463320754716" y="0.0" name="bottom"/>
-  <anchor x="275.00463320754716" y="253.17" name="center"/>
-  <anchor x="360.83689509433964" y="0.0" name="ogonek"/>
-  <anchor x="275.00463320754716" y="671.477560754717" name="top"/>
-  <anchor x="304.2724981132076" y="500.52000000000004" name="topright"/>
+  <anchor x="262.973060754717" y="0.0" name="bottom"/>
+  <anchor x="262.973060754717" y="253.17" name="center"/>
+  <anchor x="346.7960316981132" y="0.0" name="ogonek"/>
+  <anchor x="262.973060754717" y="669.8334271698113" name="top"/>
+  <anchor x="307.8323396226415" y="500.52" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="95.84608377358492" yOffset="5.82"/>
+    <component base="macroncomb" xOffset="95.17673169811322" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

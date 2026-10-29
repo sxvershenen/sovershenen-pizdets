@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twothirds" format="2">
-  <advance width="791.4245283018868"/>
+  <advance width="792.1943396226416"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numr"/>
-    <component base="fraction" xOffset="341.89297169811323"/>
-    <component base="three.dnom" xOffset="496.5484905660377"/>
+    <component base="fraction" xOffset="341.7831603773585"/>
+    <component base="three.dnom" xOffset="496.8998867924529"/>
   </outline>
   <lib>
     <dict>

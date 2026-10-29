@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcaron.ss01" format="2">
-  <advance width="615.066037735849"/>
-  <anchor x="307.34900943396224" y="0.0" name="bottom"/>
-  <anchor x="307.94382075471697" y="835.17" name="top"/>
+  <advance width="615.2924528301887"/>
+  <anchor x="307.46561320754716" y="0.0" name="bottom"/>
+  <anchor x="308.1043490566038" y="835.1700000000001" name="top"/>
   <outline>
     <component base="R.ss01"/>
-    <component base="caroncomb.case" xOffset="147.02905660377357" yOffset="172.66"/>
+    <component base="caroncomb.case" xOffset="146.552679245283" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

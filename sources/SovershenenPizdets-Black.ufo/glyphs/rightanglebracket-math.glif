@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rightanglebracket-math" format="2">
-  <advance width="286.8799245283019"/>
+  <advance width="276.7992830188679"/>
   <unicode hex="27E9"/>
   <outline>
     <contour>
-      <point x="-12.893416603773586" y="-60.14" type="line"/>
-      <point x="126.17120075471698" y="-60.14" type="line"/>
-      <point x="282.95877962264154" y="333.68" type="line"/>
-      <point x="126.17120075471698" y="727.5" type="line"/>
-      <point x="-13.382076981132077" y="727.5" type="line"/>
-      <point x="142.98192301886792" y="333.68" type="line"/>
+      <point x="-14.005936981132074" y="-60.14" type="line"/>
+      <point x="125.81227886792453" y="-60.14" type="line"/>
+      <point x="272.9694781132076" y="333.68" type="line"/>
+      <point x="125.81227886792453" y="727.5" type="line"/>
+      <point x="-14.53760679245283" y="727.5" type="line"/>
+      <point x="132.51439320754716" y="333.68" type="line"/>
     </contour>
   </outline>
   <lib>

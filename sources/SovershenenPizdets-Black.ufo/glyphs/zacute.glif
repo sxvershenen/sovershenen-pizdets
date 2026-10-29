@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zacute" format="2">
-  <advance width="483.3055094339623"/>
+  <advance width="476.55064150943394"/>
   <unicode hex="017A"/>
-  <anchor x="256.10917962264153" y="0.0" name="bottom"/>
-  <anchor x="252.5845290566038" y="253.17" name="center"/>
-  <anchor x="257.510079245283" y="664.53" name="top"/>
+  <anchor x="246.92882150943396" y="0.0" name="bottom"/>
+  <anchor x="241.50362981132076" y="253.17" name="center"/>
+  <anchor x="248.09736037735848" y="664.53" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="acutecomb" xOffset="149.81023849056606" yOffset="5.82"/>
+    <component base="acutecomb" xOffset="140.38618641509433" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

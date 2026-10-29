@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohm" format="2">
-  <advance width="803.6947924528301"/>
+  <advance width="768.9363773584905"/>
   <unicode hex="2126"/>
-  <anchor x="402.5182709433962" y="0.0" name="bottom"/>
-  <anchor x="-0.5622641509433961" y="667.36" name="topleft"/>
+  <anchor x="384.95184188679247" y="0.0" name="bottom"/>
+  <anchor x="-0.1188679245283022" y="667.36" name="topleft"/>
   <outline>
     <component base="Omega"/>
   </outline>

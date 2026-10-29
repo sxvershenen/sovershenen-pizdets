@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uogonek" format="2">
-  <advance width="574.0765283018868"/>
+  <advance width="565.4319245283018"/>
   <unicode hex="0173"/>
-  <anchor x="334.5031886792453" y="0.0" name="bottom"/>
-  <anchor x="596.957516226415" y="0.0" name="ogonek"/>
-  <anchor x="325.99940000000004" y="500.5199999999999" name="top"/>
-  <anchor x="402.21240981132075" y="500.5199999999999" name="topright"/>
+  <anchor x="315.1027641509434" y="0.0" name="bottom"/>
+  <anchor x="576.0191475471697" y="0.0" name="ogonek"/>
+  <anchor x="312.88677169811325" y="500.52" name="top"/>
+  <anchor x="390.3391120754717" y="500.52" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="312.1255796226415" yOffset="-3.1763290566037736"/>
+    <component base="ogonekcomb" xOffset="307.4344856603774" yOffset="-3.2845298113207546"/>
   </outline>
   <lib>
     <dict>

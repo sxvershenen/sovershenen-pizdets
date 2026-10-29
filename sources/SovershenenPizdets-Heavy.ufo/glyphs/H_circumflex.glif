@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="651.5471698113207"/>
+  <advance width="651.3660377358491"/>
   <unicode hex="0124"/>
-  <anchor x="326.01235849056604" y="0.0" name="bottom"/>
-  <anchor x="326.01235849056604" y="494.7" name="center"/>
-  <anchor x="326.01235849056604" y="840.02" name="top"/>
-  <anchor x="51.74943396226415" y="667.36" name="topleft"/>
+  <anchor x="325.9313018867925" y="0.0" name="bottom"/>
+  <anchor x="325.9313018867925" y="494.70000000000005" name="center"/>
+  <anchor x="325.9313018867925" y="840.02" name="top"/>
+  <anchor x="51.18520754716981" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb.case" xOffset="165.69240566037737" yOffset="172.66"/>
+    <component base="circumflexcomb.case" xOffset="165.01836792452832" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

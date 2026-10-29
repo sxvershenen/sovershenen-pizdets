@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="underscore" format="2">
-  <advance width="345.51079245283023"/>
+  <advance width="342.808"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="-19.962264150943398" y="-181.33772981132077" type="line"/>
-      <point x="365.49545735849057" y="-181.33772981132077" type="line"/>
-      <point x="365.49545735849057" y="-65.77778641509434" type="line"/>
-      <point x="-19.962264150943398" y="-65.77778641509434" type="line"/>
+      <point x="-19.5188679245283" y="-181.3509803773585" type="line"/>
+      <point x="362.18956566037735" y="-181.3509803773585" type="line"/>
+      <point x="362.18956566037735" y="-64.04009547169811" type="line"/>
+      <point x="-19.5188679245283" y="-64.04009547169811" type="line"/>
     </contour>
   </outline>
   <lib>

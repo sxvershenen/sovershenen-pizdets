@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acaron.ss01" format="2">
-  <advance width="780.0341886792453"/>
-  <anchor x="390.2333124528302" y="0.0" name="bottom"/>
-  <anchor x="717.4535516981132" y="0.0" name="ogonek"/>
-  <anchor x="389.80329132075474" y="835.17" name="top"/>
+  <advance width="745.1172452830189"/>
+  <anchor x="372.7777928301887" y="0.0" name="bottom"/>
+  <anchor x="687.9885901886793" y="0.0" name="ogonek"/>
+  <anchor x="372.6501920754717" y="835.17" name="top"/>
   <outline>
     <component base="A.ss01"/>
-    <component base="caroncomb.case" xOffset="199.56491471698115" yOffset="172.66"/>
+    <component base="caroncomb.case" xOffset="186.15934641509435" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

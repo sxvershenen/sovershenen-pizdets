@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute.loclPLK" format="2">
-  <advance width="814.4784905660377"/>
-  <anchor x="403.6436173584906" y="0.0" name="bottom"/>
-  <anchor x="403.1037116981132" y="803.1600000000001" name="top"/>
+  <advance width="778.0716981132075"/>
+  <anchor x="387.9360743396226" y="0.0" name="bottom"/>
+  <anchor x="386.7510271698113" y="803.16" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acute.case.loclPLK" xOffset="394.8100588679245"/>
+    <component base="acute.case.loclPLK" xOffset="368.92379698113206"/>
   </outline>
   <lib>
     <dict>

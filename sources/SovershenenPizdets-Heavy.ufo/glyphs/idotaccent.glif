@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
-  <advance width="228.8632075471698"/>
-  <anchor x="114.3693396226415" y="0.0" name="bottom"/>
-  <anchor x="187.14221698113207" y="0.0" name="ogonek"/>
-  <anchor x="114.3693396226415" y="494.7" name="top"/>
+  <advance width="230.10849056603774"/>
+  <anchor x="114.99107547169811" y="0.0" name="bottom"/>
+  <anchor x="188.84010377358493" y="0.0" name="ogonek"/>
+  <anchor x="114.99107547169811" y="494.70000000000005" name="top"/>
   <outline>
     <component base="i"/>
   </outline>

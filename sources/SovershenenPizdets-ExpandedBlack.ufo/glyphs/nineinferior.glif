@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nineinferior" format="2">
-  <advance width="420.5776603773585"/>
+  <advance width="399.7923018867925"/>
   <unicode hex="2089"/>
   <outline>
     <component base="nine.dnom" yOffset="-97.0"/>

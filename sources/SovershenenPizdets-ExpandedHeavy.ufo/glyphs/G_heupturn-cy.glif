@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gheupturn-cy" format="2">
-  <advance width="606.0518867924528"/>
+  <advance width="606.572641509434"/>
   <unicode hex="0490"/>
-  <anchor x="302.973679245283" y="667.36" name="top"/>
-  <anchor x="302.973679245283" y="0.0" name="bottom"/>
+  <anchor x="303.23315094339625" y="667.3600000000001" name="top"/>
+  <anchor x="303.23315094339625" y="0.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="67.95575471698113" y="0.0" type="line"/>
-      <point x="230.54514150943396" y="0.0" type="line"/>
-      <point x="230.54514150943396" y="545.1445754716981" type="line"/>
-      <point x="584.4578773584906" y="545.1445754716981" type="line"/>
-      <point x="584.4578773584906" y="780.81" type="line"/>
-      <point x="434.3279245283019" y="780.81" type="line"/>
-      <point x="434.3279245283019" y="667.36" type="line"/>
-      <point x="67.95575471698113" y="667.36" type="line"/>
+      <point x="67.08405660377359" y="0.0" type="line"/>
+      <point x="232.72619811320754" y="0.0" type="line"/>
+      <point x="232.72619811320754" y="543.4974056603774" type="line"/>
+      <point x="584.8380283018868" y="543.4974056603774" type="line"/>
+      <point x="584.8380283018868" y="780.81" type="line"/>
+      <point x="431.8590943396227" y="780.81" type="line"/>
+      <point x="431.8590943396227" y="667.3600000000001" type="line"/>
+      <point x="67.08405660377359" y="667.3600000000001" type="line"/>
     </contour>
   </outline>
 </glyph>

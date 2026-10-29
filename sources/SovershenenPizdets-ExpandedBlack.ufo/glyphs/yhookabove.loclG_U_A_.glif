@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yhookabove.loclGUA" format="2">
-  <advance width="531.9174339622641"/>
-  <anchor x="587.1805018867924" y="0.0" name="bottom"/>
-  <anchor x="300.90846490566037" y="669.21" name="top"/>
+  <advance width="526.0310943396227"/>
+  <anchor x="568.9858056603773" y="0.0" name="bottom"/>
+  <anchor x="290.3467901886793" y="669.21" name="top"/>
   <outline>
     <component base="y.loclGUA"/>
-    <component base="hookabovecomb" xOffset="127.66992603773583" yOffset="5.82"/>
+    <component base="hookabovecomb" xOffset="126.84481811320755" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

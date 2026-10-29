@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="primemod" format="2">
-  <advance width="109.04716981132076"/>
+  <advance width="111.26603773584907"/>
   <unicode hex="02B9"/>
   <outline>
-    <component base="minute" xOffset="-49.328160377358486"/>
+    <component base="minute" xOffset="-49.174424528301884"/>
   </outline>
   <lib>
     <dict>

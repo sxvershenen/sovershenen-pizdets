@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wgrave" format="2">
-  <advance width="808.9433962264152"/>
+  <advance width="810.1207547169811"/>
   <unicode hex="1E81"/>
-  <anchor x="441.6345283018868" y="0.0" name="bottom"/>
-  <anchor x="441.6345283018868" y="664.53" name="top"/>
+  <anchor x="442.21233962264154" y="0.0" name="bottom"/>
+  <anchor x="442.21233962264154" y="664.53" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="gravecomb" xOffset="224.63778301886794" yOffset="5.82"/>
+    <component base="gravecomb" xOffset="224.0438962264151" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

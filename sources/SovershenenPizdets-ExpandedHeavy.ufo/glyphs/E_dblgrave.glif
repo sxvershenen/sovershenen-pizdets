@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edblgrave" format="2">
-  <advance width="646.9056603773585"/>
+  <advance width="647.2679245283019"/>
   <unicode hex="0204"/>
-  <anchor x="341.24867924528303" y="0.0" name="bottom"/>
-  <anchor x="606.4704716981132" y="0.0" name="ogonek"/>
-  <anchor x="342.5938679245283" y="840.02" name="top"/>
-  <anchor x="67.95575471698113" y="667.36" name="topleft"/>
+  <anchor x="340.86015094339626" y="0.0" name="bottom"/>
+  <anchor x="606.8286603773586" y="0.0" name="ogonek"/>
+  <anchor x="342.16141509433965" y="840.02" name="top"/>
+  <anchor x="67.08405660377359" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="dblgravecomb.case" xOffset="81.98872641509433" yOffset="172.66"/>
+    <component base="dblgravecomb.case" xOffset="81.00721698113207" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

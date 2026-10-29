@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upArrow" format="2">
-  <advance width="339.1320754716981"/>
+  <advance width="339.5849056603774"/>
   <unicode hex="2191"/>
   <outline>
     <contour>
-      <point x="121.71754716981133" y="-79.54" type="line"/>
-      <point x="218.83193396226415" y="-79.54" type="line"/>
-      <point x="218.83193396226415" y="424.04556603773585" type="line"/>
-      <point x="307.8660377358491" y="393.82000000000005" type="line"/>
-      <point x="170.12603773584905" y="670.27" type="line"/>
-      <point x="31.416037735849056" y="393.82000000000005" type="line"/>
-      <point x="121.71754716981133" y="424.04556603773585" type="line"/>
+      <point x="121.59256603773585" y="-79.54" type="line"/>
+      <point x="219.43170754716982" y="-79.54" type="line"/>
+      <point x="219.43170754716982" y="423.9137924528302" type="line"/>
+      <point x="308.09245283018873" y="393.82000000000005" type="line"/>
+      <point x="170.3524528301887" y="670.27" type="line"/>
+      <point x="31.64245283018868" y="393.82000000000005" type="line"/>
+      <point x="121.59256603773585" y="423.9137924528302" type="line"/>
     </contour>
   </outline>
   <lib>

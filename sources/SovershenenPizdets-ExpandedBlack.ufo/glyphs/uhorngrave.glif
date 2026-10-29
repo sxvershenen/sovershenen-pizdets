@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorngrave" format="2">
-  <advance width="574.0765283018868"/>
+  <advance width="565.4319245283018"/>
   <unicode hex="1EEB"/>
-  <anchor x="325.99940000000004" y="0.0" name="bottom"/>
-  <anchor x="596.957516226415" y="0.0" name="ogonek"/>
-  <anchor x="325.1458" y="664.53" name="top"/>
-  <anchor x="402.21240981132075" y="586.3343962264152" name="topright"/>
-  <anchor x="402.21240981132075" y="500.5199999999999" name="_topright"/>
+  <anchor x="312.88677169811325" y="0.0" name="bottom"/>
+  <anchor x="576.0191475471697" y="0.0" name="ogonek"/>
+  <anchor x="312.65397169811325" y="664.53" name="top"/>
+  <anchor x="390.3391120754717" y="586.2098018867924" name="topright"/>
+  <anchor x="390.3391120754717" y="500.52" name="_topright"/>
   <outline>
     <component base="uhorn"/>
-    <component base="gravecomb" xOffset="88.35338264150943" yOffset="5.82"/>
+    <component base="gravecomb" xOffset="87.98054264150943" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

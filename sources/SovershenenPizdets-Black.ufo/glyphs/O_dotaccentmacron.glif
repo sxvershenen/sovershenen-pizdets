@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotaccentmacron" format="2">
-  <advance width="690.729358490566"/>
+  <advance width="654.8024905660377"/>
   <unicode hex="0230"/>
-  <anchor x="345.71507094339626" y="0.0" name="bottom"/>
-  <anchor x="345.71507094339626" y="333.68" name="center"/>
-  <anchor x="428.08190716981136" y="0.0" name="ogonek"/>
-  <anchor x="345.71507094339626" y="1002.4190105660377" name="top"/>
-  <anchor x="-0.562264150943396" y="667.36" name="topleft"/>
-  <anchor x="433.71764377358494" y="667.36" name="topright"/>
+  <anchor x="327.83824188679245" y="0.0" name="bottom"/>
+  <anchor x="327.83824188679245" y="333.68" name="center"/>
+  <anchor x="409.94511811320757" y="0.0" name="ogonek"/>
+  <anchor x="327.83824188679245" y="1000.7158003773585" name="top"/>
+  <anchor x="-0.11886792452830264" y="667.36" name="topleft"/>
+  <anchor x="427.80764981132074" y="667.36" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotaccentcomb.case" xOffset="278.1369645283019" yOffset="172.66000000000003"/>
-    <component base="macroncomb.case" xOffset="177.64913735849058" yOffset="332.71"/>
+    <component base="dotaccentcomb.case" xOffset="260.0203441509434" yOffset="172.66"/>
+    <component base="macroncomb.case" xOffset="163.05376339622643" yOffset="332.71"/>
   </outline>
   <lib>
     <dict>

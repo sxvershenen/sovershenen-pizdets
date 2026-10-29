@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="strokeshortcomb" format="2">
   <unicode hex="0335"/>
-  <anchor x="164.54768867924528" y="337.51764150943393" name="_center"/>
+  <anchor x="165.6677641509434" y="337.55069811320755" name="_center"/>
   <outline>
     <contour>
-      <point x="0.0" y="286.69448113207545" type="line"/>
-      <point x="329.09537735849057" y="286.69448113207545" type="line"/>
-      <point x="329.09537735849057" y="388.34773584905656" type="line"/>
-      <point x="0.0" y="388.34773584905656" type="line"/>
+      <point x="0.0" y="286.23327358490565" type="line"/>
+      <point x="331.3355283018868" y="286.23327358490565" type="line"/>
+      <point x="331.3355283018868" y="388.87483018867925" type="line"/>
+      <point x="0.0" y="388.87483018867925" type="line"/>
     </contour>
   </outline>
   <lib>

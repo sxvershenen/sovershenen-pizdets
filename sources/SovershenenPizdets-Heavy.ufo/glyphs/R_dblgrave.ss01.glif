@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdblgrave.ss01" format="2">
-  <advance width="615.066037735849"/>
-  <anchor x="307.34900943396224" y="0.0" name="bottom"/>
-  <anchor x="309.28900943396224" y="840.02" name="top"/>
+  <advance width="615.2924528301887"/>
+  <anchor x="307.46561320754716" y="0.0" name="bottom"/>
+  <anchor x="309.40561320754716" y="840.02" name="top"/>
   <outline>
     <component base="R.ss01"/>
-    <component base="dblgravecomb.case" xOffset="77.03349056603774" yOffset="172.66"/>
+    <component base="dblgravecomb.case" xOffset="76.68888679245285" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

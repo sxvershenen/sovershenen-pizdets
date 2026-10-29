@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.dnom" format="2">
-  <advance width="274.1320754716981"/>
+  <advance width="274.5849056603774"/>
   <outline>
     <contour>
-      <point x="37.18570754716981" y="0.0" type="line"/>
-      <point x="138.60561320754715" y="0.0" type="line"/>
-      <point x="273.6826886792453" y="303.3400471698113" type="line"/>
-      <point x="273.6826886792453" y="367.5522169811321" type="line"/>
-      <point x="-1.110990566037736" y="367.5522169811321" type="line"/>
-      <point x="-1.110990566037736" y="296.9252358490566" type="line"/>
-      <point x="176.36240566037736" y="296.9252358490566" type="line"/>
+      <point x="36.906990566037734" y="0.0" type="line"/>
+      <point x="139.51285849056603" y="0.0" type="line"/>
+      <point x="274.10676415094343" y="302.74706603773586" type="line"/>
+      <point x="274.10676415094343" y="367.61810377358495" type="line"/>
+      <point x="-0.9943867924528301" y="367.61810377358495" type="line"/>
+      <point x="-0.9943867924528301" y="296.28833018867925" type="line"/>
+      <point x="175.68836792452834" y="296.28833018867925" type="line"/>
     </contour>
   </outline>
   <lib>

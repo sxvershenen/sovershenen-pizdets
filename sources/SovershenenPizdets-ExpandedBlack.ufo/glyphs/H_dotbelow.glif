@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hdotbelow" format="2">
-  <advance width="810.4374339622641"/>
+  <advance width="773.5790188679246"/>
   <unicode hex="1E24"/>
-  <anchor x="405.9305147169812" y="-226.26300528301886" name="bottom"/>
-  <anchor x="405.5750520754717" y="262.8312" name="center"/>
-  <anchor x="405.5750520754717" y="667.36" name="top"/>
-  <anchor x="66.31736905660378" y="667.36" name="topleft"/>
+  <anchor x="387.44612754716985" y="-225.0123275471698" name="bottom"/>
+  <anchor x="387.14532301886794" y="314.3576" name="center"/>
+  <anchor x="387.14532301886794" y="667.36" name="top"/>
+  <anchor x="60.208836226415094" y="667.36" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelowcomb.case" xOffset="337.8020271698113"/>
+    <component base="dotbelowcomb.case" xOffset="318.4258430188679"/>
   </outline>
   <lib>
     <dict>

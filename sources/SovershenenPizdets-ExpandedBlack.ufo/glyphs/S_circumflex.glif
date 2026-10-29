@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scircumflex" format="2">
-  <advance width="700.9541132075472"/>
+  <advance width="668.6304905660377"/>
   <unicode hex="015C"/>
-  <anchor x="359.68475471698116" y="0.0" name="bottom"/>
-  <anchor x="350.6740769811321" y="840.0199999999999" name="top"/>
+  <anchor x="340.9269094339623" y="0.0" name="bottom"/>
+  <anchor x="334.5448218867925" y="840.02" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="circumflexcomb.case" xOffset="162.1166920754717" yOffset="172.66"/>
+    <component base="circumflexcomb.case" xOffset="149.71278603773587" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

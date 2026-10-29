@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydieresis.loclGUA" format="2">
-  <advance width="624.920603773585"/>
-  <anchor x="313.6565343396227" y="0.0" name="bottom"/>
-  <anchor x="312.28828528301887" y="841.96" name="top"/>
-  <anchor x="24.910448301886795" y="667.36" name="topleft"/>
+  <advance width="596.6461132075472"/>
+  <anchor x="300.1948158490566" y="0.0" name="bottom"/>
+  <anchor x="297.8554686792453" y="841.96" name="top"/>
+  <anchor x="22.93448150943396" y="667.36" name="topleft"/>
   <outline>
     <component base="Y.loclGUA"/>
-    <component base="dieresiscomb.case" xOffset="136.39734339622643" yOffset="172.66000000000003"/>
+    <component base="dieresiscomb.case" xOffset="124.5418716981132" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

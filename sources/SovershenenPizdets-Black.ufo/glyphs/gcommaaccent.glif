@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="539.1067169811321"/>
+  <advance width="530.8168301886792"/>
   <unicode hex="0123"/>
-  <anchor x="276.3708324528302" y="-242.5" name="bottom"/>
-  <anchor x="281.25143320754717" y="772.0907169811321" name="top"/>
+  <anchor x="261.39133849056606" y="-242.5" name="bottom"/>
+  <anchor x="268.909460754717" y="771.746641509434" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="commaturnedabovecomb" xOffset="187.2613366037736" yOffset="5.82"/>
+    <component base="commaturnedabovecomb" xOffset="182.63869018867925" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question.case" format="2">
-  <advance width="527.9716981132076"/>
+  <advance width="528.5603773584905"/>
   <outline>
     <component base="question"/>
   </outline>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwa" format="2">
-  <advance width="534.0126037735849"/>
+  <advance width="510.6072830188679"/>
   <unicode hex="0259"/>
-  <anchor x="266.82837509433966" y="500.52000000000004" name="top"/>
-  <anchor x="49.24639396226415" y="490.8566769811321" name="ogonek"/>
-  <anchor x="264.11647471698114" y="0.0" name="bottom"/>
+  <anchor x="255.20120113207548" y="500.52" name="top"/>
+  <anchor x="44.56826339622641" y="490.9440501886793" name="ogonek"/>
+  <anchor x="251.01534" y="0.0" name="bottom"/>
   <outline>
-    <component base="e" xScale="-1" yScale="-1" xOffset="574.0626181132076" yOffset="494.7"/>
+    <component base="e" xScale="-1" yScale="-1" xOffset="549.8784683018868" yOffset="494.7"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="60.33216981132075" y="494.7" name="_top"/>
-  <anchor x="60.33216981132075" y="656.2370283018868" name="top"/>
+  <anchor x="60.99103773584906" y="494.70000000000005" name="_top"/>
+  <anchor x="60.99103773584906" y="656.3468396226415" name="top"/>
   <outline>
     <contour>
-      <point x="0.0" y="580.9156132075473" type="line"/>
-      <point x="119.69433962264151" y="580.9156132075473" type="line"/>
-      <point x="119.69433962264151" y="683.0355660377359" type="line"/>
-      <point x="0.0" y="683.0355660377359" type="line"/>
+      <point x="0.0" y="580.1908584905661" type="line"/>
+      <point x="121.01207547169813" y="580.1908584905661" type="line"/>
+      <point x="121.01207547169813" y="682.9037924528302" type="line"/>
+      <point x="0.0" y="682.9037924528302" type="line"/>
     </contour>
   </outline>
   <lib>

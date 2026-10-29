@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve" format="2">
-  <advance width="522.8254716981132"/>
+  <advance width="523.2556603773585"/>
   <unicode hex="011F"/>
-  <anchor x="252.49825471698114" y="-242.5" name="bottom"/>
-  <anchor x="261.9786320754717" y="663.1549056603774" name="top"/>
+  <anchor x="252.7905566037736" y="-242.5" name="bottom"/>
+  <anchor x="262.1830849056604" y="663.2608679245284" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="115.60014150943397" yOffset="5.82"/>
+    <component base="brevecomb" xOffset="115.45319811320755" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

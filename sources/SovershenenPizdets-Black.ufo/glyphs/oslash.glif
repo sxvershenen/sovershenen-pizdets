@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-  <advance width="527.4408301886792"/>
+  <advance width="519.5463773584905"/>
   <unicode hex="00F8"/>
-  <anchor x="263.9120173584906" y="0.0" name="bottom"/>
-  <anchor x="263.9120173584906" y="253.17" name="center"/>
-  <anchor x="346.67403396226416" y="0.0" name="ogonek"/>
-  <anchor x="263.9120173584906" y="500.52000000000004" name="top"/>
-  <anchor x="306.96568" y="500.52000000000004" name="topright"/>
+  <anchor x="259.9612101886792" y="0.0" name="bottom"/>
+  <anchor x="259.9612101886792" y="253.17" name="center"/>
+  <anchor x="342.8864509433962" y="0.0" name="ogonek"/>
+  <anchor x="259.9612101886792" y="500.52" name="top"/>
+  <anchor x="308.7513675471698" y="500.52" name="topright"/>
   <outline>
     <contour>
-      <point x="23.255962264150945" y="-53.35000000000001" type="line"/>
-      <point x="152.35875773584905" y="-53.35000000000001" type="line"/>
-      <point x="504.56588905660374" y="553.7957645283019" type="line"/>
-      <point x="374.3456769811321" y="553.7957645283019" type="line"/>
+      <point x="21.797177358490565" y="-53.35" type="line"/>
+      <point x="153.91902490566036" y="-53.35" type="line"/>
+      <point x="498.12470075471697" y="553.8515630188679" type="line"/>
+      <point x="364.99259547169817" y="553.8515630188679" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

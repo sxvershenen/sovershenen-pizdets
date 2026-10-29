@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk.ss02" format="2">
-  <advance width="752.0754716981131"/>
+  <advance width="752.9622641509434"/>
   <outline>
     <contour>
-      <point x="152.6977358490566" y="-13.58" type="line"/>
-      <point x="376.76773584905663" y="151.32" type="line"/>
-      <point x="600.8377358490566" y="-13.58" type="line"/>
-      <point x="513.5377358490566" y="254.13999999999996" type="line"/>
-      <point x="738.5777358490566" y="422.92" type="line"/>
-      <point x="459.2177358490566" y="422.92" type="line"/>
-      <point x="376.76773584905663" y="683.85" type="line"/>
-      <point x="292.3777358490566" y="422.92" type="line"/>
-      <point x="13.987735849056602" y="422.92" type="line"/>
-      <point x="240.96773584905662" y="254.13999999999996" type="line"/>
+      <point x="153.1411320754717" y="-13.58" type="line"/>
+      <point x="377.2111320754717" y="151.32" type="line"/>
+      <point x="601.2811320754716" y="-13.58" type="line"/>
+      <point x="513.9811320754717" y="254.14" type="line"/>
+      <point x="739.0211320754717" y="422.92" type="line"/>
+      <point x="459.6611320754717" y="422.92" type="line"/>
+      <point x="377.2111320754717" y="683.85" type="line"/>
+      <point x="292.82113207547167" y="422.92" type="line"/>
+      <point x="14.431132075471696" y="422.92" type="line"/>
+      <point x="241.4111320754717" y="254.14" type="line"/>
     </contour>
   </outline>
   <lib>

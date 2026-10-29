@@ -2,22 +2,22 @@
 <glyph name="Ii-cy" format="2">
   <advance width="654.0"/>
   <unicode hex="0418"/>
-  <anchor x="318.6916037735849" y="0.0" name="bottom"/>
-  <anchor x="318.6916037735849" y="667.36" name="top"/>
+  <anchor x="318.7862452830189" y="0.0" name="bottom"/>
+  <anchor x="318.7862452830189" y="667.3600000000001" name="top"/>
   <outline>
     <contour>
-      <point x="602.3571226415095" y="667.36" type="line"/>
-      <point x="445.4131603773585" y="667.36" type="line"/>
-      <point x="213.68325471698114" y="272.4289150943396" type="line"/>
-      <point x="209.38136792452832" y="272.4289150943396" type="line"/>
-      <point x="209.38136792452832" y="667.36" type="line"/>
-      <point x="51.74943396226415" y="667.36" type="line"/>
-      <point x="51.74943396226415" y="0.0" type="line"/>
-      <point x="198.3093396226415" y="0.0" type="line"/>
-      <point x="442.6124528301887" y="423.4575" type="line"/>
-      <point x="446.6721226415094" y="423.4575" type="line"/>
-      <point x="446.6721226415094" y="0.0" type="line"/>
-      <point x="602.3571226415095" y="0.0" type="line"/>
+      <point x="602.9129716981132" y="667.3600000000001" type="line"/>
+      <point x="443.2674245283019" y="667.3600000000001" type="line"/>
+      <point x="215.63155660377362" y="276.8994811320755" type="line"/>
+      <point x="211.28891509433964" y="276.8994811320755" type="line"/>
+      <point x="211.28891509433964" y="667.3600000000001" type="line"/>
+      <point x="51.18520754716981" y="667.3600000000001" type="line"/>
+      <point x="51.18520754716981" y="0.0" type="line"/>
+      <point x="200.37107547169813" y="0.0" type="line"/>
+      <point x="440.8174339622642" y="419.7975" type="line"/>
+      <point x="444.89997169811323" y="419.7975" type="line"/>
+      <point x="444.89997169811323" y="0.0" type="line"/>
+      <point x="602.9129716981132" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

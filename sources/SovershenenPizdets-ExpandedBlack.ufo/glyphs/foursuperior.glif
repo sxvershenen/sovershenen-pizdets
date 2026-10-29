@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="foursuperior" format="2">
-  <advance width="412.57433962264156"/>
+  <advance width="391.78075471698116"/>
   <unicode hex="2074"/>
   <outline>
     <component base="four.dnom" yOffset="407.4"/>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Er-cy" format="2">
-  <advance width="682.933962264151"/>
+  <advance width="682.7075471698114"/>
   <unicode hex="0420"/>
-  <anchor x="341.9075471698113" y="0.0" name="bottom"/>
-  <anchor x="341.9075471698113" y="667.36" name="top"/>
+  <anchor x="341.7825660377359" y="0.0" name="bottom"/>
+  <anchor x="341.7825660377359" y="667.3600000000001" name="top"/>
   <outline>
     <component base="P"/>
   </outline>

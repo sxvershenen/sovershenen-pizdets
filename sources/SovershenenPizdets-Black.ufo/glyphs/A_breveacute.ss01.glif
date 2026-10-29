@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abreveacute.ss01" format="2">
-  <advance width="674.0945660377358"/>
-  <anchor x="337.4012558490566" y="0.0" name="bottom"/>
-  <anchor x="624.3555139622641" y="0.0" name="ogonek"/>
-  <anchor x="337.4012558490566" y="1002.5133018867925" name="top"/>
+  <advance width="639.8870566037735"/>
+  <anchor x="320.3328211320755" y="0.0" name="bottom"/>
+  <anchor x="595.1486090566037" y="0.0" name="ogonek"/>
+  <anchor x="320.3328211320755" y="1002.7283490566037" name="top"/>
   <outline>
     <component base="A.ss01"/>
-    <component base="brevecomb_acutecomb.case" xOffset="182.84108981132076" yOffset="172.66000000000003"/>
+    <component base="brevecomb_acutecomb.case" xOffset="168.80930415094338" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="361.52830188679246"/>
+  <advance width="363.33962264150944"/>
   <unicode hex="0167"/>
-  <anchor x="172.12278301886792" y="0.0" name="bottom"/>
-  <anchor x="173.2470283018868" y="253.16999999999996" name="center"/>
-  <anchor x="173.2470283018868" y="500.52" name="top"/>
-  <anchor x="362.4806603773585" y="500.52" name="topright"/>
+  <anchor x="173.0408962264151" y="0.0" name="bottom"/>
+  <anchor x="174.17283962264153" y="253.17000000000002" name="center"/>
+  <anchor x="174.17283962264153" y="500.52000000000004" name="top"/>
+  <anchor x="364.1149245283019" y="500.52000000000004" name="topright"/>
   <outline>
     <contour>
-      <point x="-0.3619339622641511" y="173.79962264150944" type="line"/>
-      <point x="361.6268396226415" y="173.79962264150944" type="line"/>
-      <point x="361.6268396226415" y="275.3122169811321" type="line"/>
-      <point x="-0.3619339622641511" y="275.3122169811321" type="line"/>
+      <point x="-0.1937075471698113" y="172.92747169811324" type="line"/>
+      <point x="363.2445754716981" y="172.92747169811324" type="line"/>
+      <point x="363.2445754716981" y="275.0421037735849" type="line"/>
+      <point x="-0.1937075471698113" y="275.0421037735849" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

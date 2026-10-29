@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macronbelowcomb" format="2">
   <unicode hex="0331"/>
-  <anchor x="169.07698113207547" y="0.0" name="_bottom"/>
-  <anchor x="169.07698113207547" y="-198.22773584905661" name="bottom"/>
+  <anchor x="169.77977358490568" y="0.0" name="_bottom"/>
+  <anchor x="169.77977358490568" y="-198.75483018867928" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.0" y="-197.54141509433964" type="line"/>
-      <point x="338.16396226415094" y="-197.54141509433964" type="line"/>
-      <point x="338.16396226415094" y="-107.37259433962265" type="line"/>
-      <point x="0.0" y="-107.37259433962265" type="line"/>
+      <point x="0.0" y="-198.37598113207548" type="line"/>
+      <point x="339.5695471698113" y="-198.37598113207548" type="line"/>
+      <point x="339.5695471698113" y="-107.35063207547171" type="line"/>
+      <point x="0.0" y="-107.35063207547171" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorngrave" format="2">
-  <advance width="554.4332830188679"/>
+  <advance width="546.4501509433962"/>
   <unicode hex="1EDD"/>
-  <anchor x="313.78999169811317" y="0.0" name="bottom"/>
-  <anchor x="313.78999169811317" y="253.17" name="center"/>
-  <anchor x="410.3581403773585" y="0.0" name="ogonek"/>
-  <anchor x="312.9363916981132" y="664.53" name="top"/>
-  <anchor x="294.8561773584906" y="586.3343962264152" name="topright"/>
-  <anchor x="294.8561773584906" y="500.5199999999999" name="_topright"/>
+  <anchor x="301.5863815094339" y="0.0" name="bottom"/>
+  <anchor x="301.5863815094339" y="253.16999999999996" name="center"/>
+  <anchor x="396.91940905660374" y="0.0" name="ogonek"/>
+  <anchor x="301.3535815094339" y="664.53" name="top"/>
+  <anchor x="296.0505" y="586.2098018867924" name="topright"/>
+  <anchor x="296.0505" y="500.52" name="_topright"/>
   <outline>
     <component base="ohorn"/>
-    <component base="gravecomb" xOffset="78.40855094339622" yOffset="5.82"/>
+    <component base="gravecomb" xOffset="78.41020377358491" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

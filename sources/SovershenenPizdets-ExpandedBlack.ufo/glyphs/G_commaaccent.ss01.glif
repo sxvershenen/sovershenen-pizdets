@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcommaaccent.ss01" format="2">
-  <advance width="779.0071698113208"/>
-  <anchor x="396.77718867924534" y="-291.9407169811321" name="bottom"/>
-  <anchor x="389.74047924528304" y="667.36" name="top"/>
+  <advance width="744.4503773584905"/>
+  <anchor x="378.4613339622642" y="-291.59664150943394" name="bottom"/>
+  <anchor x="372.5066320754717" y="667.36" name="top"/>
   <outline>
     <component base="G.ss01"/>
-    <component base="commaaccentcomb.case" xOffset="302.3980188679245"/>
+    <component base="commaaccentcomb.case" xOffset="284.51591886792454"/>
   </outline>
   <lib>
     <dict>

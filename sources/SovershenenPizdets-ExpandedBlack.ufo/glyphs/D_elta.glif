@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
-  <advance width="784.8935849056604"/>
+  <advance width="751.6701886792453"/>
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="-11.011104150943396" y="0.0" type="line"/>
-      <point x="795.7205456603774" y="0.0" type="line"/>
-      <point x="521.2996392452831" y="667.36" type="line"/>
-      <point x="264.8066022641509" y="667.36" type="line"/>
+      <point x="-12.741715849056602" y="0.0" type="line"/>
+      <point x="764.3198667924529" y="0.0" type="line"/>
+      <point x="507.34721056603775" y="667.36" type="line"/>
+      <point x="245.3173403773585" y="667.36" type="line"/>
     </contour>
     <contour>
-      <point x="216.86656679245283" y="139.39778490566036" type="line"/>
-      <point x="383.7998332075472" y="534.9063169811321" type="line"/>
-      <point x="392.00127471698113" y="534.9063169811321" type="line"/>
-      <point x="562.4863516981133" y="139.39778490566036" type="line"/>
+      <point x="215.1452524528302" y="140.76109245283018" type="line"/>
+      <point x="367.42266075471696" y="531.8956566037735" type="line"/>
+      <point x="375.48573999999996" y="531.8956566037735" type="line"/>
+      <point x="530.8533486792453" y="140.76109245283018" type="line"/>
     </contour>
   </outline>
   <lib>

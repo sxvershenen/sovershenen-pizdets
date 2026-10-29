@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rdotbelow" format="2">
-  <advance width="395.98754716981136"/>
+  <advance width="393.68924528301886"/>
   <unicode hex="1E5B"/>
-  <anchor x="137.31291018867924" y="-226.26300528301886" name="bottom"/>
-  <anchor x="218.19001283018866" y="500.5199999999999" name="top"/>
+  <anchor x="134.3557147169811" y="-225.0123275471698" name="bottom"/>
+  <anchor x="211.70383886792453" y="500.52" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="dotbelowcomb" xOffset="57.39093132075472"/>
+    <component base="dotbelowcomb" xOffset="56.163707924528296"/>
   </outline>
   <lib>
     <dict>

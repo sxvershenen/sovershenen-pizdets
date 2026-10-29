@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-  <advance width="677.4124528301887"/>
+  <advance width="644.4107547169812"/>
   <unicode hex="2206"/>
   <outline>
     <component base="Delta"/>

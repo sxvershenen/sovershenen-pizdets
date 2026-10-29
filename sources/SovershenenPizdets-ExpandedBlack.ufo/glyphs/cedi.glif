@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi" format="2">
-  <advance width="655.0731320754717"/>
+  <advance width="623.6706037735848"/>
   <unicode hex="20B5"/>
-  <anchor x="358.30054641509435" y="0.0" name="bottom"/>
-  <anchor x="358.30054641509435" y="667.36" name="top"/>
+  <anchor x="345.63261735849056" y="0.0" name="bottom"/>
+  <anchor x="345.63261735849056" y="667.36" name="top"/>
   <outline>
     <contour>
-      <point x="328.13156981132073" y="-80.51" type="line"/>
-      <point x="459.40763622641515" y="-80.51" type="line"/>
-      <point x="459.40763622641515" y="747.87" type="line"/>
-      <point x="328.13156981132073" y="747.87" type="line"/>
+      <point x="309.38983018867924" y="-80.51" type="line"/>
+      <point x="441.83092150943395" y="-80.51" type="line"/>
+      <point x="441.83092150943395" y="747.87" type="line"/>
+      <point x="309.38983018867924" y="747.87" type="line"/>
     </contour>
     <component base="C"/>
   </outline>

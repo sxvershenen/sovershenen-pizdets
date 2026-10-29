@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rinvertedbreve" format="2">
-  <advance width="373.688679245283"/>
+  <advance width="375.3641509433962"/>
   <unicode hex="0213"/>
-  <anchor x="126.3845283018868" y="0.0" name="bottom"/>
-  <anchor x="198.3704245283019" y="669.21" name="top"/>
+  <anchor x="126.96233962264152" y="0.0" name="bottom"/>
+  <anchor x="199.32159433962266" y="669.21" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="breveinvertedcomb" xOffset="24.00617924528302" yOffset="5.82"/>
+    <component base="breveinvertedcomb" xOffset="24.469650943396232" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

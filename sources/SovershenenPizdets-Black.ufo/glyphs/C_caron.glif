@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccaron" format="2">
-  <advance width="662.0406792452831"/>
+  <advance width="628.7438113207547"/>
   <unicode hex="010C"/>
-  <anchor x="316.53198037735854" y="0.0" name="bottom"/>
-  <anchor x="317.07928000000004" y="835.1700000000001" name="top"/>
+  <anchor x="303.17590037735846" y="0.0" name="bottom"/>
+  <anchor x="304.111639245283" y="835.17" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="caroncomb.case" xOffset="196.46849509433963" yOffset="172.66000000000003"/>
+    <component base="caroncomb.case" xOffset="186.44194113207547" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute.loclPLK" format="2">
-  <advance width="627.8515471698113"/>
-  <anchor x="313.78999169811317" y="0.0" name="bottom"/>
-  <anchor x="313.78999169811317" y="253.17" name="center"/>
-  <anchor x="410.3581403773585" y="0.0" name="ogonek"/>
-  <anchor x="313.78999169811317" y="664.53" name="top"/>
-  <anchor x="294.8561773584906" y="500.5199999999999" name="topright"/>
+  <advance width="603.3546037735849"/>
+  <anchor x="301.5863815094339" y="0.0" name="bottom"/>
+  <anchor x="301.5863815094339" y="253.16999999999996" name="center"/>
+  <anchor x="396.91940905660374" y="0.0" name="ogonek"/>
+  <anchor x="301.5863815094339" y="664.53" name="top"/>
+  <anchor x="296.0505" y="500.52" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="acute.loclPLK" xOffset="272.9757162264151"/>
+    <component base="acute.loclPLK" xOffset="266.45746264150944"/>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflexgrave" format="2">
-  <advance width="803.6991698113209"/>
+  <advance width="767.4175849056604"/>
   <unicode hex="1ED2"/>
-  <anchor x="401.9604294339622" y="0.0" name="bottom"/>
-  <anchor x="401.9604294339622" y="333.68" name="center"/>
-  <anchor x="488.39760528301883" y="0.0" name="ogonek"/>
-  <anchor x="402.44176905660373" y="1007.8299999999999" name="top"/>
-  <anchor x="-0.5622641509433961" y="667.36" name="topleft"/>
-  <anchor x="452.9053418867925" y="667.36" name="topright"/>
+  <anchor x="383.9115626415095" y="0.0" name="bottom"/>
+  <anchor x="383.9115626415095" y="333.68" name="center"/>
+  <anchor x="472.32526905660376" y="0.0" name="ogonek"/>
+  <anchor x="384.3498928301887" y="1007.83" name="top"/>
+  <anchor x="-0.1188679245283022" y="667.36" name="topleft"/>
+  <anchor x="444.50080075471703" y="667.36" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_gravecomb.case" xOffset="213.40304452830188" yOffset="172.66"/>
+    <component base="circumflexcomb_gravecomb.case" xOffset="199.07952679245284" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

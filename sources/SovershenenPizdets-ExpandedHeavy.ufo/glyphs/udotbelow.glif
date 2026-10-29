@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udotbelow" format="2">
-  <advance width="559.372641509434"/>
+  <advance width="559.6216981132076"/>
   <unicode hex="1EE5"/>
-  <anchor x="307.57396226415096" y="-209.60693396226412" name="bottom"/>
-  <anchor x="559.0685849056604" y="0.0" name="ogonek"/>
-  <anchor x="307.4267924528302" y="500.52" name="top"/>
-  <anchor x="409.07547169811323" y="500.52" name="topright"/>
+  <anchor x="307.63554716981133" y="-210.90270754716983" name="bottom"/>
+  <anchor x="559.8660188679246" y="0.0" name="ogonek"/>
+  <anchor x="307.47750943396227" y="500.52000000000004" name="top"/>
+  <anchor x="407.1056603773585" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelowcomb" xOffset="207.1158490566038"/>
+    <component base="dotbelowcomb" xOffset="206.5461886792453"/>
   </outline>
   <lib>
     <dict>

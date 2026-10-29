@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown.case" format="2">
-  <advance width="309.6052075471698"/>
+  <advance width="306.3256981132075"/>
   <outline>
-    <component base="exclamdown" xOffset="-0.4300211320754716" yOffset="172.66"/>
+    <component base="exclamdown" xOffset="-0.12760075471698124" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

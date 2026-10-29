@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adblgrave.ss01" format="2">
-  <advance width="674.0945660377358"/>
-  <anchor x="337.4012558490566" y="0.0" name="bottom"/>
-  <anchor x="624.3555139622641" y="0.0" name="ogonek"/>
-  <anchor x="338.91123471698114" y="840.02" name="top"/>
+  <advance width="639.8870566037735"/>
+  <anchor x="320.3328211320755" y="0.0" name="bottom"/>
+  <anchor x="595.1486090566037" y="0.0" name="ogonek"/>
+  <anchor x="322.1452203773585" y="840.02" name="top"/>
   <outline>
     <component base="A.ss01"/>
-    <component base="dblgravecomb.case" xOffset="89.8289245283019" yOffset="172.66000000000003"/>
+    <component base="dblgravecomb.case" xOffset="81.45575283018869" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

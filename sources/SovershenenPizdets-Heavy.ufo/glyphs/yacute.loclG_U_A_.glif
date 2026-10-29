@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yacute.loclGUA" format="2">
-  <advance width="485.7169811320755"/>
-  <anchor x="461.84438679245284" y="0.0" name="bottom"/>
-  <anchor x="243.7545283018868" y="664.53" name="top"/>
+  <advance width="486.8037735849057"/>
+  <anchor x="464.201141509434" y="0.0" name="bottom"/>
+  <anchor x="244.33233962264154" y="664.53" name="top"/>
   <outline>
     <component base="y.loclGUA"/>
-    <component base="acutecomb" xOffset="143.65235849056603" yOffset="5.82"/>
+    <component base="acutecomb" xOffset="143.57130188679247" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

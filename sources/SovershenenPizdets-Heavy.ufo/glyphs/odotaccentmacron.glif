@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odotaccentmacron" format="2">
-  <advance width="512.2122641509434"/>
+  <advance width="512.5971698113208"/>
   <unicode hex="0231"/>
-  <anchor x="256.1586320754717" y="0.0" name="bottom"/>
-  <anchor x="256.1586320754717" y="253.16999999999996" name="center"/>
-  <anchor x="331.3382075471698" y="0.0" name="ogonek"/>
-  <anchor x="256.1586320754717" y="828.8970283018867" name="top"/>
-  <anchor x="304.72268867924527" y="500.52" name="topright"/>
+  <anchor x="256.3630849056604" y="0.0" name="bottom"/>
+  <anchor x="256.3630849056604" y="253.17000000000002" name="center"/>
+  <anchor x="332.22349056603775" y="0.0" name="ogonek"/>
+  <anchor x="256.3630849056604" y="829.0068396226416" name="top"/>
+  <anchor x="305.1467641509434" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb" xOffset="195.82646226415093" yOffset="5.82"/>
-    <component base="macroncomb" xOffset="98.6708962264151" yOffset="167.3570283018868"/>
+    <component base="dotaccentcomb" xOffset="195.37204716981134" yOffset="5.82"/>
+    <component base="macroncomb" xOffset="98.34825471698115" yOffset="167.46683962264152"/>
   </outline>
   <lib>
     <dict>

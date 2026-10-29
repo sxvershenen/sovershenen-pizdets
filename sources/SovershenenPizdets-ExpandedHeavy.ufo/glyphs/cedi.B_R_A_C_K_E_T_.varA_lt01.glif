@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi.BRACKET.varAlt01" format="2">
-  <advance width="610.1462264150944"/>
-  <anchor x="337.1856603773585" y="0.0" name="bottom"/>
-  <anchor x="337.1856603773585" y="667.36" name="top"/>
+  <advance width="610.3047169811321"/>
+  <anchor x="337.4999245283019" y="0.0" name="bottom"/>
+  <anchor x="337.4999245283019" y="667.3600000000001" name="top"/>
   <outline>
     <contour>
-      <point x="318.1654245283019" y="611.6582075471697" type="line"/>
-      <point x="428.3519339622642" y="611.6582075471697" type="line"/>
-      <point x="428.3519339622642" y="747.87" type="line"/>
-      <point x="318.1654245283019" y="747.87" type="line"/>
+      <point x="316.78859433962265" y="610.9114905660377" type="line"/>
+      <point x="428.9517075471698" y="610.9114905660377" type="line"/>
+      <point x="428.9517075471698" y="747.87" type="line"/>
+      <point x="316.78859433962265" y="747.87" type="line"/>
     </contour>
     <contour>
-      <point x="318.1654245283019" y="-80.51" type="line"/>
-      <point x="428.3519339622642" y="-80.51" type="line"/>
-      <point x="428.3519339622642" y="59.348443396226415" type="line"/>
-      <point x="318.1654245283019" y="59.348443396226415" type="line"/>
+      <point x="316.78859433962265" y="-80.51000000000002" type="line"/>
+      <point x="428.9517075471698" y="-80.51000000000002" type="line"/>
+      <point x="428.9517075471698" y="60.292820754716985" type="line"/>
+      <point x="316.78859433962265" y="60.292820754716985" type="line"/>
     </contour>
     <component base="C"/>
   </outline>

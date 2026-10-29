@@ -32,16 +32,28 @@
       <point x="-0.75" y="30.42" type="line"/>
     </contour>
     <contour>
-      <point x="-0.75" y="-118.73" type="line"/>
-      <point x="33.2" y="-118.73" type="line"/>
+      <point x="-0.75" y="-118.51"/>
+      <point x="-0.53" y="-118.73"/>
+      <point x="-0.27" y="-118.73" type="curve"/>
+      <point x="32.71" y="-118.73" type="line"/>
+      <point x="32.98" y="-118.73"/>
+      <point x="33.2" y="-118.51"/>
+      <point x="33.2" y="-118.24" type="curve"/>
       <point x="33.2" y="15.21" type="line"/>
       <point x="-0.75" y="15.21" type="line"/>
+      <point x="-0.75" y="-118.24" type="line"/>
     </contour>
     <contour>
-      <point x="381.42" y="-118.73" type="line"/>
-      <point x="415.37" y="-118.73" type="line"/>
+      <point x="381.42" y="-118.51"/>
+      <point x="381.64" y="-118.73"/>
+      <point x="381.91" y="-118.73" type="curve"/>
+      <point x="414.89" y="-118.73" type="line"/>
+      <point x="415.15" y="-118.73"/>
+      <point x="415.37" y="-118.51"/>
+      <point x="415.37" y="-118.24" type="curve"/>
       <point x="415.37" y="15.21" type="line"/>
       <point x="381.42" y="15.21" type="line"/>
+      <point x="381.42" y="-118.24" type="line"/>
     </contour>
   </outline>
 </glyph>

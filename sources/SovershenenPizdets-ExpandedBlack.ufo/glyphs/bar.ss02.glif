@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar.ss02" format="2">
-  <advance width="443.07547169811323"/>
+  <advance width="443.9622641509434"/>
   <outline>
     <contour>
-      <point x="-20.932264150943396" y="0.0" type="line"/>
-      <point x="464.0677358490566" y="0.0" type="line"/>
-      <point x="464.0677358490566" y="675.12" type="line"/>
-      <point x="-20.932264150943396" y="675.12" type="line"/>
+      <point x="-20.488867924528304" y="0.0" type="line"/>
+      <point x="464.51113207547166" y="0.0" type="line"/>
+      <point x="464.51113207547166" y="675.12" type="line"/>
+      <point x="-20.488867924528304" y="675.12" type="line"/>
     </contour>
   </outline>
   <lib>

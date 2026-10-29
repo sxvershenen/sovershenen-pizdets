@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute.case.loclPLK" format="2">
-  <advance width="171.66581132075473"/>
-  <anchor x="33.04695471698114" y="667.36" name="_top"/>
-  <anchor x="32.507049056603776" y="803.16" name="top"/>
+  <advance width="168.03577358490566"/>
+  <anchor x="42.795579245283015" y="667.36" name="_top"/>
+  <anchor x="41.610532075471696" y="803.16" name="top"/>
   <outline>
     <contour>
-      <point x="-19.962264150943398" y="720.4184875471699" type="line"/>
-      <point x="96.23853811320754" y="720.4184875471699" type="line"/>
-      <point x="191.3226966037736" y="856.51" type="line"/>
-      <point x="191.3226966037736" y="861.3600000000001" type="line"/>
-      <point x="30.626493584905663" y="861.3600000000001" type="line"/>
-      <point x="-19.962264150943398" y="725.2684875471698" type="line"/>
+      <point x="-19.5188679245283" y="720.0442505660377" type="line"/>
+      <point x="98.24392716981131" y="720.0442505660377" type="line"/>
+      <point x="187.31957622641508" y="856.51" type="line"/>
+      <point x="187.31957622641508" y="861.36" type="line"/>
+      <point x="26.708330566037734" y="861.36" type="line"/>
+      <point x="-19.5188679245283" y="724.8942505660377" type="line"/>
     </contour>
   </outline>
   <lib>

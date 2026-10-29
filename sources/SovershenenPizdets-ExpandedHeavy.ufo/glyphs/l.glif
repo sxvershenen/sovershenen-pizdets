@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="240.08962264150944"/>
+  <advance width="241.42547169811323"/>
   <unicode hex="006C"/>
-  <anchor x="120.08481132075472" y="0.0" name="bottom"/>
-  <anchor x="120.08481132075472" y="293.91" name="center"/>
-  <anchor x="120.08481132075472" y="727.5" name="top"/>
-  <anchor x="187.79334905660374" y="500.52" name="topright"/>
+  <anchor x="120.75273584905662" y="0.0" name="bottom"/>
+  <anchor x="120.75273584905662" y="293.9100000000001" name="center"/>
+  <anchor x="120.75273584905662" y="727.5" name="top"/>
+  <anchor x="189.70768867924528" y="500.52000000000004" name="topright"/>
   <outline>
     <contour>
-      <point x="45.88283018867924" y="0.0" type="line"/>
-      <point x="193.60679245283018" y="0.0" type="line"/>
-      <point x="193.60679245283018" y="720.71" type="line"/>
-      <point x="45.88283018867924" y="720.71" type="line"/>
+      <point x="45.343962264150946" y="0.0" type="line"/>
+      <point x="195.4815094339623" y="0.0" type="line"/>
+      <point x="195.4815094339623" y="720.71" type="line"/>
+      <point x="45.343962264150946" y="720.71" type="line"/>
     </contour>
   </outline>
   <lib>

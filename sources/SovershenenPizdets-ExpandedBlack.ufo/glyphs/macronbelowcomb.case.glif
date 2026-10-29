@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macronbelowcomb.case" format="2">
-  <anchor x="181.0744196226415" y="0.0" name="_bottom"/>
-  <anchor x="181.0744196226415" y="-201.73635396226416" name="bottom"/>
+  <anchor x="178.21506566037735" y="0.0" name="_bottom"/>
+  <anchor x="178.21506566037735" y="-203.50867207547168" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.0" y="-204.60374716981133" type="line"/>
-      <point x="362.1654226415094" y="-204.60374716981133" type="line"/>
-      <point x="362.1654226415094" y="-104.83232905660377" type="line"/>
-      <point x="0.0" y="-104.83232905660377" type="line"/>
+      <point x="0.0" y="-206.41325471698113" type="line"/>
+      <point x="356.44187358490564" y="-206.41325471698113" type="line"/>
+      <point x="356.44187358490564" y="-106.49252981132076" type="line"/>
+      <point x="0.0" y="-106.49252981132076" type="line"/>
     </contour>
   </outline>
   <lib>

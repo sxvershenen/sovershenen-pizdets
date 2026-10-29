@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fiveeighths" format="2">
-  <advance width="1002.933962264151"/>
+  <advance width="1002.7075471698114"/>
   <unicode hex="215D"/>
   <outline>
     <component base="five.numr"/>
-    <component base="fraction" xOffset="420.9296698113207"/>
-    <component base="eight.dnom" xOffset="594.687783018868"/>
+    <component base="fraction" xOffset="420.42453773584907"/>
+    <component base="eight.dnom" xOffset="594.6218962264152"/>
   </outline>
   <lib>
     <dict>

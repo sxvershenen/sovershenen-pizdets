@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-  <advance width="624.0827169811321"/>
+  <advance width="595.3684528301887"/>
   <unicode hex="00DD"/>
-  <anchor x="312.28828528301887" y="0.0" name="bottom"/>
-  <anchor x="312.28828528301887" y="835.1700000000001" name="top"/>
-  <anchor x="-10.899462641509436" y="667.36" name="topleft"/>
+  <anchor x="297.8554686792453" y="0.0" name="bottom"/>
+  <anchor x="297.8554686792453" y="835.17" name="top"/>
+  <anchor x="-16.665823396226415" y="667.36" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="acutecomb.case" xOffset="216.46026490566038" yOffset="172.66000000000003"/>
+    <component base="acutecomb.case" xOffset="208.64661849056606" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

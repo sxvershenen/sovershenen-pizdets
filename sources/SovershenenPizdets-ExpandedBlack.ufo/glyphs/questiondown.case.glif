@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown.case" format="2">
-  <advance width="570.2596981132076"/>
+  <advance width="546.8278867924528"/>
   <outline>
-    <component base="questiondown" xOffset="-2.1178943396226413" yOffset="172.66"/>
+    <component base="questiondown" xOffset="-0.5259962264150949" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

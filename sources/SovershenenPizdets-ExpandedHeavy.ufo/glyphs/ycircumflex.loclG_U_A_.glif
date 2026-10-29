@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ycircumflex.loclGUA" format="2">
-  <advance width="510.63679245283015"/>
-  <anchor x="532.7184433962265" y="0.0" name="bottom"/>
-  <anchor x="279.26933962264155" y="668.3484433962265" name="top"/>
+  <advance width="511.79150943396235"/>
+  <anchor x="535.294820754717" y="0.0" name="bottom"/>
+  <anchor x="279.8910754716981" y="668.284820754717" name="top"/>
   <outline>
     <component base="y.loclGUA"/>
-    <component base="circumflexcomb" xOffset="80.70712264150943" yOffset="4.927783018867925"/>
+    <component base="circumflexcomb" xOffset="80.59097169811321" yOffset="4.8618962264150944"/>
   </outline>
   <lib>
     <dict>

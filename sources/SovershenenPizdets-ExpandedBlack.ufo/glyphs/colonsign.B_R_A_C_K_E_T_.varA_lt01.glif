@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="colonsign.BRACKET.varAlt01" format="2">
-  <advance width="655.0731320754717"/>
-  <anchor x="358.30054641509435" y="0.0" name="bottom"/>
-  <anchor x="358.30054641509435" y="667.36" name="top"/>
+  <advance width="623.6706037735848"/>
+  <anchor x="345.63261735849056" y="0.0" name="bottom"/>
+  <anchor x="345.63261735849056" y="667.36" name="top"/>
   <outline>
     <contour>
-      <point x="408.64749962264153" y="-80.51" type="line"/>
-      <point x="498.15785509433965" y="-80.51" type="line"/>
-      <point x="695.0983094339622" y="747.87" type="line"/>
-      <point x="605.5879539622641" y="747.87" type="line"/>
+      <point x="392.32076716981135" y="-80.51" type="line"/>
+      <point x="482.3600837735849" y="-80.51" type="line"/>
+      <point x="668.8436452830189" y="747.87" type="line"/>
+      <point x="578.8043286792453" y="747.87" type="line"/>
     </contour>
     <contour>
-      <point x="258.3416437735849" y="-80.51" type="line"/>
-      <point x="347.64020981132074" y="-80.51" type="line"/>
-      <point x="545.2737932075472" y="747.87" type="line"/>
-      <point x="455.97522716981126" y="747.87" type="line"/>
+      <point x="247.52271773584906" y="-80.51" type="line"/>
+      <point x="337.5094347169811" y="-80.51" type="line"/>
+      <point x="524.4839260377358" y="747.87" type="line"/>
+      <point x="434.49720905660377" y="747.87" type="line"/>
     </contour>
     <component base="C"/>
   </outline>

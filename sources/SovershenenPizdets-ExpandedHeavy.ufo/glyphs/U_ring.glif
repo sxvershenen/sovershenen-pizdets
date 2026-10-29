@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uring" format="2">
-  <advance width="737.5613207547169"/>
+  <advance width="737.0858490566038"/>
   <unicode hex="016E"/>
-  <anchor x="369.2231132075472" y="0.0" name="bottom"/>
-  <anchor x="463.2078773584906" y="0.0" name="ogonek"/>
-  <anchor x="369.2231132075472" y="922.5340566037735" name="top"/>
-  <anchor x="522.798820754717" y="667.36" name="topright"/>
+  <anchor x="368.96635849056605" y="0.0" name="bottom"/>
+  <anchor x="463.5880283018869" y="0.0" name="ogonek"/>
+  <anchor x="368.96635849056605" y="922.753679245283" name="top"/>
+  <anchor x="520.6313490566038" y="667.3600000000001" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb.case" xOffset="219.63721698113204" yOffset="172.66"/>
+    <component base="ringcomb.case" xOffset="219.0071037735849" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

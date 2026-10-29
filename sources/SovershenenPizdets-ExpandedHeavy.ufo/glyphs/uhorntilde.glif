@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorntilde" format="2">
-  <advance width="559.372641509434"/>
+  <advance width="559.6216981132076"/>
   <unicode hex="1EEF"/>
-  <anchor x="307.4267924528302" y="0.0" name="bottom"/>
-  <anchor x="559.0685849056604" y="0.0" name="ogonek"/>
-  <anchor x="307.79028301886797" y="669.21" name="top"/>
-  <anchor x="409.07547169811323" y="586.8884433962264" name="topright"/>
-  <anchor x="409.07547169811323" y="500.52" name="_topright"/>
+  <anchor x="307.47750943396227" y="0.0" name="bottom"/>
+  <anchor x="559.8660188679246" y="0.0" name="ogonek"/>
+  <anchor x="307.8323962264151" y="669.21" name="top"/>
+  <anchor x="407.1056603773585" y="586.824820754717" name="topright"/>
+  <anchor x="407.1056603773585" y="500.52000000000004" name="_topright"/>
   <outline>
     <component base="uhorn"/>
-    <component base="tildecomb" xScale="0.9" xOffset="81.24080188679245" yOffset="5.82"/>
+    <component base="tildecomb" xScale="0.9" xOffset="80.61612264150943" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

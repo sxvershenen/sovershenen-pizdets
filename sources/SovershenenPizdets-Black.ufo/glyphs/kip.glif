@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="674.2192452830188"/>
+  <advance width="640.3333962264151"/>
   <unicode hex="20AD"/>
-  <anchor x="336.68513962264154" y="0.0" name="bottom"/>
-  <anchor x="336.68513962264154" y="667.36" name="top"/>
+  <anchor x="320.17623018867926" y="0.0" name="bottom"/>
+  <anchor x="320.17623018867926" y="667.36" name="top"/>
   <outline>
     <contour>
-      <point x="-8.467873962264152" y="276.35160905660376" type="line"/>
-      <point x="629.5735283018869" y="276.35160905660376" type="line"/>
-      <point x="629.5735283018869" y="403.12563094339623" type="line"/>
-      <point x="-8.467873962264152" y="403.12563094339623" type="line"/>
+      <point x="-9.33207433962264" y="275.2253841509434" type="line"/>
+      <point x="600.3962358490567" y="275.2253841509434" type="line"/>
+      <point x="600.3962358490567" y="404.1308071698113" type="line"/>
+      <point x="-9.33207433962264" y="404.1308071698113" type="line"/>
     </contour>
     <component base="K"/>
   </outline>

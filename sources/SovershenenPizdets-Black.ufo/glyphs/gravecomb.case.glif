@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <anchor x="184.00167924528304" y="494.7" name="_top"/>
-  <anchor x="184.48301886792456" y="662.51" name="top"/>
+  <anchor x="186.1951603773585" y="494.7" name="_top"/>
+  <anchor x="186.63349056603775" y="662.51" name="top"/>
   <outline>
     <contour>
-      <point x="143.59448075471698" y="557.6832347169811" type="line"/>
-      <point x="259.79528301886796" y="557.6832347169811" type="line"/>
-      <point x="259.79528301886796" y="562.5332347169812" type="line"/>
-      <point x="160.69620301886795" y="700.1104943396226" type="line"/>
-      <point x="0.0" y="700.1104943396226" type="line"/>
-      <point x="0.0" y="695.2604943396227" type="line"/>
+      <point x="133.55834830188678" y="556.8390052830189" type="line"/>
+      <point x="251.3211433962264" y="556.8390052830189" type="line"/>
+      <point x="251.3211433962264" y="561.6890052830188" type="line"/>
+      <point x="160.61124566037736" y="698.5341528301886" type="line"/>
+      <point x="0.0" y="698.5341528301886" type="line"/>
+      <point x="0.0" y="693.6841528301886" type="line"/>
     </contour>
   </outline>
   <lib>

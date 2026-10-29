@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornacute" format="2">
-  <advance width="527.4408301886792"/>
+  <advance width="519.5463773584905"/>
   <unicode hex="1EDB"/>
-  <anchor x="275.00463320754716" y="0.0" name="bottom"/>
-  <anchor x="275.00463320754716" y="253.17" name="center"/>
-  <anchor x="360.83689509433964" y="0.0" name="ogonek"/>
-  <anchor x="276.4055328301887" y="664.53" name="top"/>
-  <anchor x="304.2724981132076" y="586.3343962264152" name="topright"/>
-  <anchor x="304.2724981132076" y="500.52000000000004" name="_topright"/>
+  <anchor x="262.973060754717" y="0.0" name="bottom"/>
+  <anchor x="262.973060754717" y="253.17" name="center"/>
+  <anchor x="346.7960316981132" y="0.0" name="ogonek"/>
+  <anchor x="264.14159962264154" y="664.53" name="top"/>
+  <anchor x="307.8323396226415" y="586.2098018867924" name="topright"/>
+  <anchor x="307.8323396226415" y="500.52" name="_topright"/>
   <outline>
     <component base="ohorn"/>
-    <component base="acutecomb" xOffset="166.49436830188682" yOffset="5.82"/>
+    <component base="acutecomb" xOffset="155.84744981132076" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

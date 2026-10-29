@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dz" format="2">
-  <advance width="1306.7594339622642"/>
+  <advance width="1306.96320754717"/>
   <unicode hex="01F2"/>
-  <anchor x="1038.147924528302" y="0.0" name="bottom"/>
-  <anchor x="1038.147924528302" y="247.35" name="center"/>
-  <anchor x="1038.147924528302" y="494.7" name="top"/>
+  <anchor x="1037.9350943396228" y="0.0" name="bottom"/>
+  <anchor x="1037.9350943396228" y="247.35000000000002" name="center"/>
+  <anchor x="1037.9350943396228" y="494.70000000000005" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="768.3452358490566"/>
+    <component base="z" xOffset="767.7083301886794"/>
   </outline>
   <lib>
     <dict>

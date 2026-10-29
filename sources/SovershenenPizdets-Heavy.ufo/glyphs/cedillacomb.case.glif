@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb.case" format="2">
-  <anchor x="116.06141509433962" y="0.0" name="_bottom"/>
-  <anchor x="116.06141509433962" y="-184.3" name="bottom"/>
+  <anchor x="116.89598113207548" y="0.0" name="_bottom"/>
+  <anchor x="116.89598113207548" y="-184.3" name="bottom"/>
   <outline>
     <contour>
       <point x="0.0" y="-184.3" type="line"/>
-      <point x="132.9632075471698" y="-184.3" type="line"/>
-      <point x="169.97877358490564" y="12.61" type="line"/>
-      <point x="169.97877358490564" y="17.46" type="line"/>
-      <point x="76.3188679245283" y="17.46" type="line"/>
+      <point x="134.54449056603775" y="-184.3" type="line"/>
+      <point x="171.42828301886794" y="12.61" type="line"/>
+      <point x="171.42828301886794" y="17.46" type="line"/>
+      <point x="76.58241509433962" y="17.46" type="line"/>
       <point x="0.0" y="-179.45" type="line"/>
     </contour>
   </outline>

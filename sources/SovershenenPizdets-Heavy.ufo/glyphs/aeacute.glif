@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aeacute" format="2">
-  <advance width="793.9339622641509"/>
+  <advance width="793.7075471698114"/>
   <unicode hex="01FD"/>
-  <anchor x="397.1975471698113" y="0.0" name="bottom"/>
-  <anchor x="397.792358490566" y="664.53" name="top"/>
+  <anchor x="397.07256603773584" y="0.0" name="bottom"/>
+  <anchor x="397.71130188679246" y="664.53" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="297.69018867924524" yOffset="5.82"/>
+    <component base="acutecomb" xOffset="296.9502641509434" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

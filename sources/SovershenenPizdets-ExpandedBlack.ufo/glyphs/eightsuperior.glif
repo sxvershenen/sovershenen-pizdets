@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eightsuperior" format="2">
-  <advance width="438.2403773584906"/>
+  <advance width="415.4477358490566"/>
   <unicode hex="2078"/>
   <outline>
     <component base="eight.dnom" yOffset="407.4"/>

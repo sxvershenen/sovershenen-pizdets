@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dz" format="2">
-  <advance width="1186.8915094339623"/>
+  <advance width="1187.5481132075472"/>
   <unicode hex="01F3"/>
-  <anchor x="917.9960377358491" y="0.0" name="bottom"/>
-  <anchor x="917.9960377358491" y="253.16999999999996" name="center"/>
-  <anchor x="917.9960377358491" y="500.52" name="top"/>
-  <anchor x="549.1352358490566" y="500.52" name="topright"/>
+  <anchor x="918.2224528301888" y="0.0" name="bottom"/>
+  <anchor x="918.2224528301888" y="253.17000000000002" name="center"/>
+  <anchor x="918.2224528301888" y="500.52000000000004" name="top"/>
+  <anchor x="550.1303301886792" y="500.52000000000004" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="648.1933490566038"/>
+    <component base="z" xOffset="647.9956886792453"/>
   </outline>
   <lib>
     <dict>

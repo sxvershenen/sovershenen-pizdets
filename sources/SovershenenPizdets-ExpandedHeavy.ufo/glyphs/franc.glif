@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="franc" format="2">
-  <advance width="606.0518867924528"/>
+  <advance width="606.572641509434"/>
   <unicode hex="20A3"/>
-  <anchor x="303.31344339622643" y="0.0" name="bottom"/>
-  <anchor x="303.31344339622643" y="667.36" name="top"/>
+  <anchor x="303.561820754717" y="0.0" name="bottom"/>
+  <anchor x="303.561820754717" y="667.3600000000001" name="top"/>
   <outline>
     <contour>
-      <point x="-21.933962264150942" y="96.52415094339624" type="line"/>
-      <point x="438.27155660377355" y="96.52415094339624" type="line"/>
-      <point x="438.27155660377355" y="171.406320754717" type="line"/>
-      <point x="-21.933962264150942" y="171.406320754717" type="line"/>
+      <point x="-21.70754716981132" y="95.55781132075472" type="line"/>
+      <point x="438.95917924528305" y="95.55781132075472" type="line"/>
+      <point x="438.95917924528305" y="171.0988490566038" type="line"/>
+      <point x="-21.70754716981132" y="171.0988490566038" type="line"/>
     </contour>
     <component base="F"/>
   </outline>

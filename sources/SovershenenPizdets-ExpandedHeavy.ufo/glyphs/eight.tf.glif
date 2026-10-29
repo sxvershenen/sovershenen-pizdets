@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.tf" format="2">
-  <advance width="675.4009433962265"/>
+  <advance width="675.061320754717"/>
   <outline>
-    <component base="eight" xOffset="-39.92556603773585"/>
+    <component base="eight" xOffset="-39.79379245283019"/>
   </outline>
   <lib>
     <dict>

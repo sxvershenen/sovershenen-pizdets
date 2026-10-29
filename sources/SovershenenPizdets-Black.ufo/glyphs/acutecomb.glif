@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="97.41764905660378" y="494.7" name="_top"/>
-  <anchor x="98.8185486792453" y="662.51" name="top"/>
+  <anchor x="104.11376037735849" y="494.7" name="_top"/>
+  <anchor x="105.28229924528301" y="662.51" name="top"/>
   <outline>
     <contour>
-      <point x="0.0" y="557.6832347169811" type="line"/>
-      <point x="115.98579169811322" y="557.6832347169811" type="line"/>
-      <point x="259.79528301886796" y="695.2604943396227" type="line"/>
-      <point x="259.79528301886796" y="700.1104943396226" type="line"/>
-      <point x="98.88729056603773" y="700.1104943396226" type="line"/>
-      <point x="0.0" y="562.5332347169812" type="line"/>
+      <point x="0.0" y="556.8390052830189" type="line"/>
+      <point x="117.69899471698112" y="556.8390052830189" type="line"/>
+      <point x="251.3211433962264" y="693.6841528301886" type="line"/>
+      <point x="251.3211433962264" y="698.5341528301886" type="line"/>
+      <point x="90.65729811320755" y="698.5341528301886" type="line"/>
+      <point x="0.0" y="561.6890052830188" type="line"/>
     </contour>
   </outline>
   <lib>

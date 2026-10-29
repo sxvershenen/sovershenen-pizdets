@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="G_tilde.loclGUA" format="2">
-  <advance width="776.3163773584905"/>
-  <anchor x="402.3829833962264" y="0.0" name="bottom"/>
-  <anchor x="402.3829833962264" y="840.0199999999999" name="top"/>
+  <advance width="740.349358490566"/>
+  <anchor x="385.50119132075474" y="0.0" name="bottom"/>
+  <anchor x="385.50119132075474" y="840.02" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="tildecomb.case" xOffset="198.43568905660376" yOffset="172.66"/>
+    <component base="tildecomb.case" xOffset="185.05056679245283" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

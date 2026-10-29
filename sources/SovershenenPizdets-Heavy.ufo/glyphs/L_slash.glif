@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="477.2924528301887"/>
+  <advance width="477.60943396226423"/>
   <unicode hex="0141"/>
-  <anchor x="277.15089622641506" y="0.0" name="bottom"/>
-  <anchor x="129.59193396226414" y="333.68" name="center"/>
-  <anchor x="129.59193396226414" y="667.36" name="top"/>
-  <anchor x="277.98820754716985" y="494.7" name="topright"/>
+  <anchor x="276.8282547169811" y="0.0" name="bottom"/>
+  <anchor x="130.1917075471698" y="333.68000000000006" name="center"/>
+  <anchor x="130.1917075471698" y="667.3600000000001" name="top"/>
+  <anchor x="278.8734905660378" y="494.70000000000005" name="topright"/>
   <outline>
     <contour>
-      <point x="-4.071320754716981" y="236.55188679245282" type="line"/>
-      <point x="358.3563679245283" y="370.99297169811325" type="line"/>
-      <point x="358.3563679245283" y="477.1210377358491" type="line"/>
-      <point x="-4.071320754716981" y="342.67995283018865" type="line"/>
+      <point x="-4.459849056603774" y="236.11264150943398" type="line"/>
+      <point x="359.0879150943397" y="370.88316037735854" type="line"/>
+      <point x="359.0879150943397" y="478.0434528301887" type="line"/>
+      <point x="-4.459849056603774" y="343.2729339622641" type="line"/>
     </contour>
     <component base="L"/>
   </outline>

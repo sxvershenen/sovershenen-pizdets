@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ymacron.loclGUA" format="2">
-  <advance width="506.4061132075472"/>
-  <anchor x="514.3938981132076" y="0.0" name="bottom"/>
-  <anchor x="264.0338233962264" y="671.477560754717" name="top"/>
+  <advance width="500.3867547169811"/>
+  <anchor x="495.76910754716977" y="0.0" name="bottom"/>
+  <anchor x="253.30011094339625" y="669.8334271698113" name="top"/>
   <outline>
     <component base="y.loclGUA"/>
-    <component base="macroncomb" xOffset="85.42130566037736" yOffset="5.82"/>
+    <component base="macroncomb" xOffset="85.62588301886792" yOffset="5.82"/>
   </outline>
   <lib>
     <dict>

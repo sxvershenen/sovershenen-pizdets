@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tdotbelow" format="2">
-  <advance width="527.503320754717"/>
+  <advance width="500.3585283018868"/>
   <unicode hex="1E6C"/>
-  <anchor x="286.969282264151" y="-214.0538166037736" name="bottom"/>
-  <anchor x="286.8606686792453" y="333.68" name="center"/>
-  <anchor x="286.8606686792453" y="667.36" name="top"/>
+  <anchor x="272.35458905660374" y="-211.81392188679246" name="bottom"/>
+  <anchor x="272.32236" y="333.68" name="center"/>
+  <anchor x="272.32236" y="667.36" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="dotbelowcomb.case" xOffset="199.32422113207548"/>
+    <component base="dotbelowcomb.case" xOffset="185.30358"/>
   </outline>
   <lib>
     <dict>

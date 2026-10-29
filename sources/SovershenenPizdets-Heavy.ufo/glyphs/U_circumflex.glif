@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="628.4669811320755"/>
+  <advance width="628.3537735849056"/>
   <unicode hex="00DB"/>
-  <anchor x="314.6697641509434" y="0.0" name="bottom"/>
-  <anchor x="393.5875" y="0.0" name="ogonek"/>
-  <anchor x="314.6697641509434" y="840.02" name="top"/>
-  <anchor x="482.80462264150947" y="667.36" name="topright"/>
+  <anchor x="314.6106698113208" y="0.0" name="bottom"/>
+  <anchor x="394.05550000000005" y="0.0" name="ogonek"/>
+  <anchor x="314.6106698113208" y="840.02" name="top"/>
+  <anchor x="482.1964716981132" y="667.3600000000001" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="circumflexcomb.case" xOffset="154.34981132075472" yOffset="172.66"/>
+    <component base="circumflexcomb.case" xOffset="153.6977358490566" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

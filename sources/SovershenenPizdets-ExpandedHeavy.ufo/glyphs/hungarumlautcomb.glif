@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="172.94367924528302" y="494.7" name="_top"/>
-  <anchor x="173.91367924528302" y="662.51" name="top"/>
+  <anchor x="173.25115094339623" y="494.70000000000005" name="_top"/>
+  <anchor x="174.22115094339625" y="662.51" name="top"/>
   <outline>
     <contour>
       <point x="0.0" y="570.36" type="line"/>
-      <point x="84.85212264150942" y="570.36" type="line"/>
-      <point x="222.52806603773587" y="687.9496226415094" type="line"/>
-      <point x="222.52806603773587" y="692.502216981132" type="line"/>
-      <point x="100.01523584905661" y="692.502216981132" type="line"/>
-      <point x="0.0" y="574.9125943396227" type="line"/>
+      <point x="86.10397169811321" y="570.36" type="line"/>
+      <point x="223.5602924528302" y="688.0374716981132" type="line"/>
+      <point x="223.5602924528302" y="692.5681037735849" type="line"/>
+      <point x="99.37833018867926" y="692.5681037735849" type="line"/>
+      <point x="0.0" y="574.8906320754718" type="line"/>
     </contour>
     <contour>
-      <point x="213.71113207547168" y="570.36" type="line"/>
-      <point x="300.12806603773583" y="570.36" type="line"/>
-      <point x="436.5366037735849" y="687.9496226415094" type="line"/>
-      <point x="436.5366037735849" y="692.502216981132" type="line"/>
-      <point x="314.321179245283" y="692.502216981132" type="line"/>
-      <point x="213.71113207547168" y="574.9125943396227" type="line"/>
+      <point x="213.4475849056604" y="570.36" type="line"/>
+      <point x="301.1602924528302" y="570.36" type="line"/>
+      <point x="437.3272452830189" y="688.0374716981132" type="line"/>
+      <point x="437.3272452830189" y="692.5681037735849" type="line"/>
+      <point x="313.46465094339624" y="692.5681037735849" type="line"/>
+      <point x="213.4475849056604" y="574.8906320754718" type="line"/>
     </contour>
   </outline>
   <lib>

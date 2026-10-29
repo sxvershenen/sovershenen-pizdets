@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idotaccent" format="2">
-  <advance width="295.9292452830189"/>
+  <advance width="297.40094339622647"/>
   <unicode hex="0130"/>
-  <anchor x="147.86636792452833" y="0.0" name="bottom"/>
-  <anchor x="229.7947641509434" y="0.0" name="ogonek"/>
-  <anchor x="147.86636792452833" y="827.41" name="top"/>
-  <anchor x="66.61056603773584" y="667.36" name="topleft"/>
+  <anchor x="148.59791509433964" y="0.0" name="bottom"/>
+  <anchor x="232.06366981132075" y="0.0" name="ogonek"/>
+  <anchor x="148.59791509433964" y="827.4100000000001" name="top"/>
+  <anchor x="65.7827924528302" y="667.3600000000001" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccentcomb.case" xOffset="85.82754716981131" yOffset="172.66"/>
+    <component base="dotaccentcomb.case" xOffset="85.70256603773585" yOffset="172.66"/>
   </outline>
   <lib>
     <dict>

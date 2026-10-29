@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotbelow" format="2">
-  <advance width="490.65094339622647"/>
+  <advance width="491.511320754717"/>
   <unicode hex="1E93"/>
-  <anchor x="269.94985849056604" y="-209.60693396226412" name="bottom"/>
-  <anchor x="269.8026886792453" y="253.16999999999996" name="center"/>
-  <anchor x="269.8026886792453" y="500.52" name="top"/>
+  <anchor x="270.38480188679245" y="-210.90270754716983" name="bottom"/>
+  <anchor x="270.22676415094344" y="253.17000000000002" name="center"/>
+  <anchor x="270.22676415094344" y="500.52000000000004" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="dotbelowcomb" xOffset="192.01334905660377"/>
+    <component base="dotbelowcomb" xOffset="191.4316886792453"/>
   </outline>
   <lib>
     <dict>

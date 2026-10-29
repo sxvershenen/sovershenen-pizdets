@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcomb" format="2">
   <unicode hex="0324"/>
-  <anchor x="173.8725" y="0.0" name="_bottom"/>
-  <anchor x="173.8725" y="-161.14811320754717" name="bottom"/>
+  <anchor x="175.03650000000002" y="0.0" name="_bottom"/>
+  <anchor x="175.03650000000002" y="-161.58735849056603" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.0" y="-185.90141509433963" type="line"/>
-      <point x="123.70245283018866" y="-185.90141509433963" type="line"/>
-      <point x="123.70245283018866" y="-84.31221698113208" type="line"/>
-      <point x="0.0" y="-84.31221698113208" type="line"/>
+      <point x="0.0" y="-186.7359811320755" type="line"/>
+      <point x="125.45943396226417" y="-186.7359811320755" type="line"/>
+      <point x="125.45943396226417" y="-84.37810377358491" type="line"/>
+      <point x="0.0" y="-84.37810377358491" type="line"/>
     </contour>
     <contour>
-      <point x="223.4477358490566" y="-185.90141509433963" type="line"/>
-      <point x="347.44759433962264" y="-185.90141509433963" type="line"/>
-      <point x="347.44759433962264" y="-84.31221698113208" type="line"/>
-      <point x="223.4477358490566" y="-84.31221698113208" type="line"/>
+      <point x="223.97483018867928" y="-186.7359811320755" type="line"/>
+      <point x="349.7536320754717" y="-186.7359811320755" type="line"/>
+      <point x="349.7536320754717" y="-84.37810377358491" type="line"/>
+      <point x="223.97483018867928" y="-84.37810377358491" type="line"/>
     </contour>
   </outline>
   <lib>

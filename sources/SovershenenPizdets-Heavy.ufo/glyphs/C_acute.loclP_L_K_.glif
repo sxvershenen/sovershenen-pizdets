@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cacute.loclPLK" format="2">
-  <advance width="509.59905660377365"/>
-  <anchor x="298.4771698113208" y="0.0" name="bottom"/>
-  <anchor x="300.8060849056603" y="803.1599999999999" name="top"/>
+  <advance width="509.938679245283"/>
+  <anchor x="298.44003773584905" y="0.0" name="bottom"/>
+  <anchor x="300.4395188679245" y="803.1600000000001" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acute.case.loclPLK" xOffset="263.44193396226416"/>
+    <component base="acute.case.loclPLK" xOffset="262.40970754716983"/>
   </outline>
   <lib>
     <dict>

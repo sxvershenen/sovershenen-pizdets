@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright.ss02" format="2">
-  <advance width="345.07547169811323"/>
+  <advance width="345.9622641509434"/>
   <outline>
     <contour>
-      <point x="-19.962264150943394" y="0.0" type="line"/>
-      <point x="180.8277358490566" y="0.0"/>
-      <point x="321.4777358490566" y="139.68"/>
-      <point x="321.4777358490566" y="337.56" type="curve" smooth="yes"/>
-      <point x="321.4777358490566" y="536.41"/>
-      <point x="180.8277358490566" y="675.12"/>
-      <point x="-19.962264150943394" y="675.12" type="curve"/>
+      <point x="-19.5188679245283" y="0.0" type="line"/>
+      <point x="181.27113207547168" y="0.0"/>
+      <point x="321.9211320754717" y="139.68"/>
+      <point x="321.9211320754717" y="337.56" type="curve" smooth="yes"/>
+      <point x="321.9211320754717" y="536.41"/>
+      <point x="181.27113207547168" y="675.12"/>
+      <point x="-19.5188679245283" y="675.12" type="curve"/>
     </contour>
   </outline>
   <lib>

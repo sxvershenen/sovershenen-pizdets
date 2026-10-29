@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y.loclGUA" format="2">
-  <advance width="531.9174339622641"/>
-  <anchor x="519.0486679245282" y="0.0" name="bottom"/>
-  <anchor x="266.3923713207547" y="500.5199999999999" name="top"/>
+  <advance width="526.0310943396227"/>
+  <anchor x="515.6815188679245" y="0.0" name="bottom"/>
+  <anchor x="263.3757954716981" y="500.52" name="top"/>
   <outline>
     <contour>
-      <point x="150.13952603773586" y="-185.74129358490566" type="line"/>
-      <point x="320.07487471698107" y="-185.74129358490566" type="line"/>
-      <point x="379.46616075471695" y="0.0" type="line"/>
-      <point x="211.71006943396225" y="4.1220128301886785" type="line"/>
+      <point x="148.97964452830192" y="-184.93579471698112" type="line"/>
+      <point x="321.612260754717" y="-184.93579471698112" type="line"/>
+      <point x="378.8622856603774" y="0.0" type="line"/>
+      <point x="208.3051049056604" y="4.202948301886792" type="line"/>
     </contour>
     <component base="v"/>
   </outline>

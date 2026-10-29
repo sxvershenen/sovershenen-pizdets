@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresismacron" format="2">
-  <advance width="674.0945660377358"/>
+  <advance width="639.8870566037735"/>
   <unicode hex="01D5"/>
-  <anchor x="337.4012558490566" y="0.0" name="bottom"/>
-  <anchor x="427.9593577358491" y="0.0" name="ogonek"/>
-  <anchor x="337.4012558490566" y="1016.9690105660378" name="top"/>
-  <anchor x="489.13129132075477" y="667.36" name="topright"/>
+  <anchor x="320.3328211320755" y="0.0" name="bottom"/>
+  <anchor x="406.82149849056606" y="0.0" name="ogonek"/>
+  <anchor x="320.3328211320755" y="1015.2658003773585" name="top"/>
+  <anchor x="479.1210524528302" y="667.36" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="161.51031396226415" yOffset="172.66000000000003"/>
-    <component base="macroncomb.case" xOffset="169.33532226415096" yOffset="347.26"/>
+    <component base="dieresiscomb.case" xOffset="147.0192241509434" yOffset="172.66"/>
+    <component base="macroncomb.case" xOffset="155.54834264150944" yOffset="347.26"/>
   </outline>
   <lib>
     <dict>
