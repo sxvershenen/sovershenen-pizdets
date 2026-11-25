@@ -22,6 +22,7 @@ from fontTools.ttLib.tables.TupleVariation import TupleVariation
 from fontTools.varLib.models import VariationModel
 from fontTools.ufoLib.kerning import lookupKerningValue
 from glyphsLib.filters.eraseOpenCorners import EraseOpenCornersFilter
+from crossbar import apply_crossbar
 from capitals import extend_u, quadratic_tail_span
 from identity import set_identity
 from u_controls import add_u_controls, u_deltas
@@ -673,6 +674,7 @@ def build(sources, output, tmp):
     )
     font = TTFont(intermediate)
     add_shape_controls(font, u_masters)
+    apply_crossbar(font)
     set_identity(font, "Sovershenen Pizdets v4 Lab")
     font.save(output)
 

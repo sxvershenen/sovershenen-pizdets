@@ -9,6 +9,7 @@ from urllib.parse import urlsplit
 from urllib.request import urlopen
 import webbrowser
 
+from a.export_font import export_font
 from optical import build_font, validated_points
 
 ROOT = Path(__file__).resolve().parent
@@ -50,7 +51,7 @@ class Handler(SimpleHTTPRequestHandler):
             super().do_GET()
 
     def do_POST(self):
-        if self.path != '/api/font':
+        if self.path not in ('/api/font', '/api/a-font'):
             return self.send_error(404)
         origin = self.headers.get('Origin')
         if origin and urlsplit(origin).netloc != self.headers.get('Host'):
@@ -60,6 +61,10 @@ class Handler(SimpleHTTPRequestHandler):
             if not 0 < size <= 4096:
                 raise ValueError('Некорректный размер профиля.')
             req = json.loads(self.rfile.read(size))
+            if self.path == '/api/a-font':
+                with BUILD_LOCK:
+                    data = export_font(req['height'], req['thickness'])
+                return self.binary(data, 'font/ttf')
             points = tuple(validated_points(req['points']))
             shape = tuple(sorted(req.get('shape', {}).items()))
             with BUILD_LOCK:

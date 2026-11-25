@@ -138,21 +138,6 @@ def tune_weight(font, thin):
                 p.y += (q.y - p.y) * amount
 
 
-def match_e_bar(glyph, thickness):
-    outer, counter = [contour.points for contour in glyph.contours]
-    floor = outer[21].y
-    roof = counter[8].y
-    change = (thickness - (roof - floor)) / 2
-    # Refit the two adjacent arcs about their horizontal extrema. Their
-    # vertical and horizontal tangents survive even in the narrow Black.
-    counter_top = counter[3].y
-    for pt in counter:
-        pt.y += change * (counter_top - pt.y) / (counter_top - roof)
-    lower_bend = outer[18].y
-    for pt in outer[19:24]:
-        pt.y -= change * (pt.y - lower_bend) / (floor - lower_bend)
-
-
 def ligature_e_counter(glyph, thickness):
     # These two UFOs have an overlapping diagonal segment at the foot of
     # the right counter. Keep its roof and square up the corner of the e.
@@ -250,6 +235,10 @@ def correct_glyph(glyph, scale, box, stems, bars, growth, reference_bar, referen
         # width difference so each letter retains a little of its rhythm.
         native_width = box.xMax - left
         span = round_gain + extension * 0.8 * (round_reference - native_width)
+    elif name == "s":
+        # Keep the narrower s/e proportion of the original 125% master.
+        # Whole shoulders move with their handles; the strokes aren't scaled.
+        span = round_gain * (box.xMax - left) / round_reference
     if name in ("x", "X", "Y") and scale == 1:
         return True
     if name == "te-cy":
@@ -367,12 +356,7 @@ def correct_glyph(glyph, scale, box, stems, bars, growth, reference_bar, referen
                 contour.points[2].y = contour.points[3].y = bars[lower]
     elif name in GROUPS:
         point_groups(glyph, GROUPS[name], span)
-        if name == "e":
-            # Blend the 3.17 waist into the extended E-based crossbar.
-            outer, counter = [c.points for c in glyph.contours]
-            native = counter[8].y - outer[21].y
-            match_e_bar(glyph, native + extension * (reference_bar - native))
-        elif name == "a":
+        if name == "a":
             outer, counter = [c.points for c in glyph.contours]
             # Thicken the thin waist on both sides while keeping the native
             # slant and a positive aperture above and below it in Black.

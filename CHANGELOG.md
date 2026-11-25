@@ -4,6 +4,7 @@ Updates may follow, no promises. / Обновления возможны, но �
 
 ## v4 — 2026-11-25
 
+- Build 4.001 refines lowercase a/а and e/е crossbars and the wide s. The a/а bowl blends into the upright above width 125. The crossbar study opens at the released 110% setting.
 - Extended the variable width range from 100–125 to 100–175. The weight range is 100–900.
 - Reworked extended Latin and Cyrillic strokes, counters and joins, including Z, K/К, Жж, У, м, Ю and X/Х. Retuned pair spacing for wide settings, including YA, AT and АТ.
 - Added optical-size tracking with linear interpolation through 8, 12, 24 and 48. The corresponding additions are 0.054, 0.038, 0.020 and 0 em.

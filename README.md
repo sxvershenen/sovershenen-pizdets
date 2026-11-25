@@ -1,8 +1,10 @@
 # Sovershenen Pizdets
 
-![Sovershenen Pizdets v4 at widths 107, 150 and 175](docs/specimen-v4.png)
+<img src="docs/previews/v4-square-01.png" alt="Sovershenen Pizdets v4. Образцы ширины 107, 140 и 175%" width="600">
 
-**Version 4.0** · SIL Open Font License 1.1
+[Оптический трекинг](docs/previews/v4-square-02.png) · [Строчные а, е и s](docs/previews/v4-square-03.png) · [Образец начертаний](docs/specimen-v4.png)
+
+**v4 · Build 4.001** · SIL Open Font License 1.1
 
 **RU.** Квадратный гротеск на базе [Saira](https://github.com/Omnibus-Type/Saira) (Héctor Gatti, Omnibus-Type), которая распространяется под свободной лицензией SIL Open Font License 1.1. Добавлена полная кириллица (RU, UA, BY), перерисованы буквы и цифры, пересобраны метрики, веса и кернинг. Подходит для интерфейсов, навигации и техники.
 
