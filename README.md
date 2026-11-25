@@ -1,10 +1,8 @@
 # Sovershenen Pizdets
 
-<img src="docs/previews/v4-square-01.png" alt="Sovershenen Pizdets v4. Образцы ширины 107, 140 и 175%" width="600">
-
-[Оптический трекинг](docs/previews/v4-square-02.png) · [Строчные а, е и s](docs/previews/v4-square-03.png) · [Образец начертаний](docs/specimen-v4.png)
-
 **v4 · Build 4.002** · SIL Open Font License 1.1
+
+[Скачать TTF для установки](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.ttf) · [Скачать WOFF2 для сайта](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.woff2) · [Описание релиза v4](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v4)
 
 **RU.** Квадратный гротеск на базе [Saira](https://github.com/Omnibus-Type/Saira) (Héctor Gatti, Omnibus-Type), которая распространяется под свободной лицензией SIL Open Font License 1.1. Добавлена полная кириллица (RU, UA, BY), перерисованы буквы и цифры, пересобраны метрики, веса и кернинг. Подходит для интерфейсов, навигации и техники.
 
@@ -12,19 +10,21 @@
 
 > Шрифт, возможно, будет обновляться, но это не обещание. / The font may get updates, but no promises.
 
-## v4
+## Установка / Installation
 
-[Скачать TTF / Desktop](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.ttf) · [Скачать WOFF2 / Web](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.woff2) · [Что изменилось](docs/v4.ru.md) · [Релиз 3.17](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v3.17)
+В меню шрифтов семейство называется **Sovershenen Pizdets**. При обновлении с 3.17 выберите замену установленного шрифта. / Install the variable TTF and replace the previous version when prompted.
 
-| Axis | Range | Назначение / Use |
+Для v4 используйте файлы с `V4` в имени. Остальные шрифты в [fonts](fonts/) относятся к [версии 3.17](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v3.17). / Files with `V4` in their names are the current release. The other files in this directory are from 3.17.
+
+## Оси v4 / Variable axes
+
+| Ось | Диапазон | Назначение / Use |
 |---|---|---|
 | `wght` | 100–900 | Насыщенность / weight |
-| `wdth` | 100–175 | Ширина / width |
-| `opsz` | 8–48 | Добавочный трекинг для мелкого текста / size-dependent tracking |
+| `wdth` | 100–175% | Ширина / width |
+| `opsz` | 8–48 | Трекинг для мелкого текста / size-dependent tracking |
 
-Именованные начертания и плейграунд стартуют на ширине 107%. В меню шрифт называется **Sovershenen Pizdets**. При обновлении с 3.17 замените предыдущую установку.
-
-Build 4.002 uses the original **Sovershenen Pizdets** family name and replaces 3.17 when installed as an update. Named instances use width 107. Optical size adds spacing for small text, from 0.054 em at size 8 down to zero at 48.
+Именованные начертания используют ширину 107%. При оптическом размере 8 трекинг раскрывается на 5,4% em, при 12 — на 3,8%, при 24 — на 2%, при 48 — на 0%. Между точками интервал меняется плавно.
 
 ```css
 @font-face {
@@ -39,40 +39,6 @@ Build 4.002 uses the original **Sovershenen Pizdets** family name and replaces 3
   font-optical-sizing: auto;
 }
 ```
-
-## Files / Файлы
-
-| Path | Contents |
-|---|---|
-| `fonts/variable/SovershenenPizdetsV4.ttf` | v4 desktop variable font |
-| `fonts/webfonts/SovershenenPizdetsV4.woff2` | v4 web variable font |
-| `playground/` | Local editor, reference overlays, glyph inspector and v4 build scripts |
-| `sources/` | Base UFO masters and designspace from 3.17 |
-| `fonts/otf/`, `fonts/ttf/` | Seven static styles from 3.17 |
-| `fonts/variable/`, `fonts/webfonts/` | Also retain the original 3.17 files |
-
-## Playground / Плейграунд
-
-```sh
-python3 -m venv .venv
-. .venv/bin/activate
-python -m pip install fonttools==4.68.0
-python playground/server.py --open
-```
-
-В плейграунде клавиша **V / М** вне поля ввода переключает образец между 3.17 и v4. Доступны раздельные полупрозрачные слои для оригинала, Roboto и Roboto Flex. Для MicroTechnic Extended Bold можно выбрать свой файл. [Инструкция](playground/README.md)
-
-## Build / Сборка v4
-
-From the repository root, in the same virtual environment:
-
-```sh
-python -m pip install fontmake==3.12.2 'fonttools[woff]==4.68.0'
-python playground/font/build.py sources playground/font/lab.ttf
-python playground/release.py
-```
-
-The build script creates the editable playground master. The release script pins the approved Жж and У forms, adds the tracking curve and writes the desktop and web fonts.
 
 ## License / Лицензия
 
