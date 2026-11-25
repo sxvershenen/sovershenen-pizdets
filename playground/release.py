@@ -21,7 +21,7 @@ def main():
         }
     profile = build_font(master, DEFAULT, shape)
     font = TTFont(BytesIO(profile), recalcTimestamp=False)
-    set_identity(font, "Sovershenen Pizdets v4")
+    set_identity(font, "Sovershenen Pizdets", version="4.002")
     # Only the three public axes are selectable in the installed release.
     buildStatTable(font, [
         {"tag": axis.axisTag, "name": axis.axisNameID}

@@ -2,15 +2,15 @@
 
 
 
-def set_identity(font, family):
+def set_identity(font, family, version="4.001"):
     prefix = family.replace(" ", "")
     postscript = prefix + "-Thin"
     names = font["name"]
     values = {
         1: family + " Thin",
-        3: "4.001;NONE;" + postscript,
+        3: f"{version};NONE;{postscript}",
         4: family + " Thin",
-        5: "Version 4.001",
+        5: f"Version {version}",
         6: postscript,
         16: family,
         25: prefix,
@@ -19,4 +19,4 @@ def set_identity(font, family):
     for platform in platforms:
         for name_id, value in values.items():
             names.setName(value, name_id, *platform)
-    font["head"].fontRevision = 4.001
+    font["head"].fontRevision = float(version)

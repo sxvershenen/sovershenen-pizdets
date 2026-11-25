@@ -4,7 +4,7 @@
 
 [Оптический трекинг](docs/previews/v4-square-02.png) · [Строчные а, е и s](docs/previews/v4-square-03.png) · [Образец начертаний](docs/specimen-v4.png)
 
-**v4 · Build 4.001** · SIL Open Font License 1.1
+**v4 · Build 4.002** · SIL Open Font License 1.1
 
 **RU.** Квадратный гротеск на базе [Saira](https://github.com/Omnibus-Type/Saira) (Héctor Gatti, Omnibus-Type), которая распространяется под свободной лицензией SIL Open Font License 1.1. Добавлена полная кириллица (RU, UA, BY), перерисованы буквы и цифры, пересобраны метрики, веса и кернинг. Подходит для интерфейсов, навигации и техники.
 
@@ -22,19 +22,19 @@
 | `wdth` | 100–175 | Ширина / width |
 | `opsz` | 8–48 | Добавочный трекинг для мелкого текста / size-dependent tracking |
 
-Именованные начертания и плейграунд стартуют на ширине 107%. Семейство v4 устанавливается рядом с оригиналом 3.17.
+Именованные начертания и плейграунд стартуют на ширине 107%. В меню шрифт называется **Sovershenen Pizdets**. При обновлении с 3.17 замените предыдущую установку.
 
-The v4 family installs alongside the original. Named instances use width 107. Optical size adds spacing for small text, from 0.054 em at size 8 down to zero at 48.
+Build 4.002 uses the original **Sovershenen Pizdets** family name and replaces 3.17 when installed as an update. Named instances use width 107. Optical size adds spacing for small text, from 0.054 em at size 8 down to zero at 48.
 
 ```css
 @font-face {
-  font-family: "Sovershenen Pizdets v4";
+  font-family: "Sovershenen Pizdets";
   src: url("fonts/webfonts/SovershenenPizdetsV4.woff2") format("woff2");
   font-weight: 100 900;
   font-stretch: 100% 175%;
 }
 .text {
-  font-family: "Sovershenen Pizdets v4", sans-serif;
+  font-family: "Sovershenen Pizdets", sans-serif;
   font-stretch: 107%;
   font-optical-sizing: auto;
 }
