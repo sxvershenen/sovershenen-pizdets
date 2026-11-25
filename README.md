@@ -2,7 +2,7 @@
 
 **v4 · Build 4.002** · SIL Open Font License 1.1
 
-[Скачать TTF для установки](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.ttf) · [Скачать WOFF2 для сайта](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.woff2) · [Описание релиза v4](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v4)
+[Скачать TTF для установки](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.ttf) · [Скачать WOFF2 для сайта](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4.woff2) · [Скачать статические OTF, TTF и WOFF2](https://github.com/sxvershenen/sovershenen-pizdets/releases/download/v4/SovershenenPizdetsV4-Static.zip) · [Описание релиза v4](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v4)
 
 **RU.** Квадратный гротеск на базе [Saira](https://github.com/Omnibus-Type/Saira) (Héctor Gatti, Omnibus-Type), которая распространяется под свободной лицензией SIL Open Font License 1.1. Добавлена полная кириллица (RU, UA, BY), перерисованы буквы и цифры, пересобраны метрики, веса и кернинг. Подходит для интерфейсов, навигации и техники.
 
@@ -14,7 +14,16 @@
 
 В меню шрифтов семейство называется **Sovershenen Pizdets**. При обновлении с 3.17 выберите замену установленного шрифта. / Install the variable TTF and replace the previous version when prompted.
 
-Для v4 используйте файлы с `V4` в имени. Остальные шрифты в [fonts](fonts/) относятся к [версии 3.17](https://github.com/sxvershenen/sovershenen-pizdets/releases/tag/v3.17). / Files with `V4` in their names are the current release. The other files in this directory are from 3.17.
+[v4 · сборка 4.002](fonts/v4/) · [3.17 · архив](fonts/v3.17/)
+
+| Версия | Вариативный TTF | Статические OTF | Статические TTF | WOFF2 для сайта |
+|---|---|---|---|---|
+| v4 | [Variable](fonts/v4/variable/) | [OTF](fonts/v4/otf/) | [TTF](fonts/v4/ttf/) | [Webfonts](fonts/v4/webfonts/) |
+| 3.17 | [Variable](fonts/v3.17/variable/) | [OTF](fonts/v3.17/otf/) | [TTF](fonts/v3.17/ttf/) | [Webfonts](fonts/v3.17/webfonts/) |
+
+Статические начертания v4 собраны из вариативного шрифта при ширине 107% и оптическом размере 16. Доступны Thin (100), Light (300), Regular (400), Medium (500), Bold (700), Heavy (800) и Black (900). Для настройки ширины до 175% и автоматического трекинга используйте вариативный файл.
+
+Each version has its own folder. The seven v4 static styles use the named instances at width 107 and optical size 16. Choose one desktop format for installation: variable TTF, static TTF or static OTF.
 
 ## Оси v4 / Variable axes
 
@@ -29,7 +38,7 @@
 ```css
 @font-face {
   font-family: "Sovershenen Pizdets";
-  src: url("fonts/webfonts/SovershenenPizdetsV4.woff2") format("woff2");
+  src: url("fonts/v4/webfonts/SovershenenPizdetsV4.woff2") format("woff2");
   font-weight: 100 900;
   font-stretch: 100% 175%;
 }
